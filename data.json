@@ -3,27 +3,4983 @@
         {
             "word": "aberrant",
             "translation": "규범에서 벗어난, 비정상적인",
-            "sentence": "His aberrant behavior raised concerns among his colleagues."
+            "sentence": "His aberrant behavior surprised everyone at the party."
         },
         {
-            "word": "phrase",
-            "translation": "구절, 표현",
-            "sentence": "Can you explain the meaning of this phrase?"
+            "word": "abjure",
+            "translation": "맹세코 포기하다, 버리다",
+            "sentence": "She decided to abjure her old habits for a healthier lifestyle."
         },
         {
-            "word": "describe",
-            "translation": "묘사하다",
-            "sentence": "Can you describe the scene in detail?"
+            "word": "abrogate",
+            "translation": "취소하다, 폐지하다",
+            "sentence": "The government chose to abrogate the outdated law."
         },
         {
-            "word": "clam",
-            "translation": "조개",
-            "sentence": "We found many clams on the beach."
+            "word": "abscond",
+            "translation": "달아나다, 잠적하다",
+            "sentence": "The thief absconded with the stolen jewels in the night."
         },
         {
-            "word": "in good order",
-            "translation": "완벽한 순서로",
-            "sentence": "Everything was in good order before the event started."
+            "word": "abstemious",
+            "translation": "절제하는, 검소한",
+            "sentence": "He led an abstemious life, avoiding excess in food and drink."
+        },
+        {
+            "word": "abstract",
+            "translation": "추상적인, 요약된",
+            "sentence": "The artist’s abstract painting left room for interpretation."
+        },
+        {
+            "word": "abstruse",
+            "translation": "난해한, 이해하기 힘든",
+            "sentence": "The professor’s abstruse lecture confused most of the students."
+        },
+        {
+            "word": "accede",
+            "translation": "동의하다, 따르다",
+            "sentence": "She reluctantly acceded to her boss’s demands."
+        },
+        {
+            "word": "acclaim",
+            "translation": "칭찬하다, 갈채하다",
+            "sentence": "The audience acclaimed the performer with a standing ovation."
+        },
+        {
+            "word": "accolade",
+            "translation": "칭찬, 칭호",
+            "sentence": "Winning the award was the highest accolade of her career."
+        },
+        {
+            "word": "accretion",
+            "translation": "증가, 누적",
+            "sentence": "The accretion of wealth took years of hard work."
+        },
+        {
+            "word": "acerbic",
+            "translation": "신랄한, 쓴맛이 나는",
+            "sentence": "His acerbic comments offended many at the meeting."
+        },
+        {
+            "word": "acquiesce",
+            "translation": "동의하다, 묵인하다",
+            "sentence": "She acquiesced to the plan despite her reservations."
+        },
+        {
+            "word": "acrimony",
+            "translation": "신랄함, 격렬함",
+            "sentence": "The debate was filled with acrimony between the two rivals."
+        },
+        {
+            "word": "adage",
+            "translation": "속담, 격언",
+            "sentence": "The old adage ‘time heals all wounds’ proved true for her."
+        },
+        {
+            "word": "adamant",
+            "translation": "단호한, 완고한",
+            "sentence": "He was adamant about finishing the project on time."
+        },
+        {
+            "word": "adaptable",
+            "translation": "순응하는, 적응할 수 있는",
+            "sentence": "Her adaptable nature helped her thrive in new environments."
+        },
+        {
+            "word": "addendum",
+            "translation": "추가, 부록",
+            "sentence": "The book included an addendum with updated information."
+        },
+        {
+            "word": "adept",
+            "translation": "능숙한, 숙련된",
+            "sentence": "She was adept at solving complex problems quickly."
+        },
+        {
+            "word": "adhere",
+            "translation": "고수하다, 달라붙다",
+            "sentence": "He chose to adhere to the rules despite the pressure."
+        },
+        {
+            "word": "admonish",
+            "translation": "경고하다, 타이르다",
+            "sentence": "The teacher admonished the students for being late."
+        },
+        {
+            "word": "adroit",
+            "translation": "손재주가 있는, 능숙한",
+            "sentence": "The chef was adroit at preparing delicate dishes."
+        },
+        {
+            "word": "adulation",
+            "translation": "아첨, 지나친 칭찬",
+            "sentence": "The celebrity grew tired of the constant adulation from fans."
+        },
+        {
+            "word": "adulterate",
+            "translation": "불순물을 섞다, 더럽히다",
+            "sentence": "The merchant was caught trying to adulterate the wine."
+        },
+        {
+            "word": "adumbrate",
+            "translation": "약식으로 나타내다, 암시하다",
+            "sentence": "The report adumbrated the challenges ahead without details."
+        },
+        {
+            "word": "adventitious",
+            "translation": "우연한, 우발적인",
+            "sentence": "The adventitious meeting led to an unexpected friendship."
+        },
+        {
+            "word": "advocate",
+            "translation": "지지자, 변호하다",
+            "sentence": "She advocated for better working conditions tirelessly."
+        },
+        {
+            "word": "aesthetic",
+            "translation": "미적인, 심미적인",
+            "sentence": "The room was decorated with an aesthetic appeal in mind."
+        },
+        {
+            "word": "affable",
+            "translation": "상냥한, 붙임성 있는",
+            "sentence": "His affable demeanor made him popular among peers."
+        },
+        {
+            "word": "affected",
+            "translation": "인위적인, 거짓된",
+            "sentence": "Her affected politeness didn’t fool anyone."
+        },
+        {
+            "word": "aggregate",
+            "translation": "총계, 집합체",
+            "sentence": "The aggregate score determined the winner of the match."
+        },
+        {
+            "word": "alacrity",
+            "translation": "기민함, 열의",
+            "sentence": "She accepted the challenge with surprising alacrity."
+        },
+        {
+            "word": "alias",
+            "translation": "가명, 별명",
+            "sentence": "The spy operated under an alias to protect her identity."
+        },
+        {
+            "word": "allay",
+            "translation": "가라앉히다, 완화시키다",
+            "sentence": "His kind words helped allay her fears."
+        },
+        {
+            "word": "alleviate",
+            "translation": "경감시키다, 완화시키다",
+            "sentence": "The medicine was used to alleviate her pain."
+        },
+        {
+            "word": "allocate",
+            "translation": "할당하다, 배정하다",
+            "sentence": "They allocated funds to improve the school’s facilities."
+        },
+        {
+            "word": "aloof",
+            "translation": "냉담한, 무관심한",
+            "sentence": "He remained aloof during the heated discussion."
+        },
+        {
+            "word": "altercation",
+            "translation": "언쟁, 말다툼",
+            "sentence": "The altercation between the neighbors woke everyone up."
+        },
+        {
+            "word": "ambiguous",
+            "translation": "모호한, 두 가지 이상의 뜻이 있는",
+            "sentence": "His ambiguous response left us unsure of his intentions."
+        },
+        {
+            "word": "ambivalent",
+            "translation": "양가감정을 느끼는, 상반된 감정을 가진",
+            "sentence": "She felt ambivalent about moving to a new city."
+        },
+        {
+            "word": "ameliorate",
+            "translation": "개선하다, 향상시키다",
+            "sentence": "They worked to ameliorate the living conditions in the area."
+        },
+        {
+            "word": "amenable",
+            "translation": "순응하는, 따르기 쉬운",
+            "sentence": "He was amenable to suggestions from his team."
+        },
+        {
+            "word": "amenity",
+            "translation": "편의시설, 쾌적함",
+            "sentence": "The hotel offered every amenity for a comfortable stay."
+        },
+        {
+            "word": "amiable",
+            "translation": "사근사근한, 상냥한",
+            "sentence": "Her amiable personality won over everyone she met."
+        },
+        {
+            "word": "amicable",
+            "translation": "친밀한, 우호적인",
+            "sentence": "The two countries reached an amicable agreement."
+        },
+        {
+            "word": "amnesty",
+            "translation": "사면, 특사",
+            "sentence": "The president granted amnesty to political prisoners."
+        },
+        {
+            "word": "anachronistic",
+            "translation": "시대착오적인, 시대에 뒤떨어진",
+            "sentence": "Using a typewriter today feels anachronistic."
+        },
+        {
+            "word": "analgesic",
+            "translation": "진통제, 진통의",
+            "sentence": "The doctor prescribed an analgesic for her headache."
+        },
+        {
+            "word": "analogous",
+            "translation": "유사한, 비견할 만한",
+            "sentence": "His situation is analogous to what I experienced last year."
+        },
+        {
+            "word": "anarchy",
+            "translation": "무정부 상태, 혼란",
+            "sentence": "The city descended into anarchy after the uprising."
+        },
+        {
+            "word": "anecdote",
+            "translation": "일화, 에피소드",
+            "sentence": "He shared a funny anecdote from his childhood."
+        },
+        {
+            "word": "animosity",
+            "translation": "적의, 증오",
+            "sentence": "There was clear animosity between the two competitors."
+        },
+        {
+            "word": "anomaly",
+            "translation": "변칙, 이상 현상",
+            "sentence": "The warm weather in winter was an anomaly."
+        },
+        {
+            "word": "antagonize",
+            "translation": "적대시하다, 대립시키다",
+            "sentence": "His rude remarks only served to antagonize his friends."
+        },
+        {
+            "word": "antecedent",
+            "translation": "선행자, 선례",
+            "sentence": "The event had no antecedent in recorded history."
+        },
+        {
+            "word": "anthology",
+            "translation": "선집, 시집",
+            "sentence": "She published an anthology of her best poems."
+        },
+        {
+            "word": "antipathy",
+            "translation": "혐오, 반감",
+            "sentence": "He felt a strong antipathy toward dishonest people."
+        },
+        {
+            "word": "antiquated",
+            "translation": "낡은, 시대에 뒤떨어진",
+            "sentence": "The antiquated machinery was replaced with modern equipment."
+        },
+        {
+            "word": "antiseptic",
+            "translation": "소독약, 소독의",
+            "sentence": "She applied an antiseptic to the wound to prevent infection."
+        },
+        {
+            "word": "apathetic",
+            "translation": "무관심한, 무감동한",
+            "sentence": "The crowd was apathetic during the boring speech."
+        },
+        {
+            "word": "apocryphal",
+            "translation": "의심스러운, 미확인된",
+            "sentence": "The story about the ghost was likely apocryphal."
+        },
+        {
+            "word": "apogee",
+            "translation": "최고점, 절정",
+            "sentence": "Her career reached its apogee with that promotion."
+        },
+        {
+            "word": "apostate",
+            "translation": "배교자, 변절자",
+            "sentence": "He was labeled an apostate after abandoning his faith."
+        },
+        {
+            "word": "apothegm",
+            "translation": "격언, 금언",
+            "sentence": "The wise man shared an apothegm about patience."
+        },
+        {
+            "word": "apotheosis",
+            "translation": "신격화, 정점",
+            "sentence": "The concert was the apotheosis of her musical journey."
+        },
+        {
+            "word": "appease",
+            "translation": "달래다, 진정시키다",
+            "sentence": "He tried to appease her with a sincere apology."
+        },
+        {
+            "word": "apposite",
+            "translation": "적절한, 알맞은",
+            "sentence": "Her comment was apposite to the situation at hand."
+        },
+        {
+            "word": "appraise",
+            "translation": "평가하다, 감정하다",
+            "sentence": "The expert was hired to appraise the value of the painting."
+        },
+        {
+            "word": "appreciate",
+            "translation": "고맙게 여기다, 이해하다",
+            "sentence": "I appreciate your help more than words can express."
+        },
+        {
+            "word": "apprehend",
+            "translation": "체포하다, 이해하다",
+            "sentence": "The police moved quickly to apprehend the suspect."
+        },
+        {
+            "word": "approbation",
+            "translation": "승인, 찬성",
+            "sentence": "The proposal received widespread approbation from the team."
+        },
+        {
+            "word": "appropriate",
+            "translation": "적절한, 알맞은",
+            "sentence": "Her outfit was appropriate for the formal event."
+        },
+        {
+            "word": "aquiline",
+            "translation": "독수리 부리 같은, 매부리코의",
+            "sentence": "His aquiline nose gave him a distinguished look."
+        },
+        {
+            "word": "arbiter",
+            "translation": "중재자, 심판자",
+            "sentence": "She acted as the arbiter in the dispute between friends."
+        },
+        {
+            "word": "arbitrary",
+            "translation": "임의적인, 제멋대로의",
+            "sentence": "The decision seemed arbitrary and lacked clear reasoning."
+        },
+        {
+            "word": "arcane",
+            "translation": "신비로운, 난해한",
+            "sentence": "The book was filled with arcane symbols and texts."
+        },
+        {
+            "word": "archaic",
+            "translation": "낡은, 고풍스러운",
+            "sentence": "The archaic language made the text hard to read."
+        },
+        {
+            "word": "ardent",
+            "translation": "열렬한, 열정적인",
+            "sentence": "She was an ardent supporter of environmental causes."
+        },
+        {
+            "word": "arduous",
+            "translation": "고된, 어려운",
+            "sentence": "The arduous journey left them exhausted but fulfilled."
+        },
+        {
+            "word": "arid",
+            "translation": "메마른, 건조한",
+            "sentence": "The arid desert stretched endlessly before them."
+        },
+        {
+            "word": "arrogate",
+            "translation": "횡포하게 요구하다, 강탈하다",
+            "sentence": "He arrogated power that wasn’t rightfully his."
+        },
+        {
+            "word": "articulate",
+            "translation": "잘 말하는, 분명한",
+            "sentence": "She was articulate in expressing her opinions."
+        },
+        {
+            "word": "ascetic",
+            "translation": "금욕적인, 고행의",
+            "sentence": "The monk lived an ascetic life in the mountains."
+        },
+        {
+            "word": "asperity",
+            "translation": "거칠음, 신랄함",
+            "sentence": "His voice carried an asperity that startled the room."
+        },
+        {
+            "word": "aspersion",
+            "translation": "비난, 험담",
+            "sentence": "She cast aspersions on his character without evidence."
+        },
+        {
+            "word": "assail",
+            "translation": "공격하다, 몰아치다",
+            "sentence": "The storm assailed the coast with fierce winds."
+        },
+        {
+            "word": "assiduous",
+            "translation": "근면한, 부지런한",
+            "sentence": "Her assiduous efforts paid off with a promotion."
+        },
+        {
+            "word": "assimilate",
+            "translation": "동화시키다, 흡수하다",
+            "sentence": "He worked hard to assimilate into the new culture."
+        },
+        {
+            "word": "assuage",
+            "translation": "달래다, 완화시키다",
+            "sentence": "A warm drink helped assuage her cold symptoms."
+        },
+        {
+            "word": "astringent",
+            "translation": "수렴성의, 신랄한",
+            "sentence": "His astringent critique left no room for excuses."
+        },
+        {
+            "word": "astute",
+            "translation": "영리한, 날카로운",
+            "sentence": "Her astute observation solved the mystery."
+        },
+        {
+            "word": "asylum",
+            "translation": "피난처, 보호소",
+            "sentence": "The refugees sought asylum in a neighboring country."
+        },
+        {
+            "word": "atrocity",
+            "translation": "잔혹성, 흉악한 행위",
+            "sentence": "The war was marked by countless atrocities."
+        },
+        {
+            "word": "attenuate",
+            "translation": "약화시키다, 줄이다",
+            "sentence": "The medicine helped attenuate the fever’s intensity."
+        },
+        {
+            "word": "audacious",
+            "translation": "대담한, 뻔뻔스러운",
+            "sentence": "His audacious plan shocked even his closest allies."
+        },
+        {
+            "word": "augment",
+            "translation": "증가시키다, 늘리다",
+            "sentence": "They augmented their income with a side business."
+        },
+        {
+            "word": "auspicious",
+            "translation": "상서로운, 길조의",
+            "sentence": "The sunny day was an auspicious start to the festival."
+        },
+        {
+            "word": "austere",
+            "translation": "검소한, 엄격한",
+            "sentence": "The room’s austere design reflected his simple tastes."
+        },
+        {
+            "word": "authentic",
+            "translation": "진짜의, 확실한",
+            "sentence": "The museum displayed an authentic ancient artifact."
+        },
+        {
+            "word": "autonomous",
+            "translation": "자율적인, 독립적인",
+            "sentence": "The region became autonomous after years of negotiation."
+        },
+        {
+            "word": "avarice",
+            "translation": "탐욕, 욕심",
+            "sentence": "His avarice drove him to betray his closest friends."
+        },
+        {
+            "word": "aver",
+            "translation": "주장하다, 단언하다",
+            "sentence": "She averred that she had seen the incident herself."
+        },
+        {
+            "word": "averse",
+            "translation": "반대하는, 꺼리는",
+            "sentence": "He was averse to taking risks in his career."
+        },
+        {
+            "word": "aversion",
+            "translation": "혐오, 싫어함",
+            "sentence": "She had a strong aversion to loud noises."
+        },
+        {
+            "word": "avid",
+            "translation": "열렬한, 갈망하는",
+            "sentence": "He was an avid reader of science fiction novels."
+        },
+        {
+            "word": "avocation",
+            "translation": "부업, 취미",
+            "sentence": "Painting became his favorite avocation after work."
+        },
+        {
+            "word": "awry",
+            "translation": "비뚤어진, 잘못된",
+            "sentence": "The plan went awry due to unexpected delays."
+        },
+        {
+            "word": "axiomatic",
+            "translation": "명백한, 자명한",
+            "sentence": "It is axiomatic that hard work leads to success."
+        },
+        {
+            "word": "bacchanalian",
+            "translation": "방탕한, 술 마시고 떠드는",
+            "sentence": "The party turned into a bacchanalian celebration by midnight."
+        },
+        {
+            "word": "balk",
+            "translation": "망설이다, 머뭇거리다",
+            "sentence": "She balked at the idea of speaking in public."
+        },
+        {
+            "word": "banal",
+            "translation": "진부한, 평범한",
+            "sentence": "The movie’s plot was banal and predictable."
+        },
+        {
+            "word": "bane",
+            "translation": "파멸, 독",
+            "sentence": "Procrastination was the bane of his academic success."
+        },
+        {
+            "word": "barbarous",
+            "translation": "야만적인, 잔인한",
+            "sentence": "The barbarous treatment of prisoners shocked the world."
+        },
+        {
+            "word": "bard",
+            "translation": "시인, 음유시인",
+            "sentence": "The bard recited tales of ancient heroes."
+        },
+        {
+            "word": "barrage",
+            "translation": "포격, 집중 공격",
+            "sentence": "The team faced a barrage of criticism after the loss."
+        },
+        {
+            "word": "bastion",
+            "translation": "요새, 방어선",
+            "sentence": "The castle stood as a bastion against invaders."
+        },
+        {
+            "word": "beatific",
+            "translation": "기뻐하는, 행복한",
+            "sentence": "Her beatific smile lit up the room."
+        },
+        {
+            "word": "bedlam",
+            "translation": "혼란, 난장판",
+            "sentence": "The classroom turned into bedlam when the teacher left."
+        },
+        {
+            "word": "befuddle",
+            "translation": "혼란스럽게 하다, 어리둥절하게 하다",
+            "sentence": "The complex instructions befuddled the new students."
+        },
+        {
+            "word": "beguile",
+            "translation": "속이다, 현혹시키다",
+            "sentence": "The magician beguiled the audience with his tricks."
+        },
+        {
+            "word": "belabor",
+            "translation": "지나치게 논의하다, 질책하다",
+            "sentence": "He belabored the point until everyone was bored."
+        },
+        {
+            "word": "belated",
+            "translation": "늦은, 때늦은",
+            "sentence": "She sent a belated birthday card with an apology."
+        },
+        {
+            "word": "belittle",
+            "translation": "깎아내리다, 과소평가하다",
+            "sentence": "He tried to belittle her achievements out of jealousy."
+        },
+        {
+            "word": "bellicose",
+            "translation": "호전적인, 싸움을 좋아하는",
+            "sentence": "His bellicose attitude made negotiations difficult."
+        },
+        {
+            "word": "belligerent",
+            "translation": "전쟁을 선포한, 호전적인",
+            "sentence": "The belligerent nations refused to back down."
+        },
+        {
+            "word": "bemoan",
+            "translation": "탄식하다, 한탄하다",
+            "sentence": "She bemoaned the loss of her favorite necklace."
+        },
+        {
+            "word": "bemused",
+            "translation": "놀라서 어리둥절한, 멍한",
+            "sentence": "He looked bemused by the strange turn of events."
+        },
+        {
+            "word": "benediction",
+            "translation": "축복, 축사",
+            "sentence": "The priest offered a benediction at the ceremony’s end."
+        },
+        {
+            "word": "beneficent",
+            "translation": "선의로운, 자비로운",
+            "sentence": "Her beneficent actions helped the community thrive."
+        },
+        {
+            "word": "beneficial",
+            "translation": "유익한, 이익이 되는",
+            "sentence": "Exercise is beneficial to both body and mind."
+        },
+        {
+            "word": "benevolent",
+            "translation": "자비로운, 선한",
+            "sentence": "The benevolent king pardoned the repentant thief."
+        },
+        {
+            "word": "benign",
+            "translation": "온화한, 양호한",
+            "sentence": "The tumor was found to be benign, much to her relief."
+        },
+        {
+            "word": "bequeath",
+            "translation": "물려주다, 유산으로 주다",
+            "sentence": "She bequeathed her estate to her grandchildren."
+        },
+        {
+            "word": "berate",
+            "translation": "탓하다, 꾸짖다",
+            "sentence": "The coach berated the team for their poor performance."
+        },
+        {
+            "word": "bereft",
+            "translation": "잃은, 박탈당한",
+            "sentence": "He was bereft of hope after the tragedy."
+        },
+        {
+            "word": "beset",
+            "translation": "둘러싸다, 에워싸다",
+            "sentence": "The village was beset by floods every spring."
+        },
+        {
+            "word": "besmirch",
+            "translation": "흠집을 내다, 더럽히다",
+            "sentence": "The scandal besmirched his once-spotless reputation."
+        },
+        {
+            "word": "bestial",
+            "translation": "짐승 같은, 야만적인",
+            "sentence": "The bestial cruelty of the act horrified everyone."
+        },
+        {
+            "word": "bestow",
+            "translation": "주다, 하사하다",
+            "sentence": "The king bestowed a title upon the brave knight."
+        },
+        {
+            "word": "betray",
+            "translation": "배신하다, 드러내다",
+            "sentence": "He betrayed his friend’s trust for personal gain."
+        },
+        {
+            "word": "bevy",
+            "translation": "떼, 무리",
+            "sentence": "A bevy of birds flew across the evening sky."
+        },
+        {
+            "word": "biased",
+            "translation": "편향된, 치우친",
+            "sentence": "The judge’s biased ruling sparked outrage."
+        },
+        {
+            "word": "bicker",
+            "translation": "서로 다투다, 트집을 잡다",
+            "sentence": "The siblings bickered over who got the bigger slice."
+        },
+        {
+            "word": "biennial",
+            "translation": "2년마다의, 2년생의",
+            "sentence": "The biennial festival attracts visitors from afar."
+        },
+        {
+            "word": "bigot",
+            "translation": "편견을 가진 사람, 편협한 사람",
+            "sentence": "He was a bigot who refused to listen to other views."
+        },
+        {
+            "word": "bigoted",
+            "translation": "편견이 있는, 편협한",
+            "sentence": "Her bigoted remarks offended many at the gathering."
+        },
+        {
+            "word": "bigotry",
+            "translation": "편견, 편협성",
+            "sentence": "Bigotry has no place in a fair society."
+        },
+        {
+            "word": "bilateral",
+            "translation": "양측의, 쌍무적인",
+            "sentence": "The bilateral agreement benefited both countries."
+        },
+        {
+            "word": "bilk",
+            "translation": "사취하다, 속이다",
+            "sentence": "The con artist bilked investors out of millions."
+        },
+        {
+            "word": "blandish",
+            "translation": "부드럽게 달래다, 알랑거리다",
+            "sentence": "He blandished her with compliments to win her favor."
+        },
+        {
+            "word": "blasphemy",
+            "translation": "신성 모독, 불경",
+            "sentence": "His words were considered blasphemy by the devout."
+        },
+        {
+            "word": "blatant",
+            "translation": "노골적인, 명백한",
+            "sentence": "The blatant lie was obvious to everyone in the room."
+        },
+        {
+            "word": "blazon",
+            "translation": "선전하다, 과시하다",
+            "sentence": "The company blazoned its success with a grand event."
+        },
+        {
+            "word": "blemish",
+            "translation": "결점, 오점",
+            "sentence": "The scratch was a blemish on the otherwise perfect car."
+        },
+        {
+            "word": "blight",
+            "translation": "병충해, 파괴",
+            "sentence": "The drought was a blight on the region’s crops."
+        },
+        {
+            "word": "blithe",
+            "translation": "명랑한, 쾌활한",
+            "sentence": "She greeted everyone with a blithe wave and smile."
+        },
+        {
+            "word": "boisterous",
+            "translation": "떠들썩한, 시끄러운",
+            "sentence": "The boisterous crowd cheered loudly at the game."
+        },
+        {
+            "word": "bolster",
+            "translation": "떠받치다, 강화하다",
+            "sentence": "Extra evidence helped bolster their argument."
+        },
+        {
+            "word": "bombastic",
+            "translation": "호언장담하는, 과장된",
+            "sentence": "His bombastic speech failed to impress the audience."
+        },
+        {
+            "word": "boon",
+            "translation": "은혜, 호의",
+            "sentence": "The rain was a boon to the drought-stricken farmers."
+        },
+        {
+            "word": "bountiful",
+            "translation": "풍부한, 관대한",
+            "sentence": "The harvest was bountiful after months of care."
+        },
+        {
+            "word": "bovine",
+            "translation": "소의, 소 같은",
+            "sentence": "His bovine stare suggested he didn’t understand."
+        },
+        {
+            "word": "brazen",
+            "translation": "뻔뻔스러운, 뻔뻔하게 행동하는",
+            "sentence": "Her brazen attitude shocked the polite guests."
+        },
+        {
+            "word": "brevity",
+            "translation": "짧음, 간결함",
+            "sentence": "The brevity of his speech was appreciated by all."
+        },
+        {
+            "word": "brigand",
+            "translation": "산적, 도둑",
+            "sentence": "The brigand ambushed travelers on the lonely road."
+        },
+        {
+            "word": "brink",
+            "translation": "가장자리, 임계점",
+            "sentence": "They stood on the brink of a major discovery."
+        },
+        {
+            "word": "brisk",
+            "translation": "활기찬, 활발한",
+            "sentence": "She took a brisk walk to clear her mind."
+        },
+        {
+            "word": "bristle",
+            "translation": "빗, 빗살",
+            "sentence": "The brush’s bristles were worn from heavy use."
+        },
+        {
+            "word": "broach",
+            "translation": "시작하다, 개시하다",
+            "sentence": "He broached the topic of a raise during the meeting."
+        },
+        {
+            "word": "brook",
+            "translation": "개울, 시내",
+            "sentence": "The brook flowed gently through the forest."
+        },
+        {
+            "word": "bucolic",
+            "translation": "전원의, 목가적인",
+            "sentence": "The bucolic scenery inspired her to write poetry."
+        },
+        {
+            "word": "buffoon",
+            "translation": "어릿광대, 바보",
+            "sentence": "He played the buffoon to make the children laugh."
+        },
+        {
+            "word": "bulwark",
+            "translation": "방어벽, 보호장치",
+            "sentence": "Education is a bulwark against ignorance."
+        },
+        {
+            "word": "cacophony",
+            "translation": "불협화음, 시끄러운 소음",
+            "sentence": "The cacophony of car horns filled the busy street."
+        },
+        {
+            "word": "candid",
+            "translation": "솔직한, 공정한",
+            "sentence": "She gave a candid opinion about the proposal."
+        },
+        {
+            "word": "candor",
+            "translation": "솔직함, 정직함",
+            "sentence": "His candor earned him the trust of his peers."
+        },
+        {
+            "word": "capacious",
+            "translation": "넓은, 대용량의",
+            "sentence": "The capacious hall accommodated hundreds of guests."
+        },
+        {
+            "word": "capitulate",
+            "translation": "항복하다, 굴복하다",
+            "sentence": "The army was forced to capitulate after a long siege."
+        },
+        {
+            "word": "capricious",
+            "translation": "변덕스러운, 제멋대로인",
+            "sentence": "Her capricious moods made her hard to predict."
+        },
+        {
+            "word": "cardinal",
+            "translation": "중대한, 주요한",
+            "sentence": "Honesty is a cardinal virtue in any relationship."
+        },
+        {
+            "word": "caricature",
+            "translation": "만화화, 과장된 묘사",
+            "sentence": "The artist drew a caricature of the politician."
+        },
+        {
+            "word": "carnage",
+            "translation": "대학살, 살육",
+            "sentence": "The battle left a scene of carnage behind."
+        },
+        {
+            "word": "carnal",
+            "translation": "육체의, 물질적인",
+            "sentence": "He was driven by carnal desires rather than love."
+        },
+        {
+            "word": "castigate",
+            "translation": "비난하다, 질책하다",
+            "sentence": "The teacher castigated the student for cheating."
+        },
+        {
+            "word": "catalyst",
+            "translation": "촉매, 자극제",
+            "sentence": "Her speech was a catalyst for change in the community."
+        },
+        {
+            "word": "caustic",
+            "translation": "부식성의, 신랄한",
+            "sentence": "His caustic remarks stung everyone in the room."
+        },
+        {
+            "word": "cavalier",
+            "translation": "무관심한, 거만한",
+            "sentence": "His cavalier attitude toward rules got him in trouble."
+        },
+        {
+            "word": "celerity",
+            "translation": "신속함, 기민함",
+            "sentence": "The team acted with celerity to resolve the crisis."
+        },
+        {
+            "word": "chagrin",
+            "translation": "실망, 분함",
+            "sentence": "To her chagrin, she missed the winning shot."
+        },
+        {
+            "word": "charlatan",
+            "translation": "사기꾼, 가짜 전문가",
+            "sentence": "The charlatan sold fake medicine to desperate people."
+        },
+        {
+            "word": "chicanery",
+            "translation": "속임수, 책략",
+            "sentence": "He used chicanery to win the election unfairly."
+        },
+        {
+            "word": "churlish",
+            "translation": "무례한, 거친",
+            "sentence": "His churlish behavior ruined the pleasant evening."
+        },
+        {
+            "word": "circuitous",
+            "translation": "우회적인, 에두르는",
+            "sentence": "They took a circuitous route to avoid traffic."
+        },
+        {
+            "word": "circumlocution",
+            "translation": "에두르는 말, 장황한 표현",
+            "sentence": "His circumlocution made the explanation hard to follow."
+        },
+        {
+            "word": "circumvent",
+            "translation": "우회하다, 빠져나가다",
+            "sentence": "She found a way to circumvent the strict regulations."
+        },
+        {
+            "word": "clamor",
+            "translation": "소란, 떠들썩함",
+            "sentence": "The clamor of the crowd drowned out the speaker."
+        },
+        {
+            "word": "clandestine",
+            "translation": "은밀한, 비밀의",
+            "sentence": "They held a clandestine meeting under cover of night."
+        },
+        {
+            "word": "clemency",
+            "translation": "관용, 자비",
+            "sentence": "The judge showed clemency and reduced the sentence."
+        },
+        {
+            "word": "coagulate",
+            "translation": "응고되다, 굳어지다",
+            "sentence": "The blood began to coagulate around the wound."
+        },
+        {
+            "word": "coda",
+            "translation": "종결부, 마무리",
+            "sentence": "The symphony ended with a beautiful coda."
+        },
+        {
+            "word": "cogent",
+            "translation": "설득력 있는, 강한",
+            "sentence": "Her cogent argument convinced everyone in the room."
+        },
+        {
+            "word": "cogitate",
+            "translation": "숙고하다, 심사숙고하다",
+            "sentence": "He cogitated over the decision for hours."
+        },
+        {
+            "word": "coherent",
+            "translation": "연관된, 일관된",
+            "sentence": "The essay was coherent and easy to follow."
+        },
+        {
+            "word": "coincide",
+            "translation": "일치하다, 동시에 일어나다",
+            "sentence": "Their opinions coincided on almost every issue."
+        },
+        {
+            "word": "collaborate",
+            "translation": "협력하다, 합작하다",
+            "sentence": "The two scientists collaborated on a groundbreaking study."
+        },
+        {
+            "word": "collusion",
+            "translation": "공모, 결탁",
+            "sentence": "The companies were accused of collusion to fix prices."
+        },
+        {
+            "word": "commensurate",
+            "translation": "상응하는, 알맞은",
+            "sentence": "Her salary was commensurate with her experience."
+        },
+        {
+            "word": "commodious",
+            "translation": "넓고 편리한, 널찍한",
+            "sentence": "The commodious apartment had plenty of space for guests."
+        },
+        {
+            "word": "compassion",
+            "translation": "동정, 연민",
+            "sentence": "She showed great compassion toward the struggling family."
+        },
+        {
+            "word": "compatible",
+            "translation": "호환되는, 맞는",
+            "sentence": "Their personalities were surprisingly compatible."
+        },
+        {
+            "word": "complacent",
+            "translation": "잘난 체하는, 자족하는",
+            "sentence": "He became complacent after years of success."
+        },
+        {
+            "word": "compliant",
+            "translation": "순응하는, 따르는",
+            "sentence": "The child was compliant with the teacher’s instructions."
+        },
+        {
+            "word": "complicity",
+            "translation": "공모, 공범",
+            "sentence": "Her complicity in the scheme was undeniable."
+        },
+        {
+            "word": "composure",
+            "translation": "침착, 냉정",
+            "sentence": "He maintained his composure despite the chaos."
+        },
+        {
+            "word": "comprehensive",
+            "translation": "포괄적인, 광범위한",
+            "sentence": "The report provided a comprehensive overview of the topic."
+        },
+        {
+            "word": "concede",
+            "translation": "인정하다, 양보하다",
+            "sentence": "He had to concede defeat after a long debate."
+        },
+        {
+            "word": "conceit",
+            "translation": "자만, 자부심",
+            "sentence": "His conceit made him unpopular with his peers."
+        },
+        {
+            "word": "conceive",
+            "translation": "생각하다, 상상하다",
+            "sentence": "She couldn’t conceive of a world without music."
+        },
+        {
+            "word": "concerto",
+            "translation": "협주곡",
+            "sentence": "The pianist performed a stunning concerto."
+        },
+        {
+            "word": "conciliatory",
+            "translation": "달래는, 회유적인",
+            "sentence": "His conciliatory tone helped resolve the conflict."
+        },
+        {
+            "word": "conclusive",
+            "translation": "결정적인, 확고한",
+            "sentence": "The evidence was conclusive and left no doubt."
+        },
+        {
+            "word": "concoct",
+            "translation": "날조하다, 조작하다",
+            "sentence": "He concocted a wild story to explain his absence."
+        },
+        {
+            "word": "concur",
+            "translation": "동의하다, 일치하다",
+            "sentence": "I concur with your assessment of the situation."
+        },
+        {
+            "word": "condescend",
+            "translation": "자기를 낮추다, 너그럽게 굴다",
+            "sentence": "She refused to condescend to their petty arguments."
+        },
+        {
+            "word": "condone",
+            "translation": "용서하다, 묵인하다",
+            "sentence": "I cannot condone such reckless behavior."
+        },
+        {
+            "word": "confidant",
+            "translation": "신임하는 친구, 측근",
+            "sentence": "She shared her secrets with her trusted confidant."
+        },
+        {
+            "word": "confine",
+            "translation": "제한하다, 가두다",
+            "sentence": "They confined the animals to a small enclosure."
+        },
+        {
+            "word": "confluence",
+            "translation": "합류, 합류점",
+            "sentence": "The confluence of the two rivers created a stunning view."
+        },
+        {
+            "word": "conform",
+            "translation": "따르다, 순응하다",
+            "sentence": "He refused to conform to societal expectations."
+        },
+        {
+            "word": "conformist",
+            "translation": "순응주의자, 모범생",
+            "sentence": "As a conformist, he always followed the rules."
+        },
+        {
+            "word": "confound",
+            "translation": "혼동시키다, 혼란스럽게 하다",
+            "sentence": "The puzzle confounded even the brightest minds."
+        },
+        {
+            "word": "congenial",
+            "translation": "친근한, 맞는",
+            "sentence": "The congenial atmosphere made everyone feel welcome."
+        },
+        {
+            "word": "congruent",
+            "translation": "합치하는, 일치하는",
+            "sentence": "Their goals were congruent with the company’s mission."
+        },
+        {
+            "word": "connoisseur",
+            "translation": "감식가, 전문가",
+            "sentence": "As a connoisseur of wine, he could identify any vintage."
+        },
+        {
+            "word": "conscientious",
+            "translation": "양심적인, 성실한",
+            "sentence": "She was a conscientious worker who never cut corners."
+        },
+        {
+            "word": "consensus",
+            "translation": "합의, 일치된 의견",
+            "sentence": "The team reached a consensus after hours of discussion."
+        },
+        {
+            "word": "consign",
+            "translation": "위탁하다, 넘기다",
+            "sentence": "He consigned his old books to the library."
+        },
+        {
+            "word": "consistency",
+            "translation": "일관성, 밀도",
+            "sentence": "Her consistency in training led to great results."
+        },
+        {
+            "word": "conspicuous",
+            "translation": "눈에 띄는, 현저한",
+            "sentence": "His bright red hat made him conspicuous in the crowd."
+        },
+        {
+            "word": "consternation",
+            "translation": "당황, 경악",
+            "sentence": "To her consternation, the event was canceled."
+        },
+        {
+            "word": "consummate",
+            "translation": "완벽한, 최고의",
+            "sentence": "He was a consummate professional in every way."
+        },
+        {
+            "word": "contempt",
+            "translation": "경멸, 멸시",
+            "sentence": "She looked at him with undisguised contempt."
+        },
+        {
+            "word": "contemptuous",
+            "translation": "경멸하는, 무시하는",
+            "sentence": "His contemptuous tone angered the audience."
+        },
+        {
+            "word": "contiguous",
+            "translation": "접촉하는, 인접한",
+            "sentence": "The two properties were contiguous, sharing a fence."
+        },
+        {
+            "word": "contrite",
+            "translation": "후회하는, 참회의",
+            "sentence": "He appeared contrite after realizing his mistake."
+        },
+        {
+            "word": "contrition",
+            "translation": "후회, 참회",
+            "sentence": "Her contrition was evident in her tearful apology."
+        },
+        {
+            "word": "contumacious",
+            "translation": "고집 센, 완고한",
+            "sentence": "The contumacious child refused to obey the rules."
+        },
+        {
+            "word": "contumely",
+            "translation": "모욕, 무례",
+            "sentence": "He endured the contumely of his peers with dignity."
+        },
+        {
+            "word": "conundrum",
+            "translation": "난제, 수수께끼",
+            "sentence": "The mystery presented a conundrum no one could solve."
+        },
+        {
+            "word": "converge",
+            "translation": "수렴하다, 모이다",
+            "sentence": "The roads converge at the town square."
+        },
+        {
+            "word": "converse",
+            "translation": "이야기하다, 대화하다",
+            "sentence": "They conversed about their plans for the weekend."
+        },
+        {
+            "word": "conviction",
+            "translation": "확신, 신념",
+            "sentence": "She spoke with conviction about her beliefs."
+        },
+        {
+            "word": "copious",
+            "translation": "풍부한, 많은",
+            "sentence": "He took copious notes during the lecture."
+        },
+        {
+            "word": "cordial",
+            "translation": "친절한, 따뜻한",
+            "sentence": "The host greeted us with a cordial smile."
+        },
+        {
+            "word": "cornucopia",
+            "translation": "풍요의 뿔, 풍부함",
+            "sentence": "The market was a cornucopia of fresh produce."
+        },
+        {
+            "word": "corporeal",
+            "translation": "육체의, 물질적인",
+            "sentence": "The ghost lacked a corporeal form."
+        },
+        {
+            "word": "corroborate",
+            "translation": "확인하다, 입증하다",
+            "sentence": "Witnesses corroborated her version of the events."
+        },
+        {
+            "word": "cosmopolitan",
+            "translation": "국제적인, 세계적인",
+            "sentence": "The city’s cosmopolitan vibe attracted tourists."
+        },
+        {
+            "word": "countenance",
+            "translation": "용인하다, 인정하다",
+            "sentence": "She refused to countenance such unfair treatment."
+        },
+        {
+            "word": "counterfeit",
+            "translation": "가짜의, 위조의",
+            "sentence": "The counterfeit money was quickly detected."
+        },
+        {
+            "word": "coup",
+            "translation": "돌발적인 행동, 성공적인 행동",
+            "sentence": "Winning the contract was a major coup for the company."
+        },
+        {
+            "word": "covert",
+            "translation": "은밀한, 숨은",
+            "sentence": "The spy carried out a covert mission."
+        },
+        {
+            "word": "coy",
+            "translation": "수줍은, 수줍어하는",
+            "sentence": "She gave a coy smile when asked about her plans."
+        },
+        {
+            "word": "crass",
+            "translation": "무식한, 천박한",
+            "sentence": "His crass behavior embarrassed everyone at the party."
+        },
+        {
+            "word": "craven",
+            "translation": "겁 많은, 비겁한",
+            "sentence": "His craven refusal to help angered his friends."
+        },
+        {
+            "word": "credence",
+            "translation": "신뢰, 신용",
+            "sentence": "Her story gained credence with new evidence."
+        },
+        {
+            "word": "credible",
+            "translation": "믿을 만한, 신뢰할 수 있는",
+            "sentence": "The witness provided a credible account of the incident."
+        },
+        {
+            "word": "credulity",
+            "translation": "잘 믿는 성질, 경솔한 믿음",
+            "sentence": "His credulity made him an easy target for scams."
+        },
+        {
+            "word": "crescendo",
+            "translation": "점점 커지는 소리, 절정",
+            "sentence": "The music built to a thrilling crescendo."
+        },
+        {
+            "word": "criterion",
+            "translation": "기준, 척도",
+            "sentence": "Accuracy was the main criterion for judging the work."
+        },
+        {
+            "word": "cryptic",
+            "translation": "은밀한, 알쏭달쏭한",
+            "sentence": "His cryptic message left us puzzled."
+        },
+        {
+            "word": "cull",
+            "translation": "선별하다, 추려내다",
+            "sentence": "They culled the weakest plants from the garden."
+        },
+        {
+            "word": "culpable",
+            "translation": "잘못된, 유죄의",
+            "sentence": "He was found culpable for the accident."
+        },
+        {
+            "word": "cupidity",
+            "translation": "탐욕, 욕심",
+            "sentence": "His cupidity led him to make unethical choices."
+        },
+        {
+            "word": "curmudgeon",
+            "translation": "심술궂은 사람, 구두쇠",
+            "sentence": "The old curmudgeon grumbled at everyone who passed."
+        },
+        {
+            "word": "cynical",
+            "translation": "냉소적인, 비꼬는",
+            "sentence": "Her cynical view of life surprised her optimistic friends."
+        },
+        {
+            "word": "cynosure",
+            "translation": "주목의 대상, 빛나는 존재",
+            "sentence": "The star was the cynosure of the evening."
+        },
+        {
+            "word": "dabble",
+            "translation": "뒤섞다, 어설프게 하다",
+            "sentence": "She liked to dabble in painting during her free time."
+        },
+        {
+            "word": "daunt",
+            "translation": "겁나게 하다, 위축시키다",
+            "sentence": "The challenge didn’t daunt her determined spirit."
+        },
+        {
+            "word": "dearth",
+            "translation": "부족, 결핍",
+            "sentence": "There was a dearth of volunteers for the event."
+        },
+        {
+            "word": "debacle",
+            "translation": "대실패, 대참사",
+            "sentence": "The project turned into a debacle due to poor planning."
+        },
+        {
+            "word": "debilitate",
+            "translation": "약화시키다, 약하게 하다",
+            "sentence": "The illness debilitated him for months."
+        },
+        {
+            "word": "debrissupply",
+            "translation": "잔해, 파편",
+            "sentence": "The storm left debris scattered across the streets."
+        },
+        {
+            "word": "debut",
+            "translation": "첫 등장, 첫 공연",
+            "sentence": "Her debut performance received rave reviews."
+        },
+        {
+            "word": "decimate",
+            "translation": "몰살시키다, 대량 살상하다",
+            "sentence": "The plague decimated the population in weeks."
+        },
+        {
+            "word": "declamation",
+            "translation": "외치기, 연설",
+            "sentence": "His declamation stirred the crowd to action."
+        },
+        {
+            "word": "deferential",
+            "translation": "공손한, 경의를 표하는",
+            "sentence": "She was deferential to her elders at all times."
+        },
+        {
+            "word": "defile",
+            "translation": "더럽히다, 더럽혀진 장소",
+            "sentence": "They worked to clean the defiled riverbank."
+        },
+        {
+            "word": "defray",
+            "translation": "지불하다, 비용을 부담하다",
+            "sentence": "The grant helped defray the cost of the trip."
+        },
+        {
+            "word": "deleterious",
+            "translation": "유해한, 해로운",
+            "sentence": "Smoking has deleterious effects on health."
+        },
+        {
+            "word": "deliberate",
+            "translation": "고의적인, 신중한",
+            "sentence": "His deliberate pace annoyed his impatient friends."
+        },
+        {
+            "word": "delude",
+            "translation": "속이다, 오해하게 만들다",
+            "sentence": "He deluded himself into thinking he could win."
+        },
+        {
+            "word": "demagogue",
+            "translation": "선동가, 독재자",
+            "sentence": "The demagogue swayed the crowd with fiery words."
+        },
+        {
+            "word": "demur",
+            "translation": "망설이다, 주저하다",
+            "sentence": "She demurred when asked to take on more work."
+        },
+        {
+            "word": "denigrate",
+            "translation": "깎아내리다, 비난하다",
+            "sentence": "He tried to denigrate her efforts out of spite."
+        },
+        {
+            "word": "denouement",
+            "translation": "마무리, 결말",
+            "sentence": "The play’s denouement tied up all loose ends."
+        },
+        {
+            "word": "derelict",
+            "translation": "태만한, 방치된",
+            "sentence": "The derelict building was an eyesore in the town."
+        },
+        {
+            "word": "derision",
+            "translation": "조롱, 조소",
+            "sentence": "His suggestion was met with derision from the group."
+        },
+        {
+            "word": "derivative",
+            "translation": "파생된, 모방된",
+            "sentence": "The film felt derivative of earlier classics."
+        },
+        {
+            "word": "desiccate",
+            "translation": "말리다, 말라버리다",
+            "sentence": "The desert sun desiccated the once-lush plants."
+        },
+        {
+            "word": "desist",
+            "translation": "중단하다, 그만두다",
+            "sentence": "He was asked to desist from making loud noises."
+        },
+        {
+            "word": "desolate",
+            "translation": "황폐한, 쓸쓸한",
+            "sentence": "The abandoned village looked desolate in the moonlight."
+        },
+        {
+            "word": "despise",
+            "translation": "경멸하다, 무시하다",
+            "sentence": "She despised his arrogance and lack of manners."
+        },
+        {
+            "word": "despondent",
+            "translation": "낙담한, 실의에 빠진",
+            "sentence": "He grew despondent after failing the exam."
+        },
+        {
+            "word": "detached",
+            "translation": "떨어진, 무관심한",
+            "sentence": "She remained detached from the heated argument."
+        },
+        {
+            "word": "deterrent",
+            "translation": "제지하는, 제지물",
+            "sentence": "The high fence served as a deterrent to intruders."
+        },
+        {
+            "word": "detract",
+            "translation": "깎아내리다, 감소시키다",
+            "sentence": "The noise did not detract from the beauty of the scene."
+        },
+        {
+            "word": "detrimental",
+            "translation": "해를 입히는, 유해한",
+            "sentence": "Smoking is detrimental to your health."
+        },
+        {
+            "word": "deviate",
+            "translation": "벗어나다, 일탈하다",
+            "sentence": "He chose to deviate from the usual path."
+        },
+        {
+            "word": "dexterous",
+            "translation": "손재주가 있는, 능숙한",
+            "sentence": "The dexterous artisan crafted a stunning sculpture."
+        },
+        {
+            "word": "diabolical",
+            "translation": "악마의, 극악무도한",
+            "sentence": "The villain hatched a diabolical plan to take over."
+        },
+        {
+            "word": "diatribe",
+            "translation": "비난, 비방",
+            "sentence": "His diatribe against the policy angered many listeners."
+        },
+        {
+            "word": "dictum",
+            "translation": "명언, 격언",
+            "sentence": "The dictum ‘less is more’ guided her design choices."
+        },
+        {
+            "word": "diffident",
+            "translation": "수줍은, 자신 없는",
+            "sentence": "The diffident student hesitated to answer in class."
+        },
+        {
+            "word": "dilapidated",
+            "translation": "허름한, 낡은",
+            "sentence": "The dilapidated house needed extensive repairs."
+        },
+        {
+            "word": "diligent",
+            "translation": "근면한, 부지런한",
+            "sentence": "Her diligent efforts earned her a promotion."
+        },
+        {
+            "word": "dirge",
+            "translation": "진혼곡, 애도의 노래",
+            "sentence": "The mournful dirge echoed through the church."
+        },
+        {
+            "word": "disabuse",
+            "translation": "잘못된 생각을 고치다, 일깨우다",
+            "sentence": "She disabused him of his naive assumptions."
+        },
+        {
+            "word": "disaffected",
+            "translation": "불만을 가진, 냉소적인",
+            "sentence": "The disaffected workers demanded better conditions."
+        },
+        {
+            "word": "disarray",
+            "translation": "난잡, 혼란",
+            "sentence": "The room was in disarray after the party."
+        },
+        {
+            "word": "disavow",
+            "translation": "부인하다, 인정하지 않다",
+            "sentence": "He disavowed any knowledge of the illegal deal."
+        },
+        {
+            "word": "discern",
+            "translation": "분별하다, 식별하다",
+            "sentence": "She could discern a faint outline in the fog."
+        },
+        {
+            "word": "discomfit",
+            "translation": "곤란하게 만들다, 어리둥절하게 만들다",
+            "sentence": "His unexpected question discomfited the speaker."
+        },
+        {
+            "word": "disconcert",
+            "translation": "혼란스럽게 하다, 어리둥절하게 하다",
+            "sentence": "The sudden change disconcerted the entire team."
+        },
+        {
+            "word": "disconsolate",
+            "translation": "실의에 빠진, 실망한",
+            "sentence": "She was disconsolate after losing her best friend."
+        },
+        {
+            "word": "discordant",
+            "translation": "불협화음의, 불일치하는",
+            "sentence": "The discordant notes ruined the harmony of the song."
+        },
+        {
+            "word": "discourse",
+            "translation": "담론, 토론",
+            "sentence": "The professor led a discourse on modern philosophy."
+        },
+        {
+            "word": "discredit",
+            "translation": "의심을 주다, 신용을 떨어뜨리다",
+            "sentence": "The scandal discredited the politician’s reputation."
+        },
+        {
+            "word": "discreet",
+            "translation": "신중한, 분별 있는",
+            "sentence": "He was discreet about sharing personal details."
+        },
+        {
+            "word": "discrepancy",
+            "translation": "차이, 불일치",
+            "sentence": "There was a discrepancy between the two reports."
+        },
+        {
+            "word": "disdain",
+            "translation": "경멸, 무시",
+            "sentence": "She looked at him with disdain after his rude remark."
+        },
+        {
+            "word": "disheveled",
+            "translation": "어수선한, 흐트러진",
+            "sentence": "He arrived with disheveled hair after the storm."
+        },
+        {
+            "word": "disparage",
+            "translation": "깎아내리다, 비난하다",
+            "sentence": "He disparaged her work out of petty jealousy."
+        },
+        {
+            "word": "disparate",
+            "translation": "상이한, 이질적인",
+            "sentence": "The team came from disparate backgrounds."
+        },
+        {
+            "word": "dispassionate",
+            "translation": "냉정한, 공정한",
+            "sentence": "The judge remained dispassionate throughout the trial."
+        },
+        {
+            "word": "dispatch",
+            "translation": "파견, 급파",
+            "sentence": "They dispatched a team to handle the emergency."
+        },
+        {
+            "word": "dispel",
+            "translation": "흩뜨리다, 없애다",
+            "sentence": "Her smile helped dispel his lingering doubts."
+        },
+        {
+            "word": "dispensable",
+            "translation": "필요 없는, 버릴 수 있는",
+            "sentence": "The old tools were deemed dispensable."
+        },
+        {
+            "word": "disperse",
+            "translation": "흩어지다, 퍼뜨리다",
+            "sentence": "The crowd began to disperse after the speech."
+        },
+        {
+            "word": "disputatious",
+            "translation": "의심 많은, 논쟁을 좋아하는",
+            "sentence": "His disputatious nature made meetings exhausting."
+        },
+        {
+            "word": "disquiet",
+            "translation": "불안, 걱정",
+            "sentence": "A sense of disquiet lingered after the strange news."
+        },
+        {
+            "word": "disregard",
+            "translation": "무시하다, 등한히 보다",
+            "sentence": "She chose to disregard his unhelpful advice."
+        },
+        {
+            "word": "dissemble",
+            "translation": "은폐하다, 위장하다",
+            "sentence": "He dissembled his true feelings with a fake smile."
+        },
+        {
+            "word": "disseminate",
+            "translation": "퍼뜨리다, 유포하다",
+            "sentence": "They disseminated the news through social media."
+        },
+        {
+            "word": "dissent",
+            "translation": "의견 차이, 이의",
+            "sentence": "There was dissent among the group about the plan."
+        },
+        {
+            "word": "dissipate",
+            "translation": "소멸시키다, 흩어지다",
+            "sentence": "The morning mist began to dissipate as the sun rose."
+        },
+        {
+            "word": "dissonance",
+            "translation": "불협화음, 불일치",
+            "sentence": "The dissonance in their opinions caused tension."
+        },
+        {
+            "word": "distend",
+            "translation": "팽창시키다, 불어나다",
+            "sentence": "His stomach distended after the large meal."
+        },
+        {
+            "word": "distill",
+            "translation": "증류하다, 정제하다",
+            "sentence": "They distill whiskey using traditional methods."
+        },
+        {
+            "word": "distinction",
+            "translation": "차별, 구별",
+            "sentence": "She earned the distinction of being the top student."
+        },
+        {
+            "word": "distort",
+            "translation": "왜곡하다, 비틀다",
+            "sentence": "The mirror distorted her reflection oddly."
+        },
+        {
+            "word": "distract",
+            "translation": "산만하게 만들다, 혼란스럽게 하다",
+            "sentence": "The loud music distracted him from his work."
+        },
+        {
+            "word": "distraught",
+            "translation": "정신이 팔린, 혼란스러운",
+            "sentence": "She was distraught after losing her beloved pet."
+        },
+        {
+            "word": "diurnal",
+            "translation": "하루 동안의, 매일의",
+            "sentence": "The diurnal rhythm of the birds was soothing."
+        },
+        {
+            "word": "divergent",
+            "translation": "상이한, 다른 방향으로 향하는",
+            "sentence": "Their divergent views led to a lively debate."
+        },
+        {
+            "word": "diversion",
+            "translation": "오락, 전환",
+            "sentence": "Reading was her favorite diversion from stress."
+        },
+        {
+            "word": "docile",
+            "translation": "온순한, 다루기 쉬운",
+            "sentence": "The docile puppy was easy to train."
+        },
+        {
+            "word": "dodge",
+            "translation": "피하다, 얼렁뚱땅 넘기다",
+            "sentence": "He managed to dodge the difficult question."
+        },
+        {
+            "word": "dogmatic",
+            "translation": "교조적인, 독단적인",
+            "sentence": "His dogmatic stance left no room for discussion."
+        },
+        {
+            "word": "dolt",
+            "translation": "바보, 멍청이",
+            "sentence": "The dolt forgot his lines during the play."
+        },
+        {
+            "word": "dormant",
+            "translation": "잠자는, 활동을 없는",
+            "sentence": "The volcano had been dormant for centuries."
+        },
+        {
+            "word": "dour",
+            "translation": "우울한, 엄격한",
+            "sentence": "His dour expression dampened the mood."
+        },
+        {
+            "word": "droll",
+            "translation": "우스운, 익살스러운",
+            "sentence": "His droll comment made everyone laugh."
+        },
+        {
+            "word": "draconian",
+            "translation": "과도하게 가혹한, 가혹한",
+            "sentence": "The draconian laws sparked widespread protests."
+        },
+        {
+            "word": "drollery",
+            "translation": "익살, 우스운 짓",
+            "sentence": "The comedian’s drollery delighted the audience."
+        },
+        {
+            "word": "dupe",
+            "translation": "바보, 바보취급 당하는 사람",
+            "sentence": "He was an easy dupe for the clever salesman."
+        },
+        {
+            "word": "duplicity",
+            "translation": "이중성, 위선",
+            "sentence": "Her duplicity shocked those who trusted her."
+        },
+        {
+            "word": "ebullient",
+            "translation": "활기찬, 들떠 있는",
+            "sentence": "She was ebullient after hearing the good news."
+        },
+        {
+            "word": "eclectic",
+            "translation": "선택적인, 취사선택의",
+            "sentence": "His eclectic taste in music surprised his friends."
+        },
+        {
+            "word": "eclat",
+            "translation": "눈부신 성공, 명성",
+            "sentence": "She performed with eclat, earning loud applause."
+        },
+        {
+            "word": "efficacy",
+            "translation": "효과, 효능",
+            "sentence": "The efficacy of the new drug was remarkable."
+        },
+        {
+            "word": "effrontery",
+            "translation": "뻔뻔스러움, 무례",
+            "sentence": "His effrontery in interrupting her was astounding."
+        },
+        {
+            "word": "effusive",
+            "translation": "과장된, 지나치게 감정적인",
+            "sentence": "Her effusive praise made him uncomfortable."
+        },
+        {
+            "word": "elaborate",
+            "translation": "자세한, 정교한",
+            "sentence": "The elaborate decorations transformed the room."
+        },
+        {
+            "word": "elation",
+            "translation": "기쁨, 환희",
+            "sentence": "Winning the race filled her with elation."
+        },
+        {
+            "word": "eligible",
+            "translation": "알맞은, 조건에 맞는",
+            "sentence": "He was eligible for the scholarship due to his grades."
+        },
+        {
+            "word": "elocution",
+            "translation": "연설법, 발성법",
+            "sentence": "She studied elocution to improve her public speaking."
+        },
+        {
+            "word": "eloquent",
+            "translation": "잘 말하는, 표현이 뛰어난",
+            "sentence": "His eloquent speech moved the audience to tears."
+        },
+        {
+            "word": "elucidate",
+            "translation": "밝히다, 설명하다",
+            "sentence": "The teacher elucidated the complex concept clearly."
+        },
+        {
+            "word": "elude",
+            "translation": "피하다, 피해가다",
+            "sentence": "The answer continued to elude him despite his efforts."
+        },
+        {
+            "word": "elusive",
+            "translation": "회피하는, 파악하기 힘든",
+            "sentence": "The elusive butterfly fluttered out of reach."
+        },
+        {
+            "word": "embargo",
+            "translation": "금수, 금지",
+            "sentence": "The country imposed an embargo on foreign goods."
+        },
+        {
+            "word": "embellish",
+            "translation": "꾸미다, 장식하다",
+            "sentence": "She embellished the story with dramatic details."
+        },
+        {
+            "word": "embezzle",
+            "translation": "횡령하다, 착복하다",
+            "sentence": "He was caught trying to embezzle company funds."
+        },
+        {
+            "word": "embroil",
+            "translation": "뒤엉키게 하다, 혼란스럽게 하다",
+            "sentence": "The dispute embroiled the entire family."
+        },
+        {
+            "word": "enervate",
+            "translation": "약화시키다, 약하게 하다",
+            "sentence": "The heat enervated the hikers on their journey."
+        },
+        {
+            "word": "enfranchise",
+            "translation": "참정권을 주다, 해방하다",
+            "sentence": "The new law enfranchised thousands of voters."
+        },
+        {
+            "word": "engender",
+            "translation": "낳다, 일깨우다",
+            "sentence": "His actions engendered trust among his peers."
+        },
+        {
+            "word": "engross",
+            "translation": "독점하다, 집중하다",
+            "sentence": "The novel engrossed her for hours."
+        },
+        {
+            "word": "enigma",
+            "translation": "암호, 수수께끼",
+            "sentence": "His strange behavior remained an enigma to all."
+        },
+        {
+            "word": "enmity",
+            "translation": "적의, 증오",
+            "sentence": "There was deep enmity between the rival teams."
+        },
+        {
+            "word": "enormity",
+            "translation": "크다, 엄청난 것",
+            "sentence": "The enormity of the task overwhelmed him."
+        },
+        {
+            "word": "ensconce",
+            "translation": "숨기다, 고정시키다",
+            "sentence": "She ensconced herself in a cozy corner with a book."
+        },
+        {
+            "word": "entail",
+            "translation": "의미하다, 포함하다",
+            "sentence": "The job entails long hours and dedication."
+        },
+        {
+            "word": "entreat",
+            "translation": "간청하다, 애원하다",
+            "sentence": "She entreated him to stay a little longer."
+        },
+        {
+            "word": "entrench",
+            "translation": "진지를 구축하다, 고수하다",
+            "sentence": "The idea became entrenched in their culture."
+        },
+        {
+            "word": "entreaty",
+            "translation": "간청, 애원",
+            "sentence": "His entreaty for help was met with silence."
+        },
+        {
+            "word": "entrust",
+            "translation": "맡기다, 위탁하다",
+            "sentence": "She entrusted her savings to a reliable friend."
+        },
+        {
+            "word": "enunciate",
+            "translation": "발음하다, 명확히 말하다",
+            "sentence": "He enunciated each word carefully for clarity."
+        },
+        {
+            "word": "ephemeral",
+            "translation": "잠깐의, 찰나의",
+            "sentence": "The beauty of the sunset was ephemeral, fading quickly."
+        },
+        {
+            "word": "equanimity",
+            "translation": "침착, 평정",
+            "sentence": "She faced the crisis with remarkable equanimity."
+        },
+        {
+            "word": "equitable",
+            "translation": "공평한, 정당한",
+            "sentence": "The judge ensured an equitable division of the assets."
+        },
+        {
+            "word": "equivocal",
+            "translation": "모호한, 애매한",
+            "sentence": "His equivocal response left us unsure of his stance."
+        },
+        {
+            "word": "equivocate",
+            "translation": "애매하게 대답하다, 얼버무리다",
+            "sentence": "He equivocated when asked about his involvement."
+        },
+        {
+            "word": "eradicate",
+            "translation": "근절하다, 제거하다",
+            "sentence": "They worked tirelessly to eradicate the invasive species."
+        },
+        {
+            "word": "errant",
+            "translation": "잘못된, 방황하는",
+            "sentence": "The errant child wandered far from home."
+        },
+        {
+            "word": "erratic",
+            "translation": "불규칙한, 변덕스러운",
+            "sentence": "His erratic behavior puzzled his friends."
+        },
+        {
+            "word": "erroneous",
+            "translation": "잘못된, 오류의",
+            "sentence": "The article contained several erroneous facts."
+        },
+        {
+            "word": "erudite",
+            "translation": "학식이 있는, 박식한",
+            "sentence": "The erudite professor captivated his students."
+        },
+        {
+            "word": "eschew",
+            "translation": "피하다, 멀리하다",
+            "sentence": "She chose to eschew sweets for a healthier diet."
+        },
+        {
+            "word": "ethereal",
+            "translation": "공중의, 가벼운",
+            "sentence": "The ethereal melody seemed to float through the air."
+        },
+        {
+            "word": "euphoria",
+            "translation": "행복감, 희열",
+            "sentence": "Winning the championship filled her with euphoria."
+        },
+        {
+            "word": "euthanasia",
+            "translation": "안락사, 안락사법",
+            "sentence": "The debate over euthanasia remains controversial."
+        },
+        {
+            "word": "evade",
+            "translation": "피하다, 회피하다",
+            "sentence": "He tried to evade the question with a vague answer."
+        },
+        {
+            "word": "exacerbate",
+            "translation": "악화시키다, 더 악화시키다",
+            "sentence": "Ignoring the issue only served to exacerbate it."
+        },
+        {
+            "word": "exacting",
+            "translation": "까다로운, 엄격한",
+            "sentence": "The exacting teacher demanded perfection from her students."
+        },
+        {
+            "word": "exasperate",
+            "translation": "짜증나게 하다, 짜증나게 만들다",
+            "sentence": "His constant interruptions began to exasperate her."
+        },
+        {
+            "word": "exculpate",
+            "translation": "용서하다, 면책하다",
+            "sentence": "New evidence exculpated the wrongly accused man."
+        },
+        {
+            "word": "exemplary",
+            "translation": "모범적인, 본보기가 되는",
+            "sentence": "Her exemplary conduct earned her widespread respect."
+        },
+        {
+            "word": "exhume",
+            "translation": "파내다, 발굴하다",
+            "sentence": "They exhumed the site to uncover ancient artifacts."
+        },
+        {
+            "word": "exigency",
+            "translation": "긴급, 긴급한 필요",
+            "sentence": "The exigency of the situation required immediate action."
+        },
+        {
+            "word": "exodus",
+            "translation": "대탈출, 대이동",
+            "sentence": "The war triggered an exodus of refugees."
+        },
+        {
+            "word": "expansive",
+            "translation": "넓은, 광대한",
+            "sentence": "The expansive plains stretched out before them."
+        },
+        {
+            "word": "expedient",
+            "translation": "편법, 편리한 수단",
+            "sentence": "He took an expedient shortcut to avoid the traffic."
+        },
+        {
+            "word": "expedite",
+            "translation": "서두르다, 신속히 처리하다",
+            "sentence": "They expedited the delivery to meet the deadline."
+        },
+        {
+            "word": "expiate",
+            "translation": "죄를 씻다, 보상하다",
+            "sentence": "He sought to expiate his guilt through good deeds."
+        },
+        {
+            "word": "explicate",
+            "translation": "설명하다, 명백히 하다",
+            "sentence": "The teacher explicated the poem’s deeper meaning."
+        },
+        {
+            "word": "exploit",
+            "translation": "개발하다, 이용하다",
+            "sentence": "They exploited the land’s resources for profit."
+        },
+        {
+            "word": "expostulate",
+            "translation": "간청하다, 항의하다",
+            "sentence": "She expostulated with him about his reckless behavior."
+        },
+        {
+            "word": "expound",
+            "translation": "설명하다, 설명을 펴다",
+            "sentence": "He expounded his theory to a captivated audience."
+        },
+        {
+            "word": "extemporaneous",
+            "translation": "즉흥적인, 준비되지 않은",
+            "sentence": "His extemporaneous speech impressed everyone."
+        },
+        {
+            "word": "extenuate",
+            "translation": "경감시키다, 완화시키다",
+            "sentence": "Her apology did little to extenuate the damage."
+        },
+        {
+            "word": "extol",
+            "translation": "칭찬하다, 찬양하다",
+            "sentence": "They extolled her bravery in the face of danger."
+        },
+        {
+            "word": "extort",
+            "translation": "강제로 빼앗다, 갈취하다",
+            "sentence": "The gang extorted money from local businesses."
+        },
+        {
+            "word": "extortionate",
+            "translation": "비싼, 지나치게 높은",
+            "sentence": "The extortionate prices drove customers away."
+        },
+        {
+            "word": "extraneous",
+            "translation": "외부의, 부수적인",
+            "sentence": "He ignored the extraneous details and focused on the main point."
+        },
+        {
+            "word": "extrapolate",
+            "translation": "추론하다, 추정하다",
+            "sentence": "Scientists extrapolated the data to predict future trends."
+        },
+        {
+            "word": "extricate",
+            "translation": "풀어내다, 벗어나다",
+            "sentence": "She extricated herself from the complicated situation."
+        },
+        {
+            "word": "extrinsic",
+            "translation": "외부의, 부수적인",
+            "sentence": "His motivation was extrinsic, driven by rewards."
+        },
+        {
+            "word": "exuberant",
+            "translation": "활기찬, 넘치는",
+            "sentence": "The exuberant crowd cheered wildly at the concert."
+        },
+        {
+            "word": "exude",
+            "translation": "흘러나오다, 배어나오다",
+            "sentence": "He exuded confidence during the presentation."
+        },
+        {
+            "word": "exult",
+            "translation": "기뻐하다, 환호하다",
+            "sentence": "They exulted in their unexpected victory."
+        },
+        {
+            "word": "facetious",
+            "translation": "농담조의, 우스운",
+            "sentence": "His facetious remark lightened the tense mood."
+        },
+        {
+            "word": "fallacious",
+            "translation": "잘못된, 오류의",
+            "sentence": "The fallacious argument crumbled under scrutiny."
+        },
+        {
+            "word": "fallible",
+            "translation": "실수하기 쉬운, 오류가 있을 수 있는",
+            "sentence": "Even experts are fallible and can make mistakes."
+        },
+        {
+            "word": "fallow",
+            "translation": "갈아놓은, 쉬는",
+            "sentence": "The fallow fields were left to recover nutrients."
+        },
+        {
+            "word": "fanatical",
+            "translation": "광신적인, 열광적인",
+            "sentence": "His fanatical devotion to the cause was unshakable."
+        },
+        {
+            "word": "fatuous",
+            "translation": "어리석은, 바보 같은",
+            "sentence": "The fatuous comment drew laughter from the group."
+        },
+        {
+            "word": "fecund",
+            "translation": "다산의, 비옥한",
+            "sentence": "The fecund soil produced an abundant harvest."
+        },
+        {
+            "word": "feign",
+            "translation": "가짜로 만들다, 위장하다",
+            "sentence": "She feigned illness to avoid the meeting."
+        },
+        {
+            "word": "felicity",
+            "translation": "행복, 행운",
+            "sentence": "The celebration was filled with felicity and joy."
+        },
+        {
+            "word": "ferment",
+            "translation": "발효, 혼란",
+            "sentence": "The unrest began to ferment among the workers."
+        },
+        {
+            "word": "fervent",
+            "translation": "열렬한, 열정적인",
+            "sentence": "She made a fervent plea for peace."
+        },
+        {
+            "word": "fervid",
+            "translation": "열렬한, 열정적인",
+            "sentence": "His fervid speech inspired the crowd."
+        },
+        {
+            "word": "fickle",
+            "translation": "변덕스러운, 변하기 쉬운",
+            "sentence": "The fickle weather changed from sun to rain."
+        },
+        {
+            "word": "fidelity",
+            "translation": "충실, 성실",
+            "sentence": "Her fidelity to her principles was admirable."
+        },
+        {
+            "word": "filch",
+            "translation": "훔치다, 가로채다",
+            "sentence": "He filched a cookie from the jar when no one was looking."
+        },
+        {
+            "word": "flabbergasted",
+            "translation": "깜짝 놀란, 어리둥절한",
+            "sentence": "She was flabbergasted by the surprise party."
+        },
+        {
+            "word": "flagrant",
+            "translation": "악명 높은, 명백한",
+            "sentence": "The flagrant violation of rules angered the referee."
+        },
+        {
+            "word": "flamboyant",
+            "translation": "화려한, 눈부신",
+            "sentence": "His flamboyant outfit stood out at the event."
+        },
+        {
+            "word": "fleeting",
+            "translation": "잠깐의, 순간적인",
+            "sentence": "The fleeting moment of silence was soon broken."
+        },
+        {
+            "word": "flout",
+            "translation": "무시하다, 경멸하다",
+            "sentence": "He flouted the dress code by wearing casual clothes."
+        },
+        {
+            "word": "fluctuate",
+            "translation": "요동치다, 변동하다",
+            "sentence": "The stock prices fluctuate wildly each day."
+        },
+        {
+            "word": "foible",
+            "translation": "약점, 결점",
+            "sentence": "His foible was a tendency to procrastinate."
+        },
+        {
+            "word": "foil",
+            "translation": "좌절시키다, 가로막다",
+            "sentence": "She foiled his plan with a clever counter-strategy."
+        },
+        {
+            "word": "foment",
+            "translation": "선동하다, 고무하다",
+            "sentence": "His words fomented unrest among the crowd."
+        },
+        {
+            "word": "foolhardy",
+            "translation": "무모한, 경솔한",
+            "sentence": "The foolhardy decision led to disastrous results."
+        },
+        {
+            "word": "forbearance",
+            "translation": "참음, 인내",
+            "sentence": "She showed forbearance despite his rude behavior."
+        },
+        {
+            "word": "forestall",
+            "translation": "미리 막다, 선행하다",
+            "sentence": "They took steps to forestall any further delays."
+        },
+        {
+            "word": "forswear",
+            "translation": "맹세코 포기하다, 맹세하다",
+            "sentence": "He forswore his old habits for a fresh start."
+        },
+        {
+            "word": "fraternity",
+            "translation": "형제애, 동료애",
+            "sentence": "The team’s fraternity strengthened their bond."
+        },
+        {
+            "word": "fractious",
+            "translation": "성마른, 다루기 힘든",
+            "sentence": "The fractious toddler refused to sit still."
+        },
+        {
+            "word": "fraudulent",
+            "translation": "사기적인, 사기 행위의",
+            "sentence": "The fraudulent scheme cost investors millions."
+        },
+        {
+            "word": "frenetic",
+            "translation": "미친 듯한, 발광하는",
+            "sentence": "The frenetic pace of the city overwhelmed her."
+        },
+        {
+            "word": "frivolous",
+            "translation": "경솔한, 사소한",
+            "sentence": "His frivolous spending habits worried his family."
+        },
+        {
+            "word": "frugal",
+            "translation": "검소한, 절약하는",
+            "sentence": "She lived a frugal life to save for the future."
+        },
+        {
+            "word": "fulminate",
+            "translation": "비난하다, 폭발하다",
+            "sentence": "He fulminated against the unjust policies."
+        },
+        {
+            "word": "futile",
+            "translation": "무의미한, 쓸모없는",
+            "sentence": "Their efforts to fix the old car proved futile."
+        },
+        {
+            "word": "gadfly",
+            "translation": "등에, 성가신 사람",
+            "sentence": "He acted as a gadfly, constantly questioning authority."
+        },
+        {
+            "word": "gambit",
+            "translation": "계략, 장치",
+            "sentence": "Her opening gambit in the negotiation was bold."
+        },
+        {
+            "word": "garrulous",
+            "translation": "말 많은, 수다스러운",
+            "sentence": "The garrulous guest dominated the conversation."
+        },
+        {
+            "word": "gaunt",
+            "translation": "수척한, 야윈",
+            "sentence": "His gaunt face showed the toll of his illness."
+        },
+        {
+            "word": "germane",
+            "translation": "관련된, 알맞은",
+            "sentence": "Her comments were germane to the discussion."
+        },
+        {
+            "word": "gibe",
+            "translation": "놀리다, 조롱하다",
+            "sentence": "He couldn’t resist a gibe at his rival’s expense."
+        },
+        {
+            "word": "gird",
+            "translation": "조르다, 준비하다",
+            "sentence": "They girded themselves for the long journey ahead."
+        },
+        {
+            "word": "glib",
+            "translation": "말이 잘 듣는, 경솔한",
+            "sentence": "His glib excuses didn’t fool anyone."
+        },
+        {
+            "word": "gloat",
+            "translation": "의기양양해하다, 음흉한 기쁨을 느끼다",
+            "sentence": "She gloated over her victory with a smug smile."
+        },
+        {
+            "word": "grandiose",
+            "translation": "장대하다, 웅장하다",
+            "sentence": "His grandiose plans impressed but rarely succeeded."
+        },
+        {
+            "word": "gratuitous",
+            "translation": "무료의, 불필요한",
+            "sentence": "The movie included gratuitous violence for no reason."
+        },
+        {
+            "word": "gregarious",
+            "translation": "사교적인, 사교를 좋아하는",
+            "sentence": "Her gregarious nature made her the life of the party."
+        },
+        {
+            "word": "guileless",
+            "translation": "정직한, 순진한",
+            "sentence": "His guileless charm won over even the skeptics."
+        },
+        {
+            "word": "guffaw",
+            "translation": "크게 웃다, 큰 웃음",
+            "sentence": "His joke prompted a loud guffaw from the crowd."
+        },
+        {
+            "word": "gullible",
+            "translation": "쉽게 속는, 잘 믿는",
+            "sentence": "The gullible tourist fell for the scam."
+        },
+        {
+            "word": "gustatory",
+            "translation": "미각의, 미각의 경험",
+            "sentence": "The meal was a gustatory delight for everyone."
+        },
+        {
+            "word": "hackneyed",
+            "translation": "진부한, 진부한 표현",
+            "sentence": "The speech was full of hackneyed phrases."
+        },
+        {
+            "word": "halcyon",
+            "translation": "평온한, 평화로운",
+            "sentence": "She fondly recalled the halcyon days of her youth."
+        },
+        {
+            "word": "harangue",
+            "translation": "장황한 연설, 고함",
+            "sentence": "He delivered a harangue against the new policy."
+        },
+        {
+            "word": "harbinger",
+            "translation": "전조, 선구자",
+            "sentence": "The dark clouds were a harbinger of the storm."
+        },
+        {
+            "word": "harry",
+            "translation": "괴롭히다, 공격하다",
+            "sentence": "The troops continued to harry the enemy lines."
+        },
+        {
+            "word": "haughty",
+            "translation": "거만한, 오만한",
+            "sentence": "Her haughty demeanor alienated her colleagues."
+        },
+        {
+            "word": "hector",
+            "translation": "협박하다, 위협하다",
+            "sentence": "He tried to hector her into agreeing with him."
+        },
+        {
+            "word": "hedonism",
+            "translation": "쾌락주의, 쾌락주의자",
+            "sentence": "His life of hedonism left him unfulfilled."
+        },
+        {
+            "word": "hegemony",
+            "translation": "패권, 지배권",
+            "sentence": "The empire sought hegemony over its neighbors."
+        },
+        {
+            "word": "heretic",
+            "translation": "이단자, 이단",
+            "sentence": "The heretic was shunned for his radical beliefs."
+        },
+        {
+            "word": "heterodox",
+            "translation": "이단적인, 비정통적인",
+            "sentence": "His heterodox views challenged traditional norms."
+        },
+        {
+            "word": "heterogeneous",
+            "translation": "상이한, 다양한",
+            "sentence": "The group was a heterogeneous mix of cultures."
+        },
+        {
+            "word": "heyday",
+            "translation": "전성기, 전성기의",
+            "sentence": "In its heyday, the company dominated the market."
+        },
+        {
+            "word": "hilarious",
+            "translation": "매우 재미있는, 우스운",
+            "sentence": "The comedian’s hilarious jokes had everyone laughing."
+        },
+        {
+            "word": "histrionic",
+            "translation": "연극의, 연극 같은",
+            "sentence": "Her histrionic outburst drew everyone’s attention."
+        },
+        {
+            "word": "hoax",
+            "translation": "속이다, 사기",
+            "sentence": "The rumor turned out to be an elaborate hoax."
+        },
+        {
+            "word": "homogeneous",
+            "translation": "동질의, 동일한 성질의",
+            "sentence": "The solution was a homogeneous blend of ingredients."
+        },
+        {
+            "word": "hortatory",
+            "translation": "권고의, 권하는",
+            "sentence": "His hortatory speech urged the team to persevere."
+        },
+        {
+            "word": "hubris",
+            "translation": "오만한, 거만한",
+            "sentence": "His hubris led to his eventual downfall."
+        },
+        {
+            "word": "humble",
+            "translation": "겸손한, 낮은",
+            "sentence": "Despite his success, he remained humble."
+        },
+        {
+            "word": "husband",
+            "translation": "아내, 절약하다",
+            "sentence": "He learned to husband his resources wisely."
+        },
+        {
+            "word": "husky",
+            "translation": "허스키, 목소리가 거친",
+            "sentence": "His husky voice added charm to his singing."
+        },
+        {
+            "word": "iconoclast",
+            "translation": "이단자, 파괴자",
+            "sentence": "The iconoclast challenged long-held traditions."
+        },
+        {
+            "word": "idolatry",
+            "translation": "우상숭배, 맹신",
+            "sentence": "Their idolatry of the leader blinded them to his flaws."
+        },
+        {
+            "word": "ignoble",
+            "translation": "비열한, 천한",
+            "sentence": "His ignoble actions tarnished his reputation."
+        },
+        {
+            "word": "ignominious",
+            "translation": "망신스러운, 수치스러운",
+            "sentence": "The team suffered an ignominious defeat."
+        },
+        {
+            "word": "illustrious",
+            "translation": "유명한, 빛나는",
+            "sentence": "She had an illustrious career in science."
+        },
+        {
+            "word": "imbue",
+            "translation": "스며들다, 채우다",
+            "sentence": "He imbued his work with passion and creativity."
+        },
+        {
+            "word": "imminent",
+            "translation": "임박한, 다가오는",
+            "sentence": "The storm’s imminent arrival prompted evacuations."
+        },
+        {
+            "word": "immure",
+            "translation": "가두다, 감금하다",
+            "sentence": "The prisoner was immured in a tiny cell."
+        },
+        {
+            "word": "impecunious",
+            "translation": "무일푼의, 빈곤한",
+            "sentence": "The impecunious artist struggled to buy supplies."
+        },
+        {
+            "word": "imperative",
+            "translation": "필수적인, 명령",
+            "sentence": "It’s imperative that we finish this project on time."
+        },
+        {
+            "word": "imperious",
+            "translation": "고압적인, 거만한",
+            "sentence": "Her imperious tone intimidated the staff."
+        },
+        {
+            "word": "impermeable",
+            "translation": "밀폐된, 불침투성의",
+            "sentence": "The impermeable fabric kept the rain out."
+        },
+        {
+            "word": "impervious",
+            "translation": "반응하지 않는, 불침투성의",
+            "sentence": "He was impervious to their pleas for mercy."
+        },
+        {
+            "word": "impetuous",
+            "translation": "성급한, 격렬한",
+            "sentence": "His impetuous decision led to unexpected consequences."
+        },
+        {
+            "word": "impinge",
+            "translation": "침범하다, 영향을 주다",
+            "sentence": "The new rules impinge on our freedom."
+        },
+        {
+            "word": "implacable",
+            "translation": "쉽게 풀리지 않는, 가차 없는",
+            "sentence": "She faced an implacable foe in the debate."
+        },
+        {
+            "word": "implausible",
+            "translation": "불가능한, 믿기 어려운",
+            "sentence": "The story seemed implausible given the evidence."
+        },
+        {
+            "word": "implicate",
+            "translation": "연루시키다, 포함시키다",
+            "sentence": "The testimony implicated him in the crime."
+        },
+        {
+            "word": "implicit",
+            "translation": "암묵적인, 내포된",
+            "sentence": "There was an implicit agreement between them."
+        },
+        {
+            "word": "impute",
+            "translation": "돌리다, 귀속시키다",
+            "sentence": "She imputed his success to hard work."
+        },
+        {
+            "word": "inadvertent",
+            "translation": "부주의한, 무심코 한",
+            "sentence": "His inadvertent remark offended the guest."
+        },
+        {
+            "word": "incandescent",
+            "translation": "백열의, 백열의 빛",
+            "sentence": "The incandescent bulb lit up the room brightly."
+        },
+        {
+            "word": "incantation",
+            "translation": "외움, 주문",
+            "sentence": "The witch chanted an incantation over the potion."
+        },
+        {
+            "word": "incarnate",
+            "translation": "구체화하다, 육체를 갖춘",
+            "sentence": "He was evil incarnate, feared by all."
+        },
+        {
+            "word": "incendiary",
+            "translation": "불타는, 불을 지르다",
+            "sentence": "His incendiary speech sparked a riot."
+        },
+        {
+            "word": "incense",
+            "translation": "분노, 향",
+            "sentence": "His rude behavior incensed the entire group."
+        },
+        {
+            "word": "incentive",
+            "translation": "동기, 자극",
+            "sentence": "The bonus provided an incentive to work harder."
+        },
+        {
+            "word": "incisive",
+            "translation": "날카로운, 예리한",
+            "sentence": "Her incisive analysis cut through the confusion."
+        },
+        {
+            "word": "inclination",
+            "translation": "경향, 기울임",
+            "sentence": "He had an inclination toward artistic pursuits."
+        },
+        {
+            "word": "incoherent",
+            "translation": "불분명한, 모순된",
+            "sentence": "His incoherent rambling confused the audience."
+        },
+        {
+            "word": "incongruous",
+            "translation": "부적절한, 모순된",
+            "sentence": "The bright dress seemed incongruous at the funeral."
+        },
+        {
+            "word": "inconsequential",
+            "translation": "부차적인, 중요하지 않은",
+            "sentence": "The mistake was inconsequential in the grand scheme."
+        },
+        {
+            "word": "incontinent",
+            "translation": "방종한, 조절하지 못하는",
+            "sentence": "His incontinent spending drained his savings."
+        },
+        {
+            "word": "incontrovertible",
+            "translation": "명백한, 논쟁의 여지가 없는",
+            "sentence": "The evidence was incontrovertible and sealed the case."
+        },
+        {
+            "word": "incorrigible",
+            "translation": "고치기 힘든, 고치기 어려운",
+            "sentence": "The incorrigible child ignored all warnings."
+        },
+        {
+            "word": "incubus",
+            "translation": "악몽, 악마",
+            "sentence": "The memory of failure was an incubus haunting him."
+        },
+        {
+            "word": "indefatigable",
+            "translation": "피곤하지 않는, 지치지 않는",
+            "sentence": "Her indefatigable spirit inspired the team."
+        },
+        {
+            "word": "indelible",
+            "translation": "지워지지 않는, 지워지지 않는 흔적",
+            "sentence": "The experience left an indelible mark on her."
+        },
+        {
+            "word": "indemnify",
+            "translation": "배상하다, 보호하다",
+            "sentence": "The insurance will indemnify them for their losses."
+        },
+        {
+            "word": "indeterminate",
+            "translation": "불확정한, 불확실한",
+            "sentence": "The outcome of the experiment was indeterminate."
+        },
+        {
+            "word": "indigence",
+            "translation": "빈곤, 불우",
+            "sentence": "He lived in indigence after losing his job."
+        },
+        {
+            "word": "indigenous",
+            "translation": "토착의, 원주민의",
+            "sentence": "The indigenous plants thrived in the local climate."
+        },
+        {
+            "word": "indigent",
+            "translation": "빈곤한, 불우한",
+            "sentence": "The charity helped the indigent families in town."
+        },
+        {
+            "word": "indignant",
+            "translation": "분노한, 분개한",
+            "sentence": "She was indignant at the unfair treatment."
+        },
+        {
+            "word": "indignation",
+            "translation": "분노, 분개",
+            "sentence": "His words sparked indignation among the crowd."
+        },
+        {
+            "word": "indiscreet",
+            "translation": "부주의한, 분별 없는",
+            "sentence": "His indiscreet comment embarrassed everyone."
+        },
+        {
+            "word": "indisputable",
+            "translation": "명백한, 논쟁의 여지가 없는",
+            "sentence": "The facts were indisputable and widely accepted."
+        },
+        {
+            "word": "indolent",
+            "translation": "게으른, 나태한",
+            "sentence": "The indolent student rarely completed his work."
+        },
+        {
+            "word": "indomitable",
+            "translation": "굴하지 않는, 불굴의",
+            "sentence": "Her indomitable will carried her through hardship."
+        },
+        {
+            "word": "indubitable",
+            "translation": "무엇보다 확실한, 의심할 여지가 없는",
+            "sentence": "The truth of his statement was indubitable."
+        },
+        {
+            "word": "induce",
+            "translation": "초래하다, 유도하다",
+            "sentence": "The medicine was used to induce sleep."
+        },
+        {
+            "word": "indulgent",
+            "translation": "관대한, 너그러운",
+            "sentence": "The indulgent parent spoiled her children."
+        },
+        {
+            "word": "inebriate",
+            "translation": "술에 취한, 술에 취하게 하다",
+            "sentence": "The inebriate stumbled out of the bar."
+        },
+        {
+            "word": "ineffable",
+            "translation": "말로 표현할 수 없는, 형언할 수 없는",
+            "sentence": "The beauty of the scene was ineffable."
+        },
+        {
+            "word": "inept",
+            "translation": "서투른, 부적절한",
+            "sentence": "His inept handling of the situation worsened it."
+        },
+        {
+            "word": "inequity",
+            "translation": "불공평, 불평등",
+            "sentence": "The inequity in pay sparked protests."
+        },
+        {
+            "word": "inert",
+            "translation": "활력이 없는, 움직이지 않는",
+            "sentence": "The inert gas posed no threat in the room."
+        },
+        {
+            "word": "inestimable",
+            "translation": "값을 헤아릴 수 없는, 소중한",
+            "sentence": "Her support was of inestimable value to him."
+        },
+        {
+            "word": "inevitable",
+            "translation": "피할 수 없는, 필연적인",
+            "sentence": "Change is an inevitable part of life."
+        },
+        {
+            "word": "inexorable",
+            "translation": "어느 누구도 막을 수 없는, 가차 없는",
+            "sentence": "Time marches on with inexorable force."
+        },
+        {
+            "word": "inexplicable",
+            "translation": "설명할 수 없는, 불가사의한",
+            "sentence": "The sudden disappearance was inexplicable."
+        },
+        {
+            "word": "infamous",
+            "translation": "악명 높은, 악랄한",
+            "sentence": "The infamous criminal evaded capture for years."
+        },
+        {
+            "word": "infantile",
+            "translation": "유아의, 유치한",
+            "sentence": "His infantile tantrum embarrassed his friends."
+        },
+        {
+            "word": "infatuate",
+            "translation": "매혹시키다, 반하게 하다",
+            "sentence": "She was infatuated with the charming stranger."
+        },
+        {
+            "word": "infelicitous",
+            "translation": "불행한, 부적절한",
+            "sentence": "His infelicitous remark ruined the mood."
+        },
+        {
+            "word": "infernal",
+            "translation": "지옥의, 지독한",
+            "sentence": "The infernal noise kept them awake all night."
+        },
+        {
+            "word": "infidel",
+            "translation": "불신자, 이단자",
+            "sentence": "The infidel rejected the group’s core beliefs."
+        },
+        {
+            "word": "infinitesimal",
+            "translation": "미세한, 아주 작은",
+            "sentence": "The difference was infinitesimal but noticeable."
+        },
+        {
+            "word": "infirm",
+            "translation": "약한, 허약한",
+            "sentence": "The infirm elderly man needed constant care."
+        },
+        {
+            "word": "influx",
+            "translation": "밀려듦, 유입",
+            "sentence": "The city saw an influx of tourists during the festival."
+        },
+        {
+            "word": "innocuous",
+            "translation": "해가 없는, 무해한",
+            "sentence": "The comment seemed innocuous but caused offense."
+        },
+        {
+            "word": "innovate",
+            "translation": "혁신하다, 창안하다",
+            "sentence": "The company aimed to innovate with new technology."
+        },
+        {
+            "word": "innumerable",
+            "translation": "무수한, 셀 수 없는",
+            "sentence": "Innumerable stars twinkled in the night sky."
+        },
+        {
+            "word": "inopportune",
+            "translation": "적절하지 않은, 때가 아닌",
+            "sentence": "His call came at an inopportune moment."
+        },
+        {
+            "word": "insatiable",
+            "translation": "탐욕스러운, 만족하지 않는",
+            "sentence": "Her insatiable curiosity drove her to explore."
+        },
+        {
+            "word": "inscrutable",
+            "translation": "알 수 없는, 불가사의한",
+            "sentence": "His inscrutable expression hid his true feelings."
+        },
+        {
+            "word": "insidious",
+            "translation": "은밀한, 교활한",
+            "sentence": "The insidious disease spread without notice."
+        },
+        {
+            "word": "insinuate",
+            "translation": "암시하다, 넌지시 말하다",
+            "sentence": "She insinuated that he wasn’t telling the truth."
+        },
+        {
+            "word": "insipid",
+            "translation": "무미건조한, 맛없는",
+            "sentence": "The insipid meal disappointed the guests."
+        },
+        {
+            "word": "insolent",
+            "translation": "건방진, 오만한",
+            "sentence": "His insolent reply angered the teacher."
+        },
+        {
+            "word": "insolvent",
+            "translation": "파산한, 파산한 상태",
+            "sentence": "The insolvent company couldn’t pay its debts."
+        },
+        {
+            "word": "insomnia",
+            "translation": "불면증, 잠 못 이루는",
+            "sentence": "Insomnia plagued her for weeks after the event."
+        },
+        {
+            "word": "insouciant",
+            "translation": "태평한, 무관심한",
+            "sentence": "His insouciant attitude annoyed his worried friends."
+        },
+        {
+            "word": "inspiration",
+            "translation": "영감, 감동",
+            "sentence": "The painting was a source of inspiration for many artists."
+        },
+        {
+            "word": "instigate",
+            "translation": "선동하다, 조장하다",
+            "sentence": "He tried to instigate a rebellion among the workers."
+        },
+        {
+            "word": "insubordinate",
+            "translation": "복종하지 않는, 명령 불복",
+            "sentence": "The insubordinate soldier ignored his commander’s orders."
+        },
+        {
+            "word": "insubstantial",
+            "translation": "비실질적인, 허약한",
+            "sentence": "The evidence was too insubstantial to convict him."
+        },
+        {
+            "word": "insubvert",
+            "translation": "뒤집다, 전복시키다",
+            "sentence": "They planned to insubvert the government’s authority."
+        },
+        {
+            "word": "insufferable",
+            "translation": "참을 수 없는, 견디기 힘든",
+            "sentence": "His insufferable arrogance annoyed everyone."
+        },
+        {
+            "word": "insuperable",
+            "translation": "극복할 수 없는, 무적의",
+            "sentence": "The team faced an insuperable challenge in the finals."
+        },
+        {
+            "word": "insurgent",
+            "translation": "반란자, 반란의",
+            "sentence": "The insurgents launched an attack at dawn."
+        },
+        {
+            "word": "insurmountable",
+            "translation": "극복할 수 없는, 넘을 수 없는",
+            "sentence": "The obstacles seemed insurmountable at first."
+        },
+        {
+            "word": "intemperate",
+            "translation": "무절제한, 과도한",
+            "sentence": "His intemperate drinking led to his downfall."
+        },
+        {
+            "word": "intensify",
+            "translation": "강화하다, 심화시키다",
+            "sentence": "The storm began to intensify as night fell."
+        },
+        {
+            "word": "interdict",
+            "translation": "금지하다, 금지",
+            "sentence": "The court interdicted the sale of the property."
+        },
+        {
+            "word": "interim",
+            "translation": "잠정적인, 사이의",
+            "sentence": "She was appointed as the interim leader until the election."
+        },
+        {
+            "word": "interloper",
+            "translation": "불청객, 침입자",
+            "sentence": "The interloper disrupted the private meeting."
+        },
+        {
+            "word": "interminable",
+            "translation": "끝없는, 지루한",
+            "sentence": "The lecture felt interminable to the bored students."
+        },
+        {
+            "word": "interpolate",
+            "translation": "삽입하다, 끼워 넣다",
+            "sentence": "He interpolated a few jokes into his speech."
+        },
+        {
+            "word": "interrogate",
+            "translation": "심문하다, 질문하다",
+            "sentence": "The police interrogated the suspect for hours."
+        },
+        {
+            "word": "interrogatee",
+            "translation": "심문 받는 사람",
+            "sentence": "The interrogatee remained silent during questioning."
+        },
+        {
+            "word": "interrogateor",
+            "translation": "심문하는 사람",
+            "sentence": "The interrogateor pressed for a confession."
+        },
+        {
+            "word": "intransigent",
+            "translation": "비타협적인, 완고한",
+            "sentence": "Her intransigent stance stalled the negotiations."
+        },
+        {
+            "word": "intrepid",
+            "translation": "용감한, 대담한",
+            "sentence": "The intrepid explorer ventured into the jungle alone."
+        },
+        {
+            "word": "intricate",
+            "translation": "복잡한, 복잡하게 얽힌",
+            "sentence": "The intricate design took months to complete."
+        },
+        {
+            "word": "intrigue",
+            "translation": "음모, 흥미",
+            "sentence": "The mystery novel was full of intrigue and suspense."
+        },
+        {
+            "word": "introspective",
+            "translation": "반성하는, 내성적인",
+            "sentence": "His introspective nature made him a deep thinker."
+        },
+        {
+            "word": "intrusive",
+            "translation": "침입하는, 간섭하는",
+            "sentence": "The intrusive questions made her uncomfortable."
+        },
+        {
+            "word": "inundate",
+            "translation": "범람하다, 범람시키다",
+            "sentence": "The village was inundated after the dam broke."
+        },
+        {
+            "word": "invalidate",
+            "translation": "무효화하다, 무효가 되다",
+            "sentence": "The new evidence may invalidate the contract."
+        },
+        {
+            "word": "invective",
+            "translation": "악담, 욕설",
+            "sentence": "He hurled invective at his opponent during the debate."
+        },
+        {
+            "word": "inveigh",
+            "translation": "비난하다, 공격하다",
+            "sentence": "She inveighed against the unfair policies."
+        },
+        {
+            "word": "inveigle",
+            "translation": "꼬드기다, 유혹하다",
+            "sentence": "He inveigled her into joining the risky venture."
+        },
+        {
+            "word": "inveterate",
+            "translation": "고질적인, 뿌리 깊은",
+            "sentence": "He was an inveterate gambler, unable to stop."
+        },
+        {
+            "word": "invigorate",
+            "translation": "활기차게 하다, 강화하다",
+            "sentence": "The fresh air invigorated the tired hikers."
+        },
+        {
+            "word": "invincible",
+            "translation": "무적의, 극복할 수 없는",
+            "sentence": "The team felt invincible after their winning streak."
+        },
+        {
+            "word": "inviolable",
+            "translation": "침범할 수 없는, 불가침의",
+            "sentence": "The treaty established inviolable borders."
+        },
+        {
+            "word": "invocation",
+            "translation": "기도, 부름",
+            "sentence": "The ceremony began with an invocation of peace."
+        },
+        {
+            "word": "invoke",
+            "translation": "기도하다, 불러내다",
+            "sentence": "She invoked the spirit of her ancestors for guidance."
+        },
+        {
+            "word": "irascible",
+            "translation": "성마른, 성질이 급한",
+            "sentence": "His irascible temper made him difficult to work with."
+        },
+        {
+            "word": "ire",
+            "translation": "분노, 성",
+            "sentence": "Her harsh words provoked his ire."
+        },
+        {
+            "word": "irk",
+            "translation": "성가시게 하다, 짜증나게 하다",
+            "sentence": "The constant noise began to irk the residents."
+        },
+        {
+            "word": "irksome",
+            "translation": "성가신, 짜증나는",
+            "sentence": "The irksome task took hours to complete."
+        },
+        {
+            "word": "irreconcilable",
+            "translation": "화해할 수 없는, 공존할 수 없는",
+            "sentence": "Their irreconcilable differences led to a split."
+        },
+        {
+            "word": "irrefutable",
+            "translation": "반박할 수 없는, 확실한",
+            "sentence": "The proof was irrefutable and silenced all doubts."
+        },
+        {
+            "word": "irrelevant",
+            "translation": "부적절한, 관련 없는",
+            "sentence": "His comments were irrelevant to the discussion."
+        },
+        {
+            "word": "irremediable",
+            "translation": "고칠 수 없는, 구제할 수 없는",
+            "sentence": "The damage was irremediable and permanent."
+        },
+        {
+            "word": "irreparable",
+            "translation": "회복할 수 없는, 수리할 수 없는",
+            "sentence": "The irreparable rift ended their friendship."
+        },
+        {
+            "word": "irrepressible",
+            "translation": "억제할 수 없는, 참을 수 없는",
+            "sentence": "Her irrepressible laughter filled the room."
+        },
+        {
+            "word": "irreproachable",
+            "translation": "비난할 수 없는, 흠잡을 수 없는",
+            "sentence": "His conduct was irreproachable throughout the trial."
+        },
+        {
+            "word": "irresolute",
+            "translation": "결단력 없는, 우유부단한",
+            "sentence": "The irresolute leader hesitated at every decision."
+        },
+        {
+            "word": "irreverent",
+            "translation": "경건하지 않은, 불경한",
+            "sentence": "His irreverent jokes offended the devout audience."
+        },
+        {
+            "word": "irrevocable",
+            "translation": "취소할 수 없는, 돌이킬 수 없는",
+            "sentence": "The decision was irrevocable once it was signed."
+        },
+        {
+            "word": "irrigate",
+            "translation": "관개하다, 물을 주다",
+            "sentence": "Farmers irrigate the fields during dry seasons."
+        },
+        {
+            "word": "irritable",
+            "translation": "잘 짜증나는, 성마른",
+            "sentence": "He became irritable after hours of delays."
+        },
+        {
+            "word": "irritate",
+            "translation": "짜증나게 하다, 성가시게 하다",
+            "sentence": "The loud music irritated the neighbors."
+        },
+        {
+            "word": "isochronous",
+            "translation": "동시간의, 동시에 일어나는",
+            "sentence": "The isochronous events were perfectly synchronized."
+        },
+        {
+            "word": "iterate",
+            "translation": "반복하다, 되풀이하다",
+            "sentence": "She iterated her point to ensure clarity."
+        },
+        {
+            "word": "itinerant",
+            "translation": "순회하는, 여행하는",
+            "sentence": "The itinerant preacher visited villages regularly."
+        },
+        {
+            "word": "itinerate",
+            "translation": "순회하다, 여행하다",
+            "sentence": "He itinerated across the country to spread his message."
+        },
+        {
+            "word": "jabber",
+            "translation": "지껄이다, 재잘대다",
+            "sentence": "The children jabbered excitedly about their day."
+        },
+        {
+            "word": "jape",
+            "translation": "농담, 장난",
+            "sentence": "His jape about the boss didn’t go over well."
+        },
+        {
+            "word": "jeer",
+            "translation": "비웃다, 조롱하다",
+            "sentence": "The crowd began to jeer at the losing team."
+        },
+        {
+            "word": "jettison",
+            "translation": "버리다, 내다",
+            "sentence": "They jettisoned excess cargo to lighten the ship."
+        },
+        {
+            "word": "jocular",
+            "translation": "우스운, 익살스러운",
+            "sentence": "His jocular tone kept the mood light."
+        },
+        {
+            "word": "jocund",
+            "translation": "명랑한, 쾌활한",
+            "sentence": "The jocund atmosphere made the party enjoyable."
+        },
+        {
+            "word": "jollity",
+            "translation": "즐거움, 유쾌함",
+            "sentence": "The room was filled with jollity during the celebration."
+        },
+        {
+            "word": "jostle",
+            "translation": "밀치다, 떠밀다",
+            "sentence": "People jostled each other to get a better view."
+        },
+        {
+            "word": "jubilant",
+            "translation": "기뻐하는, 환호하는",
+            "sentence": "The jubilant fans cheered their team’s victory."
+        },
+        {
+            "word": "judicious",
+            "translation": "분별 있는, 지혜로운",
+            "sentence": "Her judicious advice saved them from trouble."
+        },
+        {
+            "word": "juggernaut",
+            "translation": "거대한 것, 거대한 힘",
+            "sentence": "The company became a juggernaut in the industry."
+        },
+        {
+            "word": "jumble",
+            "translation": "뒤섞다, 혼란스럽게 하다",
+            "sentence": "The papers were a jumble on his desk."
+        },
+        {
+            "word": "juncture",
+            "translation": "때, 지점",
+            "sentence": "At this juncture, we must decide our next step."
+        },
+        {
+            "word": "juridical",
+            "translation": "법률의, 법의",
+            "sentence": "The issue required a juridical review."
+        },
+        {
+            "word": "jurisprudent",
+            "translation": "법학자, 법학의",
+            "sentence": "The jurisprudent advised on complex legal matters."
+        },
+        {
+            "word": "justiciary",
+            "translation": "재판관, 법관",
+            "sentence": "The justiciary presided over the high-profile case."
+        },
+        {
+            "word": "justifiable",
+            "translation": "정당한, 정당화될 수 있는",
+            "sentence": "Her reaction was justifiable given the circumstances."
+        },
+        {
+            "word": "juxtapose",
+            "translation": "병치하다, 나란히 놓다",
+            "sentence": "The artist juxtaposed light and dark in her work."
+        },
+        {
+            "word": "kaleidoscopic",
+            "translation": "변화무쌍한, 다채로운",
+            "sentence": "The festival offered a kaleidoscopic array of colors."
+        },
+        {
+            "word": "ken",
+            "translation": "지식, 이해",
+            "sentence": "The concept was beyond his ken."
+        },
+        {
+            "word": "kibitz",
+            "translation": "지켜보다, 참견하다",
+            "sentence": "He loved to kibitz during their card games."
+        },
+        {
+            "word": "kindle",
+            "translation": "불을 붙이다, 점화하다",
+            "sentence": "She kindled a fire to warm the cabin."
+        },
+        {
+            "word": "knell",
+            "translation": "종소리, 조종",
+            "sentence": "The church bell’s knell signaled the end of an era."
+        },
+        {
+            "word": "knoll",
+            "translation": "언덕, 작은 언덕",
+            "sentence": "They picnicked on a grassy knoll by the river."
+        },
+        {
+            "word": "kudos",
+            "translation": "명예, 칭찬",
+            "sentence": "She earned kudos for her outstanding performance."
+        },
+        {
+            "word": "labyrinthine",
+            "translation": "미로의, 복잡한",
+            "sentence": "The labyrinthine corridors confused the visitors."
+        },
+        {
+            "word": "lachrymose",
+            "translation": "슬픈, 눈물 많은",
+            "sentence": "The lachrymose film left the audience in tears."
+        },
+        {
+            "word": "laconic",
+            "translation": "간결한, 짧은",
+            "sentence": "His laconic reply surprised the talkative group."
+        },
+        {
+            "word": "lacuna",
+            "translation": "공백, 빈자리",
+            "sentence": "There was a lacuna in the historical record."
+        },
+        {
+            "word": "laggard",
+            "translation": "게으른, 느린",
+            "sentence": "The laggard student always submitted work late."
+        },
+        {
+            "word": "lament",
+            "translation": "슬퍼하다, 애도하다",
+            "sentence": "She lamented the loss of her childhood home."
+        },
+        {
+            "word": "lampoon",
+            "translation": "풍자하다, 비난하다",
+            "sentence": "The cartoon lampooned the politician’s mistakes."
+        },
+        {
+            "word": "languid",
+            "translation": "무기력한, 느긋한",
+            "sentence": "He moved with a languid grace in the heat."
+        },
+        {
+            "word": "languish",
+            "translation": "쇠약해지다, 시들다",
+            "sentence": "The plants languished without proper care."
+        },
+        {
+            "word": "languor",
+            "translation": "무기력, 나른함",
+            "sentence": "A sense of languor settled over the lazy afternoon."
+        },
+        {
+            "word": "larceny",
+            "translation": "도둑질, 절도",
+            "sentence": "He was arrested for committing larceny at the store."
+        },
+        {
+            "word": "largess",
+            "translation": "다량, 대량",
+            "sentence": "The king bestowed largess upon his loyal subjects."
+        },
+        {
+            "word": "lascivious",
+            "translation": "음탕한, 음란한",
+            "sentence": "His lascivious remarks made her uneasy."
+        },
+        {
+            "word": "lassitude",
+            "translation": "무기력, 나른함",
+            "sentence": "After the long day, lassitude overcame him."
+        },
+        {
+            "word": "latent",
+            "translation": "숨은, 잠재적인",
+            "sentence": "Her latent talent emerged during the competition."
+        },
+        {
+            "word": "laud",
+            "translation": "칭찬하다, 찬양하다",
+            "sentence": "They gathered to laud her exceptional achievements."
+        },
+        {
+            "word": "laudable",
+            "translation": "칭찬할 만한, 칭찬받을 만한",
+            "sentence": "His laudable efforts improved the community."
+        },
+        {
+            "word": "laudatory",
+            "translation": "칭찬의, 찬양의",
+            "sentence": "The article was filled with laudatory remarks."
+        },
+        {
+            "word": "lecherous",
+            "translation": "음탕한, 음란한",
+            "sentence": "His lecherous behavior made everyone uncomfortable."
+        },
+        {
+            "word": "leisurely",
+            "translation": "느긋한, 한가로운",
+            "sentence": "They took a leisurely stroll through the park."
+        },
+        {
+            "word": "lenient",
+            "translation": "관대한, 부드러운",
+            "sentence": "The teacher was lenient with late assignments."
+        },
+        {
+            "word": "leonine",
+            "translation": "사자의, 사자 같은",
+            "sentence": "His leonine mane of hair was striking."
+        },
+        {
+            "word": "lethargic",
+            "translation": "무기력한, 무감각한",
+            "sentence": "The heat left her feeling lethargic and slow."
+        },
+        {
+            "word": "levee",
+            "translation": "방조제, 둑",
+            "sentence": "The levee held back the rising floodwaters."
+        },
+        {
+            "word": "levity",
+            "translation": "경솔, 경박",
+            "sentence": "His levity was out of place at the somber event."
+        },
+        {
+            "word": "libel",
+            "translation": "명예훼손, 중상",
+            "sentence": "The article was accused of libel against the politician."
+        },
+        {
+            "word": "libertine",
+            "translation": "방탕한, 자유분방한",
+            "sentence": "The libertine lived a life of unrestrained pleasure."
+        },
+        {
+            "word": "libidinous",
+            "translation": "욕정적인, 음탕한",
+            "sentence": "His libidinous glances made her uneasy."
+        },
+        {
+            "word": "licentious",
+            "translation": "방종한, 음란한",
+            "sentence": "The licentious party shocked the conservative guests."
+        },
+        {
+            "word": "limpid",
+            "translation": "맑은, 투명한",
+            "sentence": "The limpid water reflected the clear sky."
+        },
+        {
+            "word": "linger",
+            "translation": "머무르다, 지체하다",
+            "sentence": "She lingered at the café, enjoying the atmosphere."
+        },
+        {
+            "word": "lithe",
+            "translation": "유연한, 날씬한",
+            "sentence": "The dancer’s lithe movements captivated the audience."
+        },
+        {
+            "word": "loath",
+            "translation": "꺼리는, 싫어하는",
+            "sentence": "He was loath to admit his mistake."
+        },
+        {
+            "word": "loathe",
+            "translation": "혐오하다, 싫어하다",
+            "sentence": "She loathed the taste of olives."
+        },
+        {
+            "word": "lofty",
+            "translation": "높은, 고상한",
+            "sentence": "His lofty ideals inspired those around him."
+        },
+        {
+            "word": "loll",
+            "translation": "게으르게 앉다, 축 늘어지다",
+            "sentence": "He lolled on the couch all afternoon."
+        },
+        {
+            "word": "loquacious",
+            "translation": "말 많은, 수다스러운",
+            "sentence": "The loquacious host kept the conversation flowing."
+        },
+        {
+            "word": "lucid",
+            "translation": "명료한, 맑은",
+            "sentence": "Her lucid explanation clarified the complex topic."
+        },
+        {
+            "word": "lucrative",
+            "translation": "수익성 있는, 이익이 되는",
+            "sentence": "The deal proved to be highly lucrative for both parties."
+        },
+        {
+            "word": "ludicrous",
+            "translation": "우스꽝스러운, 터무니없는",
+            "sentence": "The idea of flying pigs was utterly ludicrous."
+        },
+        {
+            "word": "lugubrious",
+            "translation": "침울한, 슬픈",
+            "sentence": "His lugubrious tone dampened the mood."
+        },
+        {
+            "word": "lull",
+            "translation": "잠잠하게 하다, 잠시 동안의 평온",
+            "sentence": "The soft music lulled her into a peaceful sleep."
+        },
+        {
+            "word": "luminous",
+            "translation": "빛나는, 빛을 내는",
+            "sentence": "The luminous stars lit up the night sky."
+        },
+        {
+            "word": "lurid",
+            "translation": "섬뜩한, 야한",
+            "sentence": "The lurid details of the crime shocked the readers."
+        },
+        {
+            "word": "luscious",
+            "translation": "맛있는, 감미로운",
+            "sentence": "The luscious fruit was a treat to eat."
+        },
+        {
+            "word": "lustrous",
+            "translation": "윤기 나는, 빛나는",
+            "sentence": "Her lustrous hair shone in the sunlight."
+        },
+        {
+            "word": "luxuriant",
+            "translation": "풍성한, 무성한",
+            "sentence": "The luxuriant forest was teeming with life."
+        },
+        {
+            "word": "luxurious",
+            "translation": "호화로운, 사치스러운",
+            "sentence": "They stayed in a luxurious hotel by the beach."
+        },
+        {
+            "word": "macerate",
+            "translation": "약하게 만들다, 썩다",
+            "sentence": "The fruit was left to macerate in sugar overnight."
+        },
+        {
+            "word": "machination",
+            "translation": "음모, 책략",
+            "sentence": "His machinations were designed to undermine his rivals."
+        },
+        {
+            "word": "madrigal",
+            "translation": "마드리갈, 사랑 노래",
+            "sentence": "The choir performed a beautiful madrigal."
+        },
+        {
+            "word": "maelstrom",
+            "translation": "소용돌이, 혼란",
+            "sentence": "The scandal created a maelstrom of controversy."
+        },
+        {
+            "word": "magnanimous",
+            "translation": "관대한, 도량이 큰",
+            "sentence": "His magnanimous gesture won over his critics."
+        },
+        {
+            "word": "magnitude",
+            "translation": "크기, 중요성",
+            "sentence": "The magnitude of the problem became clear over time."
+        },
+        {
+            "word": "maim",
+            "translation": "불구로 만들다, 크게 해치다",
+            "sentence": "The accident maimed him for life."
+        },
+        {
+            "word": "maladroit",
+            "translation": "서투른, 손재주가 없는",
+            "sentence": "His maladroit attempt at fixing the sink made it worse."
+        },
+        {
+            "word": "malady",
+            "translation": "질병, 병",
+            "sentence": "The village suffered from a mysterious malady."
+        },
+        {
+            "word": "malapropism",
+            "translation": "말실수, 어휘 오용",
+            "sentence": "Her speech was full of amusing malapropisms."
+        },
+        {
+            "word": "malcontent",
+            "translation": "불만을 가진 사람, 불만자",
+            "sentence": "The malcontent grumbled about every decision."
+        },
+        {
+            "word": "malediction",
+            "translation": "저주, 욕설",
+            "sentence": "He muttered a malediction under his breath."
+        },
+        {
+            "word": "malefactor",
+            "translation": "악인, 범죄자",
+            "sentence": "The malefactor was finally brought to justice."
+        },
+        {
+            "word": "malevolent",
+            "translation": "악의적인, 해로운",
+            "sentence": "Her malevolent glare sent shivers down his spine."
+        },
+        {
+            "word": "malfeasance",
+            "translation": "직무유기, 불법 행위",
+            "sentence": "The official was charged with malfeasance in office."
+        },
+        {
+            "word": "malicious",
+            "translation": "악의적인, 심술궂은",
+            "sentence": "The malicious rumor spread quickly through the town."
+        },
+        {
+            "word": "malign",
+            "translation": "중상하다, 헐뜯다",
+            "sentence": "He maligned her reputation with false accusations."
+        },
+        {
+            "word": "malignant",
+            "translation": "악성인, 해로운",
+            "sentence": "The malignant tumor required immediate surgery."
+        },
+        {
+            "word": "malinger",
+            "translation": "꾀병을 부리다, 꾀병을 쓰다",
+            "sentence": "He malingered to avoid going to work."
+        },
+        {
+            "word": "mallet",
+            "translation": "망치, 나무망치",
+            "sentence": "She used a mallet to hammer the stake into the ground."
+        },
+        {
+            "word": "mammoth",
+            "translation": "거대한, 매머드",
+            "sentence": "The mammoth project took years to complete."
+        },
+        {
+            "word": "manacle",
+            "translation": "족쇄, 속박",
+            "sentence": "The prisoner’s wrists were bound with manacles."
+        },
+        {
+            "word": "mandate",
+            "translation": "명령, 위임",
+            "sentence": "The leader received a mandate to enact reforms."
+        },
+        {
+            "word": "mandatory",
+            "translation": "의무적인, 명령의",
+            "sentence": "Attendance at the meeting was mandatory."
+        },
+        {
+            "word": "maneuver",
+            "translation": "작전, 책략",
+            "sentence": "The army executed a clever maneuver to outflank the enemy."
+        },
+        {
+            "word": "mangy",
+            "translation": "더러운, 비루한",
+            "sentence": "The mangy dog wandered the streets alone."
+        },
+        {
+            "word": "maniacal",
+            "translation": "광적인, 미친",
+            "sentence": "His maniacal laughter echoed through the room."
+        },
+        {
+            "word": "manifest",
+            "translation": "분명한, 명백한",
+            "sentence": "Her joy was manifest in her bright smile."
+        },
+        {
+            "word": "manipulate",
+            "translation": "조종하다, 다루다",
+            "sentence": "He manipulated the data to support his argument."
+        },
+        {
+            "word": "mannered",
+            "translation": "인위적인, 형식적인",
+            "sentence": "His mannered speech felt stiff and unnatural."
+        },
+        {
+            "word": "mantle",
+            "translation": "망토, 덮개",
+            "sentence": "The mountain was covered with a mantle of snow."
+        },
+        {
+            "word": "mar",
+            "translation": "망치다, 손상시키다",
+            "sentence": "A scratch marred the surface of the table."
+        },
+        {
+            "word": "maraud",
+            "translation": "약탈하다, 습격하다",
+            "sentence": "The bandits marauded the village at night."
+        },
+        {
+            "word": "marginal",
+            "translation": "주변의, 한계의",
+            "sentence": "The changes had only a marginal impact on sales."
+        },
+        {
+            "word": "marital",
+            "translation": "결혼의, 부부 사이의",
+            "sentence": "They sought counseling to resolve marital issues."
+        },
+        {
+            "word": "maroon",
+            "translation": "적갈색, 외딴섬에 버리다",
+            "sentence": "The sailors were marooned on a deserted island."
+        },
+        {
+            "word": "martial",
+            "translation": "전투의, 군대의",
+            "sentence": "The city was placed under martial law."
+        },
+        {
+            "word": "martinet",
+            "translation": "엄격한 사람, 군대식 사람",
+            "sentence": "The martinet enforced rules with no exceptions."
+        },
+        {
+            "word": "marvel",
+            "translation": "경탄, 경이",
+            "sentence": "The ancient ruins were a marvel to behold."
+        },
+        {
+            "word": "marvelous",
+            "translation": "놀라운, 경이로운",
+            "sentence": "The performance was simply marvelous."
+        },
+        {
+            "word": "mash",
+            "translation": "으깨다, 뭉개다",
+            "sentence": "She mashed the potatoes until they were smooth."
+        },
+        {
+            "word": "masochist",
+            "translation": "자기 학대자, 가학증 환자",
+            "sentence": "The masochist seemed to enjoy the harsh criticism."
+        },
+        {
+            "word": "masticate",
+            "translation": "씹다, 갈기다",
+            "sentence": "He masticated his food slowly to savor it."
+        },
+        {
+            "word": "materialize",
+            "translation": "실현되다, 구체화되다",
+            "sentence": "Her dreams began to materialize after years of effort."
+        },
+        {
+            "word": "maternal",
+            "translation": "어머니의, 모성의",
+            "sentence": "She felt a maternal instinct to protect the child."
+        },
+        {
+            "word": "matriculate",
+            "translation": "입학하다, 등록하다",
+            "sentence": "He matriculated at the university last fall."
+        },
+        {
+            "word": "mature",
+            "translation": "성숙한, 다 자란",
+            "sentence": "Her mature perspective impressed her peers."
+        },
+        {
+            "word": "maudlin",
+            "translation": "감상적인, 지나치게 감상적인",
+            "sentence": "The maudlin speech brought tears to many eyes."
+        },
+        {
+            "word": "maul",
+            "translation": "마구 때리다, 난폭하게 다루다",
+            "sentence": "The bear mauled the hiker before escaping."
+        },
+        {
+            "word": "maverick",
+            "translation": "변칙적인, 독특한",
+            "sentence": "The maverick politician defied party norms."
+        },
+        {
+            "word": "mawkish",
+            "translation": "감상적인, 달짝지근한",
+            "sentence": "The mawkish love story felt overly sentimental."
+        },
+        {
+            "word": "meager",
+            "translation": "빈약한, 부족한",
+            "sentence": "They survived on a meager supply of food."
+        },
+        {
+            "word": "meander",
+            "translation": "어정거리다, 헤매다",
+            "sentence": "The river meandered through the lush valley."
+        },
+        {
+            "word": "meddle",
+            "translation": "간섭하다, 참견하다",
+            "sentence": "She warned him not to meddle in her affairs."
+        },
+        {
+            "word": "mediate",
+            "translation": "중재하다, 중개하다",
+            "sentence": "He mediated the dispute between the two parties."
+        },
+        {
+            "word": "mediocre",
+            "translation": "보통의, 평범한",
+            "sentence": "The film received mediocre reviews from critics."
+        },
+        {
+            "word": "meditate",
+            "translation": "생각하다, 명상하다",
+            "sentence": "She meditated daily to find inner peace."
+        },
+        {
+            "word": "meek",
+            "translation": "온순한, 유순한",
+            "sentence": "The meek child rarely spoke up in class."
+        },
+        {
+            "word": "megalomania",
+            "translation": "과대망상, 자기 과신",
+            "sentence": "His megalomania drove him to seek absolute power."
+        },
+        {
+            "word": "melancholy",
+            "translation": "우울, 슬픔",
+            "sentence": "A melancholy tune played as the rain fell."
+        },
+        {
+            "word": "melee",
+            "translation": "난투, 소동",
+            "sentence": "The argument escalated into a chaotic melee."
+        },
+        {
+            "word": "mellifluous",
+            "translation": "유창한, 감미로운",
+            "sentence": "Her mellifluous voice soothed the audience."
+        },
+        {
+            "word": "mendacious",
+            "translation": "거짓된, 사기적인",
+            "sentence": "The mendacious salesman tricked unsuspecting buyers."
+        },
+        {
+            "word": "mendicant",
+            "translation": "거지, 구걸하는 사람",
+            "sentence": "The mendicant begged for coins on the street."
+        },
+        {
+            "word": "menial",
+            "translation": "하찮은, 천한",
+            "sentence": "He took on menial tasks to earn extra money."
+        },
+        {
+            "word": "mentor",
+            "translation": "스승, 지도자",
+            "sentence": "She became a mentor to the young writer."
+        },
+        {
+            "word": "mercenary",
+            "translation": "용병, 돈에 환장한",
+            "sentence": "The mercenary fought for whoever paid the most."
+        },
+        {
+            "word": "mercurial",
+            "translation": "변덕스러운, 수은의",
+            "sentence": "His mercurial moods made him unpredictable."
+        },
+        {
+            "word": "meretricious",
+            "translation": "번지르르한, 외양만 화려한",
+            "sentence": "The meretricious display hid the product’s flaws."
+        },
+        {
+            "word": "mesmerize",
+            "translation": "마음을 사로잡다, 현혹시키다",
+            "sentence": "The magician’s tricks mesmerized the crowd."
+        },
+        {
+            "word": "metamorphosis",
+            "translation": "변태, 변형",
+            "sentence": "The caterpillar’s metamorphosis into a butterfly was stunning."
+        },
+        {
+            "word": "metaphor",
+            "translation": "은유, 은유적인 표현",
+            "sentence": "The poet used a metaphor to describe her emotions."
+        },
+        {
+            "word": "meticulous",
+            "translation": "꼼꼼한, 세심한",
+            "sentence": "Her meticulous planning ensured a flawless event."
+        },
+        {
+            "word": "mettle",
+            "translation": "용기, 기질",
+            "sentence": "The challenge tested his mettle as a leader."
+        },
+        {
+            "word": "miasma",
+            "translation": "독기, 나쁜 공기",
+            "sentence": "A miasma of smoke hung over the battlefield."
+        },
+        {
+            "word": "midget",
+            "translation": "난쟁이, 작은 것",
+            "sentence": "The midget car was perfect for tight spaces."
+        },
+        {
+            "word": "migratory",
+            "translation": "이주하는, 이동하는",
+            "sentence": "Migratory birds flew south for the winter."
+        },
+        {
+            "word": "milieu",
+            "translation": "환경, 배경",
+            "sentence": "She thrived in the artistic milieu of the city."
+        },
+        {
+            "word": "militant",
+            "translation": "적극적인, 과격한",
+            "sentence": "The militant group demanded immediate change."
+        },
+        {
+            "word": "mimic",
+            "translation": "흉내 내는, 모방하는",
+            "sentence": "The parrot could mimic human speech perfectly."
+        },
+        {
+            "word": "minatory",
+            "translation": "위협적인, 협박하는",
+            "sentence": "His minatory tone warned of consequences."
+        },
+        {
+            "word": "mince",
+            "translation": "잘게 썰다, 가늘게 자르다",
+            "sentence": "She minced the garlic for the sauce."
+        },
+        {
+            "word": "minion",
+            "translation": "측근, 심복",
+            "sentence": "The king’s minions carried out his every command."
+        },
+        {
+            "word": "minuscule",
+            "translation": "아주 작은, 미소한",
+            "sentence": "The minuscule details were easy to overlook."
+        },
+        {
+            "word": "minute",
+            "translation": "자세한, 세밀한",
+            "sentence": "He provided a minute description of the scene."
+        },
+        {
+            "word": "minutiae",
+            "translation": "자잘한 것, 세밀한 것",
+            "sentence": "She focused on the minutiae rather than the big picture."
+        },
+        {
+            "word": "mirage",
+            "translation": "신기루, 환상",
+            "sentence": "The oasis turned out to be a mirage in the desert."
+        },
+        {
+            "word": "mire",
+            "translation": "진흙, 곤경",
+            "sentence": "The car got stuck in the mire after the rain."
+        },
+        {
+            "word": "mirth",
+            "translation": "즐거움, 유쾌함",
+            "sentence": "The room was filled with mirth and laughter."
+        },
+        {
+            "word": "misanthrope",
+            "translation": "인간혐오자, 사람 싫어하는 사람",
+            "sentence": "The misanthrope avoided social gatherings."
+        },
+        {
+            "word": "misapprehend",
+            "translation": "잘못 이해하다, 오해하다",
+            "sentence": "He misapprehended her intentions completely."
+        },
+        {
+            "word": "misbehave",
+            "translation": "잘못 행동하다, 버릇없이 행동하다",
+            "sentence": "The children misbehaved during the quiet ceremony."
+        },
+        {
+            "word": "miscellaneous",
+            "translation": "여러 가지의, 잡다한",
+            "sentence": "The box contained miscellaneous items from the attic."
+        },
+        {
+            "word": "mischievous",
+            "translation": "장난꾸러기, 짓궂은",
+            "sentence": "The mischievous kitten knocked over the vase."
+        },
+        {
+            "word": "misconstrue",
+            "translation": "잘못 해석하다, 오해하다",
+            "sentence": "She misconstrued his silence as agreement."
+        },
+        {
+            "word": "miser",
+            "translation": "구두쇠, 인색한 사람",
+            "sentence": "The miser hoarded his wealth instead of spending it."
+        },
+        {
+            "word": "miserly",
+            "translation": "구두쇠의, 인색한",
+            "sentence": "His miserly habits frustrated his generous friends."
+        },
+        {
+            "word": "misfortune",
+            "translation": "불행, 재난",
+            "sentence": "She faced misfortune with remarkable resilience."
+        },
+        {
+            "word": "misgiving",
+            "translation": "의심, 불안",
+            "sentence": "He had a misgiving about trusting the stranger."
+        },
+        {
+            "word": "mishap",
+            "translation": "우발적인 사고, 불행",
+            "sentence": "The trip was delayed by a minor mishap."
+        },
+        {
+            "word": "misnomer",
+            "translation": "잘못된 이름, 오명",
+            "sentence": "Calling it a ‘peaceful protest’ was a misnomer."
+        },
+        {
+            "word": "misogynist",
+            "translation": "여성혐오자, 여자를 싫어하는 사람",
+            "sentence": "The misogynist made derogatory remarks about women."
+        },
+        {
+            "word": "misplace",
+            "translation": "잘못 두다, 잃어버리다",
+            "sentence": "She misplaced her keys in the rush."
+        },
+        {
+            "word": "misrepresent",
+            "translation": "잘못 표현하다, 왜곡하다",
+            "sentence": "The report misrepresented the facts to mislead readers."
+        },
+        {
+            "word": "missive",
+            "translation": "편지, 문서",
+            "sentence": "He sent a missive outlining his demands."
+        },
+        {
+            "word": "mistrust",
+            "translation": "불신, 의심",
+            "sentence": "Years of betrayal left her with deep mistrust."
+        },
+        {
+            "word": "mite",
+            "translation": "조금, 작은 것",
+            "sentence": "He contributed a mite to the charity fund."
+        },
+        {
+            "word": "mitigate",
+            "translation": "완화시키다, 경감시키다",
+            "sentence": "They took steps to mitigate the storm’s impact."
+        },
+        {
+            "word": "mnemonic",
+            "translation": "기억을 돕는, 기억술의",
+            "sentence": "She used a mnemonic to recall the list."
+        },
+        {
+            "word": "mobile",
+            "translation": "이동하는, 유동적인",
+            "sentence": "The mobile unit responded quickly to emergencies."
+        },
+        {
+            "word": "mock",
+            "translation": "조롱하다, 희화화하다",
+            "sentence": "He mocked her accent in a cruel tone."
+        },
+        {
+            "word": "moderate",
+            "translation": "온건한, 중용의",
+            "sentence": "She took a moderate approach to the debate."
+        },
+        {
+            "word": "modicum",
+            "translation": "조금, 약간",
+            "sentence": "He showed a modicum of respect for the rules."
+        },
+        {
+            "word": "modish",
+            "translation": "유행의, 최신 유행의",
+            "sentence": "Her modish outfit turned heads at the party."
+        },
+        {
+            "word": "mogul",
+            "translation": "거물, 거대 기업인",
+            "sentence": "The media mogul owned several major outlets."
+        },
+        {
+            "word": "mollify",
+            "translation": "달래다, 완화시키다",
+            "sentence": "She tried to mollify him with kind words."
+        },
+        {
+            "word": "mollycoddle",
+            "translation": "응석을 받아주다, 귀여워하다",
+            "sentence": "He didn’t want to mollycoddle his employees."
+        },
+        {
+            "word": "momentous",
+            "translation": "중대한, 중요한",
+            "sentence": "The treaty was a momentous step toward peace."
+        },
+        {
+            "word": "momentum",
+            "translation": "추진력, 운동량",
+            "sentence": "The campaign gained momentum as support grew."
+        },
+        {
+            "word": "monarch",
+            "translation": "군주, 왕",
+            "sentence": "The monarch ruled with absolute authority."
+        },
+        {
+            "word": "monastic",
+            "translation": "수도원의, 금욕적인",
+            "sentence": "He lived a monastic life of simplicity and prayer."
+        },
+        {
+            "word": "monetary",
+            "translation": "금전의, 화폐의",
+            "sentence": "The decision had significant monetary implications."
+        },
+        {
+            "word": "monograph",
+            "translation": "단행본, 논문",
+            "sentence": "She published a monograph on ancient architecture."
+        },
+        {
+            "word": "monolithic",
+            "translation": "단일체의, 단일한",
+            "sentence": "The monolithic structure towered over the city."
+        },
+        {
+            "word": "monotony",
+            "translation": "단조로움, 지루함",
+            "sentence": "The monotony of the routine wore her down."
+        },
+        {
+            "word": "montage",
+            "translation": "몽타주, 편집",
+            "sentence": "The film featured a montage of memorable scenes."
+        },
+        {
+            "word": "moratorium",
+            "translation": "유예, 중지",
+            "sentence": "They imposed a moratorium on new construction."
+        },
+        {
+            "word": "morbid",
+            "translation": "병적인, 병약한",
+            "sentence": "His morbid fascination with death unsettled her."
+        },
+        {
+            "word": "mordant",
+            "translation": "신랄한, 날카로운",
+            "sentence": "Her mordant wit cut through the tension."
+        },
+        {
+            "word": "moribund",
+            "translation": "머지않아 죽을, 소멸될",
+            "sentence": "The moribund industry struggled to survive."
+        },
+        {
+            "word": "morose",
+            "translation": "우울한, 침울한",
+            "sentence": "He became morose after the bad news."
+        },
+        {
+            "word": "morsel",
+            "translation": "조금, 한 입",
+            "sentence": "She offered him a morsel of her sandwich."
+        },
+        {
+            "word": "mortal",
+            "translation": "죽을 운명의, 치명적인",
+            "sentence": "The wound proved to be mortal."
+        },
+        {
+            "word": "mortician",
+            "translation": "장례업자, 장의사",
+            "sentence": "The mortician prepared the body with care."
+        },
+        {
+            "word": "mosaic",
+            "translation": "모자이크, 모자이크의",
+            "sentence": "The artist created a mosaic from colorful tiles."
+        },
+        {
+            "word": "moth-eaten",
+            "translation": "낡은, 헌",
+            "sentence": "The moth-eaten sweater was full of holes."
+        },
+        {
+            "word": "motiveless",
+            "translation": "동기가 없는, 이유 없는",
+            "sentence": "The crime appeared motiveless and random."
+        },
+        {
+            "word": "mottle",
+            "translation": "얼룩덜룩하게 하다, 얼룩덜룩한",
+            "sentence": "The leaves were mottled with shades of brown."
+        },
+        {
+            "word": "motto",
+            "translation": "표어, 모토",
+            "sentence": "The school’s motto was ‘Strive for Excellence.’"
+        },
+        {
+            "word": "mourn",
+            "translation": "애도하다, 슬퍼하다",
+            "sentence": "They gathered to mourn the loss of their friend."
+        },
+        {
+            "word": "muddle",
+            "translation": "혼란, 어리둥절함",
+            "sentence": "The instructions left him in a muddle."
+        },
+        {
+            "word": "muggy",
+            "translation": "후덥지근한, 무더운",
+            "sentence": "The muggy weather made it hard to breathe."
+        },
+        {
+            "word": "multifarious",
+            "translation": "다양한, 여러 가지의",
+            "sentence": "Her multifarious talents amazed her peers."
+        },
+        {
+            "word": "mundane",
+            "translation": "단조로운, 평범한",
+            "sentence": "He grew tired of his mundane daily routine."
+        },
+        {
+            "word": "munificent",
+            "translation": "아주 관대한, 아낌없이 베푸는",
+            "sentence": "The munificent donor funded the entire project."
+        },
+        {
+            "word": "muse",
+            "translation": "생각에 잠기다, 묵상하다",
+            "sentence": "She mused over the meaning of his words."
+        },
+        {
+            "word": "musky",
+            "translation": "musk의 향기가 나는, musk의",
+            "sentence": "The musky scent filled the room."
+        },
+        {
+            "word": "musty",
+            "translation": "곰팡내 나는, 퀴퀴한",
+            "sentence": "The old books had a musty smell."
+        },
+        {
+            "word": "mute",
+            "translation": "말없는, 조용한",
+            "sentence": "He remained mute despite their questions."
+        },
+        {
+            "word": "mutilate",
+            "translation": "흉하게 만들다, 불구로 만들다",
+            "sentence": "The vandals mutilated the statue overnight."
+        },
+        {
+            "word": "mutinous",
+            "translation": "반란의, 반항하는",
+            "sentence": "The mutinous crew refused to follow orders."
+        },
+        {
+            "word": "mutter",
+            "translation": "중얼거리다, 웅얼거리다",
+            "sentence": "He muttered complaints under his breath."
+        },
+        {
+            "word": "myopic",
+            "translation": "근시안적인, 근시안의",
+            "sentence": "His myopic view ignored long-term consequences."
+        },
+        {
+            "word": "myriad",
+            "translation": "수많은, 무수한",
+            "sentence": "A myriad of stars twinkled above."
+        },
+        {
+            "word": "mystical",
+            "translation": "신비로운, 신비주의의",
+            "sentence": "The forest had a mystical aura at dusk."
+        },
+        {
+            "word": "mystify",
+            "translation": "이해하기 어렵게 만들다, 혼란스럽게 하다",
+            "sentence": "The magician’s tricks mystified the audience."
+        },
+        {
+            "word": "nab",
+            "translation": "붙잡다, 붙들다",
+            "sentence": "The police nabbed the thief as he fled."
+        },
+        {
+            "word": "nadir",
+            "translation": "최하점, 최저점",
+            "sentence": "His career hit its nadir after the scandal."
+        },
+        {
+            "word": "nag",
+            "translation": "잔소리하다, 잔소리꾼",
+            "sentence": "She continued to nag him about cleaning up."
+        },
+        {
+            "word": "narcissistic",
+            "translation": "자기애적인, 자기중심적인",
+            "sentence": "His narcissistic behavior alienated his friends."
+        },
+        {
+            "word": "narrate",
+            "translation": "이야기하다, 서술하다",
+            "sentence": "She narrated the tale with vivid detail."
+        },
+        {
+            "word": "nascent",
+            "translation": "발생한, 태동한",
+            "sentence": "The nascent movement gained traction quickly."
+        },
+        {
+            "word": "natter",
+            "translation": "재잘대다, 지껄이다",
+            "sentence": "They nattered about the weather all afternoon."
+        },
+        {
+            "word": "nauseate",
+            "translation": "구역질나게 하다, 역겨워하다",
+            "sentence": "The foul smell nauseated everyone nearby."
+        },
+        {
+            "word": "navigable",
+            "translation": "항해 가능한, 통행 가능한",
+            "sentence": "The river was navigable after the ice melted."
+        },
+        {
+            "word": "nebulous",
+            "translation": "막연한, 불분명한",
+            "sentence": "Her plans remained nebulous and undefined."
+        },
+        {
+            "word": "necromancy",
+            "translation": "점술, 초자연적인 힘",
+            "sentence": "The story featured necromancy and dark rituals."
+        },
+        {
+            "word": "nefarious",
+            "translation": "극악무도한, 사악한",
+            "sentence": "The nefarious scheme endangered the entire village."
+        },
+        {
+            "word": "negate",
+            "translation": "무효화하다, 반대하다",
+            "sentence": "Her evidence negated his earlier claims."
+        },
+        {
+            "word": "negligent",
+            "translation": "무관심한, 부주의한",
+            "sentence": "The negligent guard allowed the thief to escape."
+        },
+        {
+            "word": "neologism",
+            "translation": "신조어, 신조어의 사용",
+            "sentence": "The tech world is full of neologisms like ‘selfie.’"
+        },
+        {
+            "word": "neophyte",
+            "translation": "초심자, 신참자",
+            "sentence": "As a neophyte, he made several rookie mistakes."
+        },
+        {
+            "word": "nepotism",
+            "translation": "특혜, 친족 우대",
+            "sentence": "Nepotism tainted the fairness of the hiring process."
+        },
+        {
+            "word": "nettle",
+            "translation": "곤혹스럽게 하다, 짜증나게 하다",
+            "sentence": "His rude comments nettled her all day."
+        },
+        {
+            "word": "nexus",
+            "translation": "연결, 연관",
+            "sentence": "The event became a nexus for networking opportunities."
+        },
+        {
+            "word": "nibble",
+            "translation": "조금씩 먹다, 조금씩 갉다",
+            "sentence": "The mouse nibbled at the edge of the bread."
+        },
+        {
+            "word": "nicety",
+            "translation": "정밀함, 세밀함",
+            "sentence": "The nicety of the design impressed the judges."
+        },
+        {
+            "word": "nihilism",
+            "translation": "허무주의, 무정부주의",
+            "sentence": "His nihilism led him to reject all authority."
+        },
+        {
+            "word": "nimble",
+            "translation": "민첩한, 재빠른",
+            "sentence": "Her nimble fingers quickly repaired the tear."
+        },
+        {
+            "word": "nimiety",
+            "translation": "과잉, 넘침",
+            "sentence": "The nimiety of decorations overwhelmed the room."
+        },
+        {
+            "word": "nip",
+            "translation": "물다, 자르다",
+            "sentence": "The puppy nipped at her heels playfully."
+        },
+        {
+            "word": "nirvana",
+            "translation": "열반, 해탈",
+            "sentence": "He sought nirvana through years of meditation."
+        },
+        {
+            "word": "noctambulant",
+            "translation": "잠꼬대하는, 잠꼬대하는 사람",
+            "sentence": "The noctambulant patient wandered the halls at night."
+        },
+        {
+            "word": "noctivagant",
+            "translation": "밤에 돌아다니는, 밤에 헤매는",
+            "sentence": "Noctivagant animals thrive in the darkness."
+        },
+        {
+            "word": "nocturnal",
+            "translation": "야간의, 밤의",
+            "sentence": "The nocturnal owl hunted silently under the moon."
+        },
+        {
+            "word": "noisome",
+            "translation": "유해한, 불쾌한",
+            "sentence": "The noisome stench forced them to leave the area."
+        },
+        {
+            "word": "nomadic",
+            "translation": "유목의, 방랑하는",
+            "sentence": "The nomadic people followed the herds across the plains."
+        },
+        {
+            "word": "nondescript",
+            "translation": "보통의, 별볼일 없는",
+            "sentence": "The nondescript man blended into the crowd."
+        },
+        {
+            "word": "nonentity",
+            "translation": "실체가 없는, 하찮은 사람",
+            "sentence": "She treated him like a nonentity, ignoring his presence."
+        },
+        {
+            "word": "nonflammable",
+            "translation": "타지 않는, 불에 타지 않는",
+            "sentence": "The nonflammable fabric was ideal for safety gear."
+        },
+        {
+            "word": "nonpareil",
+            "translation": "비할 데 없는, 무적의",
+            "sentence": "Her nonpareil talent set her apart from others."
+        },
+        {
+            "word": "nostalgia",
+            "translation": "향수, 그리움",
+            "sentence": "The photo album stirred feelings of nostalgia."
+        },
+        {
+            "word": "notorious",
+            "translation": "악명 높은, 잘 알려진",
+            "sentence": "The notorious criminal was feared by all."
+        },
+        {
+            "word": "novel",
+            "translation": "새로운, 소설",
+            "sentence": "The novel invention revolutionized the industry."
+        },
+        {
+            "word": "novice",
+            "translation": "초심자, 신참자",
+            "sentence": "The novice cook burned the meal on her first try."
+        },
+        {
+            "word": "noxious",
+            "translation": "유해한, 해로운",
+            "sentence": "The noxious gas spread quickly through the building."
+        },
+        {
+            "word": "nuance",
+            "translation": "미묘한 차이, 뉘앙스",
+            "sentence": "The nuance of his tone suggested sarcasm."
+        },
+        {
+            "word": "nugatory",
+            "translation": "의미 없는, 하찮은",
+            "sentence": "His objections were nugatory and ignored."
+        },
+        {
+            "word": "nullify",
+            "translation": "무효화하다, 무효가 되다",
+            "sentence": "The vote nullified the previous decision."
+        },
+        {
+            "word": "numismatist",
+            "translation": "주화 수집가, 주화학자",
+            "sentence": "The numismatist spent years collecting rare coins."
+        },
+        {
+            "word": "nurture",
+            "translation": "양육하다, 키우다",
+            "sentence": "They nurtured their friendship over decades."
+        },
+        {
+            "word": "nutrient",
+            "translation": "영양분, 영양의",
+            "sentence": "The nutrient-rich soil supported healthy plants."
+        },
+        {
+            "word": "nutritious",
+            "translation": "영양가 있는, 영양이 되는",
+            "sentence": "A nutritious breakfast gave her energy for the day."
+        },
+        {
+            "word": "oafish",
+            "translation": "멍청한, 바보 같은",
+            "sentence": "His oafish clumsiness broke the delicate vase."
+        },
+        {
+            "word": "obdurate",
+            "translation": "고집 센, 완고한",
+            "sentence": "The obdurate leader refused to negotiate."
+        },
+        {
+            "word": "obfuscate",
+            "translation": "혼란스럽게 하다, 어리둥절하게 하다",
+            "sentence": "His vague answers only obfuscated the situation."
+        },
+        {
+            "word": "oblige",
+            "translation": "의무적으로 하다, 강요하다",
+            "sentence": "She felt obliged to attend the family event."
+        },
+        {
+            "word": "oblique",
+            "translation": "비스듬한, 비스듬히",
+            "sentence": "He cast an oblique glance at the stranger."
+        },
+        {
+            "word": "obliterate",
+            "translation": "말살하다, 지워버리다",
+            "sentence": "The fire obliterated all traces of the house."
+        },
+        {
+            "word": "obloquy",
+            "translation": "악평, 비난",
+            "sentence": "The politician faced obloquy after the scandal."
+        },
+        {
+            "word": "obnoxious",
+            "translation": "성가신, 불쾌한",
+            "sentence": "The obnoxious guest wouldn’t stop complaining."
+        },
+        {
+            "word": "obscure",
+            "translation": "모호한, 불분명한",
+            "sentence": "The obscure reference puzzled the readers."
+        },
+        {
+            "word": "obsequious",
+            "translation": "아첨하는, 비굴한",
+            "sentence": "His obsequious flattery annoyed his boss."
+        },
+        {
+            "word": "observant",
+            "translation": "주의 깊은, 관찰력이 있는",
+            "sentence": "The observant child noticed the hidden clue."
+        },
+        {
+            "word": "obsess",
+            "translation": "집착하다, 사로잡다",
+            "sentence": "He obsessed over every detail of the project."
+        },
+        {
+            "word": "obsolete",
+            "translation": "낡아빠진, 시대에 뒤떨어진",
+            "sentence": "The obsolete machine was replaced with a new one."
+        },
+        {
+            "word": "obstinate",
+            "translation": "고집 센, 완고한",
+            "sentence": "Her obstinate refusal delayed the agreement."
+        },
+        {
+            "word": "obstreperous",
+            "translation": "떠들썩한, 다루기 힘든",
+            "sentence": "The obstreperous toddler disrupted the quiet room."
+        },
+        {
+            "word": "obtain",
+            "translation": "얻다, 획득하다",
+            "sentence": "She obtained permission to enter the restricted area."
+        },
+        {
+            "word": "obtrude",
+            "translation": "밀고 들어오다, 강요하다",
+            "sentence": "He didn’t want to obtrude on their conversation."
+        },
+        {
+            "word": "obtuse",
+            "translation": "둔한, 무딘",
+            "sentence": "His obtuse reasoning frustrated the team."
+        },
+        {
+            "word": "obviate",
+            "translation": "없애다, 회피하다",
+            "sentence": "The shortcut obviated the need for a long detour."
+        },
+        {
+            "word": "occult",
+            "translation": "신비로운, 숨은",
+            "sentence": "The occult symbols intrigued the archaeologists."
+        },
+        {
+            "word": "odious",
+            "translation": "혐오스러운, 역겨운",
+            "sentence": "The odious smell made her cover her nose."
+        },
+        {
+            "word": "odyssey",
+            "translation": "장기 여행, 모험",
+            "sentence": "Their road trip turned into an unexpected odyssey."
+        },
+        {
+            "word": "offensive",
+            "translation": "공격적인, 불쾌한",
+            "sentence": "His offensive joke offended the entire group."
+        },
+        {
+            "word": "officious",
+            "translation": "간섭하기 좋아하는, 주제넘은",
+            "sentence": "The officious neighbor offered unwanted advice."
+        },
+        {
+            "word": "ogle",
+            "translation": "짓궂게 바라보다, 추파를 던지다",
+            "sentence": "He ogled the passersby from the café window."
+        },
+        {
+            "word": "olfactory",
+            "translation": "후각의, 냄새의",
+            "sentence": "The olfactory sensation of fresh bread was delightful."
+        },
+        {
+            "word": "oligarchy",
+            "translation": "과두 정치, 소수 지배",
+            "sentence": "The oligarchy controlled the nation’s wealth."
+        },
+        {
+            "word": "ominous",
+            "translation": "불길한, 전조의",
+            "sentence": "The ominous silence preceded the storm."
+        },
+        {
+            "word": "omnipotent",
+            "translation": "전능한, 전지전능한",
+            "sentence": "The deity was depicted as omnipotent and wise."
+        },
+        {
+            "word": "omniscient",
+            "translation": "전지한, 모든 것을 아는",
+            "sentence": "The omniscient narrator revealed every character’s thoughts."
+        },
+        {
+            "word": "onerous",
+            "translation": "부담스러운, 고된",
+            "sentence": "The onerous workload exhausted the team."
+        },
+        {
+            "word": "onslaught",
+            "translation": "맹공격, 맹습",
+            "sentence": "The onslaught of criticism overwhelmed him."
+        },
+        {
+            "word": "onus",
+            "translation": "책임, 부담",
+            "sentence": "The onus was on her to prove her innocence."
+        },
+        {
+            "word": "opaque",
+            "translation": "불투명한, 모호한",
+            "sentence": "The opaque explanation left them confused."
+        },
+        {
+            "word": "opiate",
+            "translation": "진정제, 아편제",
+            "sentence": "The opiate dulled his pain temporarily."
+        },
+        {
+            "word": "opine",
+            "translation": "의견을 말하다, 생각하다",
+            "sentence": "She opined that the law needed reform."
+        },
+        {
+            "word": "opportune",
+            "translation": "적절한, 때를 맞춘",
+            "sentence": "It was an opportune time to invest in the market."
+        },
+        {
+            "word": "opprobrious",
+            "translation": "비난하는, 모욕적인",
+            "sentence": "His opprobrious remarks sparked outrage."
+        },
+        {
+            "word": "opprobrium",
+            "translation": "악평, 수치",
+            "sentence": "He endured public opprobrium after the mistake."
+        },
+        {
+            "word": "optimize",
+            "translation": "최적화하다, 최상의 상태로 만들다",
+            "sentence": "They optimized the design for efficiency."
+        },
+        {
+            "word": "opulence",
+            "translation": "풍요, 부유함",
+            "sentence": "The opulence of the mansion amazed the visitors."
+        },
+        {
+            "word": "opus",
+            "translation": "작품, 저작",
+            "sentence": "This painting is considered his greatest opus."
+        },
+        {
+            "word": "oracular",
+            "translation": "신탁의, 신비로운",
+            "sentence": "The wise woman gave an oracular prophecy."
+        },
+        {
+            "word": "oration",
+            "translation": "연설, 웅변",
+            "sentence": "His oration inspired the crowd to action."
+        },
+        {
+            "word": "ordain",
+            "translation": "명령하다, 정하다",
+            "sentence": "The priest was ordained after years of study."
+        },
+        {
+            "word": "ordeal",
+            "translation": "고난, 시련",
+            "sentence": "The long hike was an ordeal for the group."
+        },
+        {
+            "word": "ordinance",
+            "translation": "법령, 명령",
+            "sentence": "The ordinance prohibited parking on the street."
+        },
+        {
+            "word": "orgy",
+            "translation": "난교, 흥청거림",
+            "sentence": "The celebration turned into an orgy of excess."
+        },
+        {
+            "word": "orient",
+            "translation": "향하다, 지향하다",
+            "sentence": "They oriented themselves using the stars."
+        },
+        {
+            "word": "ornate",
+            "translation": "화려한, 장식적인",
+            "sentence": "The ornate frame complemented the artwork."
+        },
+        {
+            "word": "orthodox",
+            "translation": "정통의, 전통적인",
+            "sentence": "She followed orthodox methods in her research."
+        },
+        {
+            "word": "oscillate",
+            "translation": "진동하다, 오르내리다",
+            "sentence": "The pendulum oscillated back and forth."
+        },
+        {
+            "word": "ossify",
+            "translation": "뼈처럼 굳어지다, 경직되다",
+            "sentence": "His opinions ossified as he grew older."
+        },
+        {
+            "word": "ostensible",
+            "translation": "겉으로 드러난, 명목상의",
+            "sentence": "The ostensible purpose was to raise funds."
+        },
+        {
+            "word": "ostentatious",
+            "translation": "과시적인, 허영심이 강한",
+            "sentence": "His ostentatious car drew everyone’s attention."
+        },
+        {
+            "word": "ostracize",
+            "translation": "추방하다, 따돌리다",
+            "sentence": "They ostracized her for speaking out."
+        },
+        {
+            "word": "outlandish",
+            "translation": "기이한, 이국적인",
+            "sentence": "The outlandish theory surprised the scientists."
+        },
+        {
+            "word": "outmoded",
+            "translation": "낡아빠진, 시대에 뒤떨어진",
+            "sentence": "Outmoded customs faded with time."
+        },
+        {
+            "word": "outrage",
+            "translation": "격분, 폭행",
+            "sentence": "The unfair ruling caused widespread outrage."
+        },
+        {
+            "word": "outrageous",
+            "translation": "경악할 만한, 터무니없는",
+            "sentence": "The outrageous lie shocked his friends."
+        },
+        {
+            "word": "outré",
+            "translation": "과장된, 지나치게 특이한",
+            "sentence": "Her outré hairstyle stood out in the crowd."
+        },
+        {
+            "word": "ovation",
+            "translation": "열렬한 환호, 갈채",
+            "sentence": "The singer earned an ovation for her performance."
+        },
+        {
+            "word": "overbearing",
+            "translation": "고압적인, 거만한",
+            "sentence": "His overbearing demeanor intimidated the staff."
+        },
+        {
+            "word": "overhaul",
+            "translation": "전면적인 개조, 대대적인 수리",
+            "sentence": "The engine required a complete overhaul."
         }
+
     ]
 }
