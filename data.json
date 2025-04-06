@@ -1,0 +1,29 @@
+{
+    "words": [
+        {
+            "word": "aberrant",
+            "translation": "규범에서 벗어난, 비정상적인",
+            "sentence": "His aberrant behavior raised concerns among his colleagues."
+        },
+        {
+            "word": "phrase",
+            "translation": "구절, 표현",
+            "sentence": "Can you explain the meaning of this phrase?"
+        },
+        {
+            "word": "describe",
+            "translation": "묘사하다",
+            "sentence": "Can you describe the scene in detail?"
+        },
+        {
+            "word": "clam",
+            "translation": "조개",
+            "sentence": "We found many clams on the beach."
+        },
+        {
+            "word": "in good order",
+            "translation": "완벽한 순서로",
+            "sentence": "Everything was in good order before the event started."
+        }
+    ]
+}
