@@ -4979,7 +4979,4888 @@
             "word": "overhaul",
             "translation": "전면적인 개조, 대대적인 수리",
             "sentence": "The engine required a complete overhaul."
+        },
+        {
+            "word": "overreach",
+            "translation": "과도하게 나아가다, 지나치게 욕심을 부리다",
+            "sentence": "He overreached by trying to control every detail of the project."
+        },
+        {
+            "word": "overt",
+            "translation": "노골적인, 명백한",
+            "sentence": "Her overt criticism left no room for misunderstanding."
+        },
+        {
+            "word": "overture",
+            "translation": "서막, 서두",
+            "sentence": "The orchestra played a lively overture before the opera began."
+        },
+        {
+            "word": "overweening",
+            "translation": "지나치게 자만하는, 오만한",
+            "sentence": "His overweening confidence led to his downfall."
+        },
+        {
+            "word": "pacify",
+            "translation": "진정시키다, 평화를 되찾다",
+            "sentence": "She tried to pacify the crying child with a toy."
+        },
+        {
+            "word": "pact",
+            "translation": "협정, 계약",
+            "sentence": "The two nations signed a pact to ensure mutual defense."
+        },
+        {
+            "word": "paean",
+            "translation": "찬가, 찬미",
+            "sentence": "The poem was a paean to the beauty of nature."
+        },
+        {
+            "word": "painstaking",
+            "translation": "근면한, 정성을 다한",
+            "sentence": "Her painstaking research uncovered new insights."
+        },
+        {
+            "word": "palatable",
+            "translation": "맛있는, 마음에 드는",
+            "sentence": "The chef made the dish more palatable with extra seasoning."
+        },
+        {
+            "word": "palatial",
+            "translation": "웅장한, 궁전 같은",
+            "sentence": "The palatial estate overlooked the rolling hills."
+        },
+        {
+            "word": "paleontology",
+            "translation": "고생물학, 화석학",
+            "sentence": "Paleontology reveals the history of ancient life forms."
+        },
+        {
+            "word": "palette",
+            "translation": "팔레트, 색채",
+            "sentence": "The artist mixed colors on her palette with care."
+        },
+        {
+            "word": "palpable",
+            "translation": "명백한, 만질 수 있는",
+            "sentence": "The tension in the room was palpable as they waited."
+        },
+        {
+            "word": "palpitate",
+            "translation": "떨다, 두근거리다",
+            "sentence": "Her heart began to palpitate with excitement."
+        },
+        {
+            "word": "paltry",
+            "translation": "하찮은, 보잘것없는",
+            "sentence": "He offered a paltry sum for the valuable antique."
+        },
+        {
+            "word": "panacea",
+            "translation": "만병통치약, 만능 해결책",
+            "sentence": "Education is not a panacea for all social issues."
+        },
+        {
+            "word": "panache",
+            "translation": "멋, 패기",
+            "sentence": "She performed the role with remarkable panache."
+        },
+        {
+            "word": "pandemonium",
+            "translation": "대혼란, 소동",
+            "sentence": "Pandemonium broke out when the concert was canceled."
+        },
+        {
+            "word": "pander",
+            "translation": "남의 비위를 맞추다, 추종하다",
+            "sentence": "The politician pandered to the crowd’s demands."
+        },
+        {
+            "word": "panegyric",
+            "translation": "찬사, 찬양",
+            "sentence": "The speech was a panegyric to the retiring leader."
+        },
+        {
+            "word": "panoply",
+            "translation": "완전한 장비, 화려한 배열",
+            "sentence": "The festival featured a panoply of colorful costumes."
+        },
+        {
+            "word": "paradox",
+            "translation": "역설, 모순",
+            "sentence": "The paradox of choice can overwhelm decision-making."
+        },
+        {
+            "word": "paragon",
+            "translation": "본보기, 모범",
+            "sentence": "She was a paragon of kindness and generosity."
+        },
+        {
+            "word": "paramount",
+            "translation": "최고의, 가장 중요한",
+            "sentence": "Safety is of paramount importance in this job."
+        },
+        {
+            "word": "paranoia",
+            "translation": "망상, 편집증",
+            "sentence": "His paranoia made him distrust even his friends."
+        },
+        {
+            "word": "paraphrase",
+            "translation": "의역, 바꾸어 말하다",
+            "sentence": "She paraphrased the quote to simplify its meaning."
+        },
+        {
+            "word": "parasite",
+            "translation": "기생충, 남의 것을 빨아먹는 사람",
+            "sentence": "He lived like a parasite, relying on others’ generosity."
+        },
+        {
+            "word": "parch",
+            "translation": "바싹 말리다, 타들어가다",
+            "sentence": "The relentless sun parched the desert landscape."
+        },
+        {
+            "word": "pariah",
+            "translation": "천민, 추방된 사람",
+            "sentence": "After the scandal, he became a pariah in the community."
+        },
+        {
+            "word": "parity",
+            "translation": "동등, 균형",
+            "sentence": "The teams fought hard to maintain parity in the game."
+        },
+        {
+            "word": "parody",
+            "translation": "풍자, 패러디",
+            "sentence": "The skit was a hilarious parody of the movie."
+        },
+        {
+            "word": "paroxysm",
+            "translation": "발작, 격렬한 발작",
+            "sentence": "She burst into a paroxysm of laughter at the joke."
+        },
+        {
+            "word": "parry",
+            "translation": "막다, 회피하다",
+            "sentence": "He parried the question with a clever response."
+        },
+        {
+            "word": "parsimonious",
+            "translation": "인색한, 검소한",
+            "sentence": "His parsimonious habits saved him a fortune."
+        },
+        {
+            "word": "partial",
+            "translation": "부분적인, 편파적인",
+            "sentence": "She was partial to chocolate over vanilla."
+        },
+        {
+            "word": "partiality",
+            "translation": "편애, 편파성",
+            "sentence": "The judge’s partiality compromised the trial’s fairness."
+        },
+        {
+            "word": "partisan",
+            "translation": "당파적인, 당파원",
+            "sentence": "The partisan debate divided the audience."
+        },
+        {
+            "word": "passé",
+            "translation": "지나간, 시대에 뒤떨어진",
+            "sentence": "Bell-bottoms are considered passé by today’s standards."
+        },
+        {
+            "word": "passive",
+            "translation": "소극적인, 수동적인",
+            "sentence": "His passive attitude let others take the lead."
+        },
+        {
+            "word": "pastoral",
+            "translation": "목가적인, 전원의",
+            "sentence": "The pastoral scene featured rolling hills and sheep."
+        },
+        {
+            "word": "patent",
+            "translation": "명백한, 특허",
+            "sentence": "The solution’s benefits were patent to everyone."
+        },
+        {
+            "word": "pathological",
+            "translation": "병리학의, 병적인",
+            "sentence": "His pathological fear of germs kept him indoors."
+        },
+        {
+            "word": "patina",
+            "translation": "표면의 녹, 광택",
+            "sentence": "The bronze statue had a green patina from age."
+        },
+        {
+            "word": "patriarch",
+            "translation": "가장, 족장",
+            "sentence": "The patriarch led the family with wisdom."
+        },
+        {
+            "word": "patrician",
+            "translation": "귀족, 귀족의",
+            "sentence": "Her patrician manners reflected her upbringing."
+        },
+        {
+            "word": "paucity",
+            "translation": "부족, 결핍",
+            "sentence": "The paucity of resources hindered their progress."
+        },
+        {
+            "word": "pauper",
+            "translation": "빈민, 가난한 사람",
+            "sentence": "The pauper begged for scraps outside the market."
+        },
+        {
+            "word": "peccadillo",
+            "translation": "작은 잘못, 약간의 실수",
+            "sentence": "Forgetting her name was just a peccadillo in his eyes."
+        },
+        {
+            "word": "peck",
+            "translation": "찍다, 쪼다",
+            "sentence": "The bird pecked at the seeds on the ground."
+        },
+        {
+            "word": "pecuniary",
+            "translation": "돈의, 금전의",
+            "sentence": "The decision had significant pecuniary consequences."
+        },
+        {
+            "word": "pedagogue",
+            "translation": "교사, 교육자",
+            "sentence": "The pedagogue inspired his students to love learning."
+        },
+        {
+            "word": "pedantic",
+            "translation": "학구적인, 학자연하는",
+            "sentence": "His pedantic lecture bored the class."
+        },
+        {
+            "word": "peddle",
+            "translation": "팔다, 떠돌아다니며 팔다",
+            "sentence": "He peddled handmade jewelry at the fair."
+        },
+        {
+            "word": "pedestrian",
+            "translation": "단조로운, 평범한",
+            "sentence": "The speech was pedestrian and uninspiring."
+        },
+        {
+            "word": "peerless",
+            "translation": "비할 데 없는, 무적의",
+            "sentence": "Her peerless beauty captivated everyone."
+        },
+        {
+            "word": "pejorative",
+            "translation": "비하하는, 나쁜 뜻의",
+            "sentence": "The term became pejorative over time."
+        },
+        {
+            "word": "pellucid",
+            "translation": "투명한, 명료한",
+            "sentence": "The pellucid water revealed the lake’s depths."
+        },
+        {
+            "word": "penchant",
+            "translation": "기호, 경향",
+            "sentence": "He had a penchant for collecting rare stamps."
+        },
+        {
+            "word": "pendant",
+            "translation": "드롭, 아래로 매달린 것",
+            "sentence": "She wore a silver pendant around her neck."
+        },
+        {
+            "word": "penitent",
+            "translation": "회개하는, 참회하는",
+            "sentence": "The penitent man sought forgiveness for his actions."
+        },
+        {
+            "word": "pensive",
+            "translation": "생각에 잠긴, 침울한",
+            "sentence": "She sat in a pensive mood by the window."
+        },
+        {
+            "word": "penurious",
+            "translation": "가난한, 인색한",
+            "sentence": "His penurious lifestyle left little room for luxury."
+        },
+        {
+            "word": "penury",
+            "translation": "극심한 빈곤, 인색함",
+            "sentence": "They lived in penury after losing their savings."
+        },
+        {
+            "word": "perceive",
+            "translation": "인식하다, 알아차리다",
+            "sentence": "She perceived a hint of sadness in his voice."
+        },
+        {
+            "word": "percipience",
+            "translation": "깊은 통찰, 예리한 지각",
+            "sentence": "His percipience allowed him to predict trends."
+        },
+        {
+            "word": "percipient",
+            "translation": "깊이 인식하는, 예리한 지각을 가진",
+            "sentence": "The percipient observer noticed subtle changes."
+        },
+        {
+            "word": "percolate",
+            "translation": "거르다, 스며들다",
+            "sentence": "The coffee began to percolate through the filter."
+        },
+        {
+            "word": "perdition",
+            "translation": "파멸, 지옥",
+            "sentence": "The path to perdition was paved with greed."
+        },
+        {
+            "word": "peremptory",
+            "translation": "명백한, 단호한",
+            "sentence": "His peremptory tone ended the discussion."
+        },
+        {
+            "word": "perennial",
+            "translation": "연중 끊이지 않는, 끊임없는",
+            "sentence": "The perennial river flowed through the valley."
+        },
+        {
+            "word": "perfect",
+            "translation": "완벽한, 완전한",
+            "sentence": "The plan was executed with perfect precision."
+        },
+        {
+            "word": "perfidious",
+            "translation": "불성실한, 배신하는",
+            "sentence": "The perfidious ally turned against them."
+        },
+        {
+            "word": "perforate",
+            "translation": "뚫다, 관통하다",
+            "sentence": "The bullet perforated the metal sheet."
+        },
+        {
+            "word": "perforce",
+            "translation": "반드시, 어쩔 수 없이",
+            "sentence": "They had to retreat perforce due to the storm."
+        },
+        {
+            "word": "perfunctory",
+            "translation": "형식적인, 대충하는",
+            "sentence": "He gave a perfunctory nod and moved on."
+        },
+        {
+            "word": "peril",
+            "translation": "위험, 위험 요소",
+            "sentence": "The climbers faced great peril on the peak."
+        },
+        {
+            "word": "perilous",
+            "translation": "위험한, 위험한 상태",
+            "sentence": "The perilous journey tested their endurance."
+        },
+        {
+            "word": "peripatetic",
+            "translation": "걸어서 돌아다니는, 방랑하는",
+            "sentence": "The peripatetic philosopher taught as he traveled."
+        },
+        {
+            "word": "peripheral",
+            "translation": "주변의, 부수적인",
+            "sentence": "The issue was peripheral to the main debate."
+        },
+        {
+            "word": "perish",
+            "translation": "멸망하다, 죽다",
+            "sentence": "Many plants perish in the harsh winter."
+        },
+        {
+            "word": "perjury",
+            "translation": "위증, 맹세 위반",
+            "sentence": "She was charged with perjury for lying in court."
+        },
+        {
+            "word": "permeate",
+            "translation": "스며들다, 널리 퍼지다",
+            "sentence": "The smell of rain permeated the forest."
+        },
+        {
+            "word": "pernicious",
+            "translation": "유해한, 치명적인",
+            "sentence": "The pernicious rumor damaged her reputation."
+        },
+        {
+            "word": "perpetrate",
+            "translation": "감행하다, 저지르다",
+            "sentence": "They perpetrated a daring heist in broad daylight."
+        },
+        {
+            "word": "perpetual",
+            "translation": "끊임없는, 영구적인",
+            "sentence": "The perpetual motion machine was a myth."
+        },
+        {
+            "word": "perplex",
+            "translation": "혼란스럽게 하다, 어리둥절하게 하다",
+            "sentence": "The riddle perplexed even the brightest minds."
+        },
+        {
+            "word": "perquisite",
+            "translation": "특별한 혜택, 부수적인 이익",
+            "sentence": "A company car was a perquisite of the job."
+        },
+        {
+            "word": "persecute",
+            "translation": "박해하다, 괴롭히다",
+            "sentence": "They persecuted him for his unconventional beliefs."
+        },
+        {
+            "word": "persevere",
+            "translation": "인내하다, 참다",
+            "sentence": "She persevered through countless setbacks."
+        },
+        {
+            "word": "persist",
+            "translation": "끈기 있게 가지다, 고집하다",
+            "sentence": "The rain persisted throughout the afternoon."
+        },
+        {
+            "word": "persona",
+            "translation": "인격, 페르소나",
+            "sentence": "His public persona differed from his private self."
+        },
+        {
+            "word": "personable",
+            "translation": "호감 가는, 매력적인",
+            "sentence": "The personable host made everyone feel welcome."
+        },
+        {
+            "word": "perspicacious",
+            "translation": "통찰력이 있는, 예리한",
+            "sentence": "Her perspicacious analysis impressed the team."
+        },
+        {
+            "word": "perspicacity",
+            "translation": "통찰력, 예리한 지각",
+            "sentence": "His perspicacity helped solve the mystery."
+        },
+        {
+            "word": "pert",
+            "translation": "당돌한, 발랄한",
+            "sentence": "The pert child spoke boldly to the adults."
+        },
+        {
+            "word": "pertinent",
+            "translation": "관련된, 적절한",
+            "sentence": "Her comment was pertinent to the discussion."
+        },
+        {
+            "word": "perturb",
+            "translation": "혼란스럽게 하다, 방해하다",
+            "sentence": "The loud noise perturbed his concentration."
+        },
+        {
+            "word": "peruse",
+            "translation": "철저히 읽다, 자세히 읽다",
+            "sentence": "He perused the contract before signing it."
+        },
+        {
+            "word": "pervade",
+            "translation": "널리 퍼지다, 스며들다",
+            "sentence": "A sense of calm pervaded the quiet village."
+        },
+        {
+            "word": "perverse",
+            "translation": "심술궂은, 비뚤어진",
+            "sentence": "His perverse refusal annoyed everyone."
+        },
+        {
+            "word": "pervert",
+            "translation": "왜곡하다, 변질시키다",
+            "sentence": "They perverted the truth to fit their narrative."
+        },
+        {
+            "word": "pervious",
+            "translation": "스며드는, 투과하는",
+            "sentence": "The pervious soil absorbed the rainwater quickly."
+        },
+        {
+            "word": "petrify",
+            "translation": "석화시키다, 굳어지다",
+            "sentence": "The ancient wood petrified over centuries."
+        },
+        {
+            "word": "petulant",
+            "translation": "짜증스러운, 성마른",
+            "sentence": "The petulant teenager stormed out of the room."
+        },
+        {
+            "word": "phantasmagoria",
+            "translation": "환영, 환상",
+            "sentence": "The film was a phantasmagoria of surreal images."
+        },
+        {
+            "word": "phenomenal",
+            "translation": "경이로운, 놀라운",
+            "sentence": "Her phenomenal success surprised even her peers."
+        },
+        {
+            "word": "philanthropic",
+            "translation": "박애주의의, 인류애의",
+            "sentence": "His philanthropic efforts aided many charities."
+        },
+        {
+            "word": "philistine",
+            "translation": "속물, 문화에 무관심한 사람",
+            "sentence": "The philistine scoffed at the abstract art exhibit."
+        },
+        {
+            "word": "phlegmatic",
+            "translation": "침착한, 무감각한",
+            "sentence": "His phlegmatic demeanor kept him calm under pressure."
+        },
+        {
+            "word": "phobia",
+            "translation": "공포증, 두려움",
+            "sentence": "Her phobia of spiders made camping unbearable."
+        },
+        {
+            "word": "picayune",
+            "translation": "하찮은, 시시한",
+            "sentence": "He argued over picayune details in the plan."
+        },
+        {
+            "word": "piddling",
+            "translation": "하찮은, 시시한",
+            "sentence": "The piddling amount of work didn’t justify the pay."
+        },
+        {
+            "word": "piety",
+            "translation": "경건, 효도",
+            "sentence": "Her piety was evident in her daily prayers."
+        },
+        {
+            "word": "pillage",
+            "translation": "약탈, 약탈하다",
+            "sentence": "The invaders pillaged the town without mercy."
+        },
+        {
+            "word": "pilot",
+            "translation": "조종사, 파일럿",
+            "sentence": "The pilot navigated the plane through the storm."
+        },
+        {
+            "word": "piquant",
+            "translation": "신랄한, 톡 쏘는",
+            "sentence": "The piquant sauce added a kick to the dish."
+        },
+        {
+            "word": "pique",
+            "translation": "자존심을 건드리다, 화나게 하다",
+            "sentence": "Her comment piqued his curiosity about the topic."
+        },
+        {
+            "word": "pithy",
+            "translation": "간결한, 핵심을 찌르는",
+            "sentence": "His pithy remarks summarized the issue perfectly."
+        },
+        {
+            "word": "pittance",
+            "translation": "작은 금액, 소액",
+            "sentence": "They paid him a pittance for his hard work."
+        },
+        {
+            "word": "placate",
+            "translation": "달래다, 타협하다",
+            "sentence": "She offered an apology to placate her friend."
+        },
+        {
+            "word": "placid",
+            "translation": "평온한, 조용한",
+            "sentence": "The placid lake reflected the clear sky."
+        },
+        {
+            "word": "plagiarize",
+            "translation": "표절하다, 도용하다",
+            "sentence": "He was caught trying to plagiarize his essay."
+        },
+        {
+            "word": "plangent",
+            "translation": "울림이 있는, 메아리치는",
+            "sentence": "The plangent sound of the bell filled the valley."
+        },
+        {
+            "word": "platitude",
+            "translation": "진부한 말, 평범한 말",
+            "sentence": "His speech was full of platitudes and lacked depth."
+        },
+        {
+            "word": "plausible",
+            "translation": "그럴듯한, 믿을 만한",
+            "sentence": "Her excuse seemed plausible enough to convince them."
+        },
+        {
+            "word": "plebeian",
+            "translation": "평민, 서민",
+            "sentence": "The dish was a plebeian favorite, simple yet tasty."
+        },
+        {
+            "word": "plethora",
+            "translation": "과잉, 넘침",
+            "sentence": "A plethora of options made choosing difficult."
+        },
+        {
+            "word": "pliable",
+            "translation": "유연한, 잘 구부러지는",
+            "sentence": "The pliable clay was easy to mold into shapes."
+        },
+        {
+            "word": "pliant",
+            "translation": "유연한, 잘 구부러지는",
+            "sentence": "The pliant branches swayed in the breeze."
+        },
+        {
+            "word": "plod",
+            "translation": "꾸준히 일하다, 천천히 걷다",
+            "sentence": "He plodded through the tedious paperwork all day."
+        },
+        {
+            "word": "pluck",
+            "translation": "잡아당기다, 잡아채다",
+            "sentence": "She plucked a flower from the garden."
+        },
+        {
+            "word": "plucky",
+            "translation": "용기 있는, 대담한",
+            "sentence": "The plucky underdog surprised everyone with a win."
+        },
+        {
+            "word": "plummet",
+            "translation": "곧바로 떨어지다, 급락하다",
+            "sentence": "Temperatures plummeted as the cold front arrived."
+        },
+        {
+            "word": "poignant",
+            "translation": "날카로운, 통렬한",
+            "sentence": "The poignant story brought tears to her eyes."
+        },
+        {
+            "word": "polemic",
+            "translation": "논쟁, 논쟁의",
+            "sentence": "The book was a polemic against modern politics."
+        },
+        {
+            "word": "polemical",
+            "translation": "논쟁의, 논쟁을 좋아하는",
+            "sentence": "His polemical style sparked heated debates."
+        },
+        {
+            "word": "politic",
+            "translation": "현명한, 정치적인",
+            "sentence": "It was politic to remain neutral in the conflict."
+        },
+        {
+            "word": "pollute",
+            "translation": "오염시키다, 더럽히다",
+            "sentence": "Factories pollute the river with waste."
+        },
+        {
+            "word": "polymath",
+            "translation": "박식가, 다방면에 능한 사람",
+            "sentence": "The polymath excelled in science and art alike."
+        },
+        {
+            "word": "ponder",
+            "translation": "깊이 생각하다, 심사숙고하다",
+            "sentence": "He pondered the question before responding."
+        },
+        {
+            "word": "ponderous",
+            "translation": "무거운, 무거운 느낌의",
+            "sentence": "The ponderous machinery moved slowly across the field."
+        },
+        {
+            "word": "pontificate",
+            "translation": "지껄이다, 지엄하게 말하다",
+            "sentence": "He loved to pontificate about his vast knowledge."
+        },
+        {
+            "word": "portend",
+            "translation": "예고하다, 암시하다",
+            "sentence": "Dark clouds portended a stormy night ahead."
+        },
+        {
+            "word": "portentous",
+            "translation": "비범한, 중요한",
+            "sentence": "The portentous event marked a turning point."
+        },
+        {
+            "word": "posterity",
+            "translation": "후세, 미래 세대",
+            "sentence": "They preserved the forest for posterity."
+        },
+        {
+            "word": "postulate",
+            "translation": "공리, 가정",
+            "sentence": "The theory postulates an infinite universe."
+        },
+        {
+            "word": "potent",
+            "translation": "강력한, 유력한",
+            "sentence": "The potent medicine relieved his pain quickly."
+        },
+        {
+            "word": "potentate",
+            "translation": "군주, 통치자",
+            "sentence": "The potentate ruled with an iron fist."
+        },
+        {
+            "word": "pragmatic",
+            "translation": "실용적인, 실증주의의",
+            "sentence": "Her pragmatic approach solved the problem efficiently."
+        },
+        {
+            "word": "prattle",
+            "translation": "재잘대다, 지껄이다",
+            "sentence": "The children prattled happily about their day."
+        },
+        {
+            "word": "precarious",
+            "translation": "불안정한, 위태로운",
+            "sentence": "The precarious bridge swayed in the wind."
+        },
+        {
+            "word": "precedent",
+            "translation": "전례, 선례",
+            "sentence": "The ruling set a precedent for future cases."
+        },
+        {
+            "word": "precipitate",
+            "translation": "성급한, 촉진하다",
+            "sentence": "His precipitate decision caused unnecessary chaos."
+        },
+        {
+            "word": "precipitous",
+            "translation": "급경사의, 급격한",
+            "sentence": "The precipitous drop in sales alarmed the company."
+        },
+        {
+            "word": "precocious",
+            "translation": "성숙한, 조숙한",
+            "sentence": "The precocious child read books far beyond her age."
+        },
+        {
+            "word": "precursor",
+            "translation": "선구자, 전조",
+            "sentence": "The tremor was a precursor to the earthquake."
+        },
+        {
+            "word": "predatory",
+            "translation": "약탈의, 사나운",
+            "sentence": "The predatory hawk circled above its prey."
+        },
+        {
+            "word": "preeminent",
+            "translation": "탁월한, 뛰어난",
+            "sentence": "She was a preeminent figure in the art world."
+        },
+        {
+            "word": "preempt",
+            "translation": "우선권을 얻다, 선점하다",
+            "sentence": "They preempted the competition by launching early."
+        },
+        {
+            "word": "preen",
+            "translation": "곱게 다듬다, 우쭐해하다",
+            "sentence": "The bird preened its feathers in the sun."
+        },
+        {
+            "word": "prehensile",
+            "translation": "움켜쥐는, 붙잡는",
+            "sentence": "The monkey’s prehensile tail gripped the branch."
+        },
+        {
+            "word": "prelude",
+            "translation": "서막, 서두",
+            "sentence": "The soft music served as a prelude to the event."
+        },
+        {
+            "word": "preponderant",
+            "translation": "우세한, 더 많은",
+            "sentence": "The preponderant opinion favored the new policy."
+        },
+        {
+            "word": "preposterous",
+            "translation": "터무니없는, 비논리적인",
+            "sentence": "The idea of a flying car seemed preposterous then."
+        },
+        {
+            "word": "prerogative",
+            "translation": "전권, 특권",
+            "sentence": "Choosing the menu was her prerogative as host."
+        },
+        {
+            "word": "presage",
+            "translation": "예고하다, 예측하다",
+            "sentence": "The strange noise presaged engine trouble."
+        },
+        {
+            "word": "prescience",
+            "translation": "예지, 예지력",
+            "sentence": "Her prescience warned her of the coming danger."
+        },
+        {
+            "word": "prescient",
+            "translation": "예지력이 있는, 예지하는",
+            "sentence": "His prescient investments paid off handsomely."
+        },
+        {
+            "word": "presumptuous",
+            "translation": "주제넘은, 뻔뻔스러운",
+            "sentence": "It was presumptuous of him to assume he’d win."
+        },
+        {
+            "word": "pretentious",
+            "translation": "허영심이 강한, 거드름 피우는",
+            "sentence": "The pretentious decor clashed with the simple meal."
+        },
+        {
+            "word": "prevaricate",
+            "translation": "얼버무리다, 둘러대다",
+            "sentence": "He prevaricated when asked about his whereabouts."
+        },
+        {
+            "word": "prig",
+            "translation": "선비연하는 사람, 딱딱한 사람",
+            "sentence": "The prig lectured everyone on proper manners."
+        },
+        {
+            "word": "primal",
+            "translation": "원초적인, 본질적인",
+            "sentence": "The primal instinct to survive kicked in."
+        },
+        {
+            "word": "primeval",
+            "translation": "태고의, 원시의",
+            "sentence": "The primeval forest was untouched by humans."
+        },
+        {
+            "word": "primordial",
+            "translation": "원초적인, 태초의",
+            "sentence": "The primordial soup gave rise to early life."
+        },
+        {
+            "word": "pristine",
+            "translation": "깨끗한, 원래의",
+            "sentence": "The pristine beach stretched for miles."
+        },
+        {
+            "word": "privation",
+            "translation": "결핍, 박탈",
+            "sentence": "Years of privation left them weary and thin."
+        },
+        {
+            "word": "probe",
+            "translation": "조사하다, 탐구하다",
+            "sentence": "They probed the cave for hidden treasures."
+        },
+        {
+            "word": "problematical",
+            "translation": "문제의, 의심스러운",
+            "sentence": "The outcome of the experiment was problematical."
+        },
+        {
+            "word": "proclivity",
+            "translation": "성향, 경향",
+            "sentence": "She had a proclivity for taking risks."
+        },
+        {
+            "word": "procrastinate",
+            "translation": "미루다, 꾸물거리다",
+            "sentence": "He procrastinated until the deadline loomed."
+        },
+        {
+            "word": "procure",
+            "translation": "구하다, 획득하다",
+            "sentence": "She procured rare ingredients for the recipe."
+        },
+        {
+            "word": "prodigal",
+            "translation": "낭비하는, 방탕한",
+            "sentence": "The prodigal son squandered his inheritance."
+        },
+        {
+            "word": "prodigious",
+            "translation": "거대한, 놀라운",
+            "sentence": "His prodigious strength amazed the onlookers."
+        },
+        {
+            "word": "profane",
+            "translation": "신성 모독의, 불경한",
+            "sentence": "He profaned the temple with his careless words."
+        },
+        {
+            "word": "profess",
+            "translation": "공언하다, 주장하다",
+            "sentence": "She professed her loyalty to the cause."
+        },
+        {
+            "word": "proffer",
+            "translation": "제안하다, 제공하다",
+            "sentence": "He proffered a solution to the ongoing dispute."
+        },
+        {
+            "word": "proficient",
+            "translation": "능숙한, 숙련된",
+            "sentence": "She became proficient in coding after months of practice."
+        },
+        {
+            "word": "profound",
+            "translation": "깊은, 심오한",
+            "sentence": "His profound words left a lasting impression."
+        },
+        {
+            "word": "profuse",
+            "translation": "아낌없이 주는, 많은",
+            "sentence": "She offered profuse apologies for the delay."
+        },
+        {
+            "word": "progeny",
+            "translation": "자손, 후예",
+            "sentence": "The king’s progeny continued his legacy."
+        },
+        {
+            "word": "prognosticate",
+            "translation": "예언하다, 예측하다",
+            "sentence": "The seer prognosticated a prosperous year ahead."
+        },
+        {
+            "word": "progressive",
+            "translation": "점진적인, 진보적인",
+            "sentence": "The progressive reforms improved living conditions."
+        },
+        {
+            "word": "prohibit",
+            "translation": "금하다, 금지하다",
+            "sentence": "The sign prohibits smoking in the area."
+        },
+        {
+            "word": "prohibitive",
+            "translation": "금지하는, 막대한 비용의",
+            "sentence": "The prohibitive cost deterred them from buying."
+        },
+        {
+            "word": "projectile",
+            "translation": "발사체, 발사되는 물체",
+            "sentence": "The projectile soared high above the battlefield."
+        },
+        {
+            "word": "proletarian",
+            "translation": "프롤레타리아의, 노동자의",
+            "sentence": "The proletarian movement demanded fair wages."
+        },
+        {
+            "word": "proliferate",
+            "translation": "급속히 증식하다, 확산되다",
+            "sentence": "Weeds began to proliferate in the neglected garden."
+        },
+        {
+            "word": "prolific",
+            "translation": "다산의, 많은 작품을 내는",
+            "sentence": "The prolific writer published three books this year."
+        },
+        {
+            "word": "prologue",
+            "translation": "서문, 서막",
+            "sentence": "The play’s prologue set the stage for the drama."
+        },
+        {
+            "word": "prolong",
+            "translation": "연장하다, 늘이다",
+            "sentence": "They decided to prolong the meeting to finalize details."
+        },
+        {
+            "word": "prominent",
+            "translation": "두드러진, 저명한",
+            "sentence": "Her prominent role made her a household name."
+        },
+        {
+            "word": "promiscuous",
+            "translation": "난잡한, 난잡한 성관계를 가진",
+            "sentence": "The promiscuous behavior shocked the conservative town."
+        },
+        {
+            "word": "promontory",
+            "translation": "곶, 갑",
+            "sentence": "The lighthouse stood atop the rugged promontory."
+        },
+        {
+            "word": "promote",
+            "translation": "촉진하다, 승진시키다",
+            "sentence": "The campaign aimed to promote environmental awareness."
+        },
+        {
+            "word": "prompt",
+            "translation": "신속한, 즉각적인",
+            "sentence": "Her prompt response saved the project from delay."
+        },
+        {
+            "word": "promulgate",
+            "translation": "공표하다, 반포하다",
+            "sentence": "The king promulgated a new law across the land."
+        },
+        {
+            "word": "prone",
+            "translation": "기울어진, 취약한",
+            "sentence": "He’s prone to exaggeration when telling stories."
+        },
+        {
+            "word": "propagate",
+            "translation": "전파하다, 보급하다",
+            "sentence": "They worked to propagate their beliefs worldwide."
+        },
+        {
+            "word": "propel",
+            "translation": "밀다, 추진하다",
+            "sentence": "The engine’s force propelled the boat forward."
+        },
+        {
+            "word": "propensity",
+            "translation": "성향, 경향",
+            "sentence": "She has a propensity for solving complex puzzles."
+        },
+        {
+            "word": "prophetic",
+            "translation": "예언의, 예언적인",
+            "sentence": "His prophetic words foretold the coming storm."
+        },
+        {
+            "word": "propinquity",
+            "translation": "근접, 가까움",
+            "sentence": "Their propinquity fostered a strong friendship."
+        },
+        {
+            "word": "propitiate",
+            "translation": "달래다, 화해시키다",
+            "sentence": "They offered gifts to propitiate the angry spirits."
+        },
+        {
+            "word": "propitious",
+            "translation": "유리한, 상서로운",
+            "sentence": "The sunny weather was propitious for a picnic."
+        },
+        {
+            "word": "proponent",
+            "translation": "지지자, 옹호자",
+            "sentence": "She was a vocal proponent of animal rights."
+        },
+        {
+            "word": "propriety",
+            "translation": "적절함, 예의",
+            "sentence": "He acted with propriety despite the provocation."
+        },
+        {
+            "word": "propulsive",
+            "translation": "추진하는, 추진력 있는",
+            "sentence": "The propulsive energy of the rocket amazed onlookers."
+        },
+        {
+            "word": "prosaic",
+            "translation": "단조로운, 평범한",
+            "sentence": "His prosaic speech failed to inspire the crowd."
+        },
+        {
+            "word": "proscribe",
+            "translation": "배척하다, 금지하다",
+            "sentence": "The council proscribed smoking in public areas."
+        },
+        {
+            "word": "prosecute",
+            "translation": "기소하다, 추구하다",
+            "sentence": "The state chose to prosecute the corrupt official."
+        },
+        {
+            "word": "proselytize",
+            "translation": "개종시키다, 전도하다",
+            "sentence": "He traveled far to proselytize his faith."
+        },
+        {
+            "word": "prospect",
+            "translation": "기대, 전망",
+            "sentence": "The prospect of a promotion excited her."
+        },
+        {
+            "word": "prospective",
+            "translation": "장래의, 기대되는",
+            "sentence": "They interviewed prospective candidates for the job."
+        },
+        {
+            "word": "prosperity",
+            "translation": "번영, 성공",
+            "sentence": "The region enjoyed prosperity after the trade boom."
+        },
+        {
+            "word": "prostrate",
+            "translation": "엎드린, 기진맥진한",
+            "sentence": "He lay prostrate on the ground after the race."
+        },
+        {
+            "word": "protagonist",
+            "translation": "주인공, 주요 인물",
+            "sentence": "The protagonist overcame many obstacles to succeed."
+        },
+        {
+            "word": "protean",
+            "translation": "변하기 쉬운, 다재다능한",
+            "sentence": "Her protean talents shone in every field she tried."
+        },
+        {
+            "word": "protégé",
+            "translation": "후계자, 지도자의 총애를 받는 사람",
+            "sentence": "The artist took the young painter as his protégé."
+        },
+        {
+            "word": "protocol",
+            "translation": "의례, 의전",
+            "sentence": "The diplomat followed protocol during the ceremony."
+        },
+        {
+            "word": "protract",
+            "translation": "연장하다, 지연시키다",
+            "sentence": "They chose not to protract the negotiations further."
+        },
+        {
+            "word": "protrude",
+            "translation": "튀어나오다, 돌출하다",
+            "sentence": "A nail protruded from the wooden plank."
+        },
+        {
+            "word": "provident",
+            "translation": "사려 깊은, 준비를 갖춘",
+            "sentence": "Her provident planning ensured a secure future."
+        },
+        {
+            "word": "providential",
+            "translation": "신의 뜻에 따른, 우연히 잘된",
+            "sentence": "The providential rain saved the wilting crops."
+        },
+        {
+            "word": "provincial",
+            "translation": "지방의, 편협한",
+            "sentence": "His provincial mindset limited his worldview."
+        },
+        {
+            "word": "provisional",
+            "translation": "일시적인, 잠정적인",
+            "sentence": "They agreed on a provisional truce until talks resumed."
+        },
+        {
+            "word": "provoke",
+            "translation": "자극하다, 야기하다",
+            "sentence": "His rude comment provoked an angry response."
+        },
+        {
+            "word": "prudence",
+            "translation": "신중, 사려 깊음",
+            "sentence": "She exercised prudence in managing her finances."
+        },
+        {
+            "word": "prudent",
+            "translation": "신중한, 사려 깊은",
+            "sentence": "It was prudent to save money for emergencies."
+        },
+        {
+            "word": "prudish",
+            "translation": "내숭을 떠는, 지나치게 점잔빼는",
+            "sentence": "Her prudish reaction surprised the casual group."
+        },
+        {
+            "word": "prurient",
+            "translation": "호색적인, 음란한",
+            "sentence": "The prurient novel was banned in several places."
+        },
+        {
+            "word": "puerile",
+            "translation": "유아적인, 유치한",
+            "sentence": "His puerile jokes annoyed the mature audience."
+        },
+        {
+            "word": "pugnacious",
+            "translation": "성깔이 센, 싸움을 좋아하는",
+            "sentence": "The pugnacious boxer taunted his opponent."
+        },
+        {
+            "word": "puissant",
+            "translation": "강력한, 유력한",
+            "sentence": "The puissant leader commanded great respect."
+        },
+        {
+            "word": "pulchritude",
+            "translation": "아름다움, 미모",
+            "sentence": "Her pulchritude captivated everyone at the gala."
+        },
+        {
+            "word": "punctilious",
+            "translation": "까다로운, 지나치게 꼼꼼한",
+            "sentence": "He was punctilious about following every rule."
+        },
+        {
+            "word": "pundit",
+            "translation": "전문가, 권위자",
+            "sentence": "The pundit predicted the election outcome accurately."
+        },
+        {
+            "word": "pungent",
+            "translation": "신랄한, 톡 쏘는",
+            "sentence": "The pungent smell of onions filled the kitchen."
+        },
+        {
+            "word": "punitive",
+            "translation": "처벌의, 벌주는",
+            "sentence": "The court imposed punitive damages on the company."
+        },
+        {
+            "word": "purblind",
+            "translation": "시력이 약한, 근시안적인",
+            "sentence": "His purblind approach ignored long-term consequences."
+        },
+        {
+            "word": "purgatory",
+            "translation": "연옥, 고난의 장소",
+            "sentence": "Waiting for the results felt like purgatory."
+        },
+        {
+            "word": "purge",
+            "translation": "정화하다, 제거하다",
+            "sentence": "They purged the system of outdated files."
+        },
+        {
+            "word": "purport",
+            "translation": "의미하다, 주장하다",
+            "sentence": "The letter purported to reveal a secret deal."
+        },
+        {
+            "word": "purported",
+            "translation": "주장된, 소문된",
+            "sentence": "The purported benefits of the plan were exaggerated."
+        },
+        {
+            "word": "purse",
+            "translation": "지갑, 주머리를 만들다",
+            "sentence": "She reached into her purse for some change."
+        },
+        {
+            "word": "pursue",
+            "translation": "추구하다, 뒤쫓다",
+            "sentence": "He pursued his dream of becoming a pilot."
+        },
+        {
+            "word": "pusillanimous",
+            "translation": "겁 많은, 비겁한",
+            "sentence": "His pusillanimous retreat disappointed his allies."
+        },
+        {
+            "word": "putative",
+            "translation": "추정된, 소문된",
+            "sentence": "The putative leader lacked official authority."
+        },
+        {
+            "word": "pyromania",
+            "translation": "방화벽, 방화벽 환자",
+            "sentence": "His pyromania led to several unexplained fires."
+        },
+        {
+            "word": "quack",
+            "translation": "가짜 의사, 사기꾼",
+            "sentence": "The quack sold fake cures to desperate patients."
+        },
+        {
+            "word": "quagmire",
+            "translation": "곤경, 진창",
+            "sentence": "The project became a quagmire of delays and costs."
+        },
+        {
+            "word": "quail",
+            "translation": "겁내다, 주눅들다",
+            "sentence": "She quailed at the thought of speaking publicly."
+        },
+        {
+            "word": "quaint",
+            "translation": "기이한, 예스러운",
+            "sentence": "The quaint village charmed all its visitors."
+        },
+        {
+            "word": "qualified",
+            "translation": "자격을 갖춘, 제한된",
+            "sentence": "He gave a qualified yes, with some conditions."
+        },
+        {
+            "word": "qualify",
+            "translation": "자격을 주다, 제한하다",
+            "sentence": "Her skills qualify her for the promotion."
+        },
+        {
+            "word": "qualitative",
+            "translation": "질적인, 성질의",
+            "sentence": "The study focused on qualitative differences."
+        },
+        {
+            "word": "qualm",
+            "translation": "꺼림칙함, 망설임",
+            "sentence": "He had no qualms about bending the rules."
+        },
+        {
+            "word": "quandary",
+            "translation": "곤경, 난처함",
+            "sentence": "She was in a quandary over which job to take."
+        },
+        {
+            "word": "quarantine",
+            "translation": "격리, 검역",
+            "sentence": "The sick passengers were placed in quarantine."
+        },
+        {
+            "word": "quarry",
+            "translation": "채석장, 채석하다",
+            "sentence": "The workers quarried stone from the hillside."
+        },
+        {
+            "word": "quash",
+            "translation": "무효화하다, 진압하다",
+            "sentence": "The judge quashed the baseless accusations."
+        },
+        {
+            "word": "quaver",
+            "translation": "떨다, 떨리는 목소리",
+            "sentence": "Her voice quavered as she delivered the news."
+        },
+        {
+            "word": "quell",
+            "translation": "가라앉히다, 진압하다",
+            "sentence": "The leader quelled the rising panic with calm words."
+        },
+        {
+            "word": "querulous",
+            "translation": "투덜거리는, 불평 많은",
+            "sentence": "The querulous old man grumbled about everything."
+        },
+        {
+            "word": "query",
+            "translation": "질문, 의문",
+            "sentence": "She raised a query about the budget figures."
+        },
+        {
+            "word": "quest",
+            "translation": "탐구, 추구",
+            "sentence": "His quest for knowledge took him across continents."
+        },
+        {
+            "word": "quibble",
+            "translation": "이의를 제기하다, 변명하다",
+            "sentence": "They quibbled over minor details in the contract."
+        },
+        {
+            "word": "quiescent",
+            "translation": "고요한, 잠잠한",
+            "sentence": "The quiescent lake reflected the starry sky."
+        },
+        {
+            "word": "quietus",
+            "translation": "사망, 죽음",
+            "sentence": "The battle gave him his quietus on the field."
+        },
+        {
+            "word": "quintessential",
+            "translation": "가장 전형적인, 본질적인",
+            "sentence": "She was the quintessential example of grace."
+        },
+        {
+            "word": "quip",
+            "translation": "농담, 빈정거림",
+            "sentence": "He responded with a witty quip that made them laugh."
+        },
+        {
+            "word": "quirk",
+            "translation": "특이한 버릇, 기이한 점",
+            "sentence": "Her quirk of humming while working amused her friends."
+        },
+        {
+            "word": "quisling",
+            "translation": "배신자, 매국노",
+            "sentence": "History remembers him as a quisling who betrayed his nation."
+        },
+        {
+            "word": "quixotic",
+            "translation": "비현실적인, 공상적인",
+            "sentence": "His quixotic plan to sail the world alone failed."
+        },
+        {
+            "word": "quizzical",
+            "translation": "의아한, 빈정거리는",
+            "sentence": "She gave him a quizzical look at his odd remark."
+        },
+        {
+            "word": "quondam",
+            "translation": "옛날의, 예전의",
+            "sentence": "The quondam ruler’s statue still stood in the square."
+        },
+        {
+            "word": "rabid",
+            "translation": "미친, 맹렬한",
+            "sentence": "The rabid dog posed a danger to the neighborhood."
+        },
+        {
+            "word": "raconteur",
+            "translation": "이야기꾼, 이야기하는 사람",
+            "sentence": "The raconteur entertained guests with vivid tales."
+        },
+        {
+            "word": "racy",
+            "translation": "활기찬, 생생한",
+            "sentence": "The racy novel kept readers hooked till the end."
+        },
+        {
+            "word": "radiant",
+            "translation": "빛나는, 찬란한",
+            "sentence": "Her radiant smile brightened the gloomy room."
+        },
+        {
+            "word": "raffish",
+            "translation": "야한, 경박한",
+            "sentence": "His raffish charm won over the skeptical crowd."
+        },
+        {
+            "word": "raffle",
+            "translation": "복권, 추첨",
+            "sentence": "They held a raffle to raise funds for charity."
+        },
+        {
+            "word": "rage",
+            "translation": "격노, 격렬한 분노",
+            "sentence": "He flew into a rage when he heard the news."
+        },
+        {
+            "word": "ragtag",
+            "translation": "떼, 우스꽝스러운 모임",
+            "sentence": "The ragtag group of volunteers saved the day."
+        },
+        {
+            "word": "raillery",
+            "translation": "빈정거림, 농담",
+            "sentence": "Their friendly raillery kept the mood light."
+        },
+        {
+            "word": "rakish",
+            "translation": "경망스러운, 멋쟁이 같은",
+            "sentence": "He wore his hat at a rakish angle."
+        },
+        {
+            "word": "rally",
+            "translation": "결집하다, 모이다",
+            "sentence": "The team rallied to win in the final minutes."
+        },
+        {
+            "word": "ramble",
+            "translation": "산책하다, 지껄이다",
+            "sentence": "She loved to ramble through the woods on weekends."
+        },
+        {
+            "word": "rambunctious",
+            "translation": "떠들썩한, 들떠 있는",
+            "sentence": "The rambunctious children ran wild at the party."
+        },
+        {
+            "word": "ramification",
+            "translation": "파생, 분기",
+            "sentence": "The decision had far-reaching ramifications."
+        },
+        {
+            "word": "rampant",
+            "translation": "극성스러운, 팽배한",
+            "sentence": "Corruption was rampant in the old regime."
+        },
+        {
+            "word": "ramshackle",
+            "translation": "허술한, 낡은",
+            "sentence": "The ramshackle barn barely stood upright."
+        },
+        {
+            "word": "rancid",
+            "translation": "찌든, 불쾌한",
+            "sentence": "The rancid butter ruined the meal’s flavor."
+        },
+        {
+            "word": "rancor",
+            "translation": "원한, 증오",
+            "sentence": "Years of rancor poisoned their relationship."
+        },
+        {
+            "word": "random",
+            "translation": "무작위, 우연의",
+            "sentence": "The winners were chosen by random selection."
+        },
+        {
+            "word": "rankle",
+            "translation": "괴롭히다, 계속 찌푸리게 하다",
+            "sentence": "His harsh words continued to rankle her."
+        },
+        {
+            "word": "rant",
+            "translation": "떠들다, 고함치다",
+            "sentence": "He ranted about the unfairness of the rules."
+        },
+        {
+            "word": "rapacious",
+            "translation": "탐욕스러운, 약탈하는",
+            "sentence": "The rapacious landlord raised rents without mercy."
+        },
+        {
+            "word": "rapacity",
+            "translation": "탐욕, 약탈",
+            "sentence": "Her rapacity drove her to exploit every opportunity."
+        },
+        {
+            "word": "rapt",
+            "translation": "집중한, 열중하는",
+            "sentence": "The audience was rapt during her performance."
+        },
+        {
+            "word": "rapture",
+            "translation": "황홀, 열광",
+            "sentence": "She gazed at the painting in silent rapture."
+        },
+        {
+            "word": "rare",
+            "translation": "드문, 진귀한",
+            "sentence": "The rare gem fetched a high price at auction."
+        },
+        {
+            "word": "rascal",
+            "translation": "나쁜놈, 악당",
+            "sentence": "The little rascal stole cookies from the jar."
+        },
+        {
+            "word": "rash",
+            "translation": "성급한, 경솔한",
+            "sentence": "His rash decision cost the team the game."
+        },
+        {
+            "word": "ratify",
+            "translation": "비준하다, 승인하다",
+            "sentence": "The treaty was ratified by all member states."
+        },
+        {
+            "word": "ration",
+            "translation": "할당량, 배급",
+            "sentence": "Food was rationed during the wartime shortage."
+        },
+        {
+            "word": "rational",
+            "translation": "합리적인, 이성적인",
+            "sentence": "She made a rational choice based on the facts."
+        },
+        {
+            "word": "rationale",
+            "translation": "근거, 이유",
+            "sentence": "He explained the rationale behind his strategy."
+        },
+        {
+            "word": "raucous",
+            "translation": "시끄러운, 요란한",
+            "sentence": "The raucous crowd cheered wildly at the match."
+        },
+        {
+            "word": "rave",
+            "translation": "열광하다, 미치다",
+            "sentence": "Critics raved about the film’s stunning visuals."
+        },
+        {
+            "word": "ravenous",
+            "translation": "굶주린, 탐욕스러운",
+            "sentence": "The ravenous hikers devoured their meal."
+        },
+        {
+            "word": "ravish",
+            "translation": "강탈하다, 황홀하게 만들다",
+            "sentence": "The music’s beauty ravished the entire audience."
+        },
+        {
+            "word": "rebuff",
+            "translation": "거절, 퇴짜",
+            "sentence": "She gave him a sharp rebuff when he asked for a favor."
+        },
+        {
+            "word": "rebuke",
+            "translation": "비난, 질책",
+            "sentence": "The teacher rebuked the student for arriving late."
+        },
+        {
+            "word": "recalcitrant",
+            "translation": "고집 센, 완고한",
+            "sentence": "The recalcitrant child refused to follow instructions."
+        },
+        {
+            "word": "recant",
+            "translation": "철회하다, 취소하다",
+            "sentence": "He was forced to recant his statement under pressure."
+        },
+        {
+            "word": "recapitulate",
+            "translation": "요약하다, 되풀이하다",
+            "sentence": "She recapitulated the key points at the end of the talk."
+        },
+        {
+            "word": "recede",
+            "translation": "물러가다, 후퇴하다",
+            "sentence": "The floodwaters began to recede after the storm."
+        },
+        {
+            "word": "receptacle",
+            "translation": "수납함, 용기",
+            "sentence": "He placed the coins in a small receptacle on the counter."
+        },
+        {
+            "word": "receptive",
+            "translation": "개방적인, 수용적인",
+            "sentence": "The team was receptive to new suggestions."
+        },
+        {
+            "word": "recess",
+            "translation": "휴식 시간, 휴식",
+            "sentence": "The children played outside during recess."
+        },
+        {
+            "word": "recession",
+            "translation": "후퇴, 불황",
+            "sentence": "The recession affected small businesses the most."
+        },
+        {
+            "word": "recessive",
+            "translation": "후퇴하는, 소멸하는",
+            "sentence": "The recessive trait only appeared in a few family members."
+        },
+        {
+            "word": "recidivism",
+            "translation": "재범, 재발",
+            "sentence": "The program aims to reduce recidivism among offenders."
+        },
+        {
+            "word": "recipient",
+            "translation": "수령자, 수혜자",
+            "sentence": "She was the recipient of a prestigious award."
+        },
+        {
+            "word": "reciprocal",
+            "translation": "상호적인, 호혜적인",
+            "sentence": "Their relationship was based on reciprocal trust."
+        },
+        {
+            "word": "reciprocate",
+            "translation": "보답하다, 상호 교환하다",
+            "sentence": "He reciprocated her kindness with a thoughtful gift."
+        },
+        {
+            "word": "reclusive",
+            "translation": "은둔하는, 은둔 생활의",
+            "sentence": "The reclusive writer rarely appeared in public."
+        },
+        {
+            "word": "recompense",
+            "translation": "보상, 보상하다",
+            "sentence": "They offered her recompense for the lost items."
+        },
+        {
+            "word": "reconcile",
+            "translation": "화해시키다, 조정하다",
+            "sentence": "They worked hard to reconcile their differences."
+        },
+        {
+            "word": "recondite",
+            "translation": "알기 어려운, 심오한",
+            "sentence": "The lecture was filled with recondite references."
+        },
+        {
+            "word": "reconnoiter",
+            "translation": "탐사하다, 정찰하다",
+            "sentence": "The soldiers were sent to reconnoiter the area."
+        },
+        {
+            "word": "reconstitute",
+            "translation": "재구성하다, 복원하다",
+            "sentence": "They aimed to reconstitute the original recipe."
+        },
+        {
+            "word": "recount",
+            "translation": "이야기하다, 설명하다",
+            "sentence": "She recounted her adventures from the trip."
+        },
+        {
+            "word": "recoup",
+            "translation": "회수하다, 되찾다",
+            "sentence": "He hoped to recoup his losses with a new investment."
+        },
+        {
+            "word": "recourse",
+            "translation": "구제, 의지",
+            "sentence": "She had no recourse but to ask for help."
+        },
+        {
+            "word": "recover",
+            "translation": "회복하다, 되찾다",
+            "sentence": "He recovered quickly after the surgery."
+        },
+        {
+            "word": "recreant",
+            "translation": "비겁한, 겁쟁이",
+            "sentence": "The recreant soldier fled from the battlefield."
+        },
+        {
+            "word": "recriminate",
+            "translation": "상호 비난하다, 역공하다",
+            "sentence": "They began to recriminate during the heated argument."
+        },
+        {
+            "word": "recrudesce",
+            "translation": "다시 나타나다, 재발하다",
+            "sentence": "The old tensions recrudesced after years of peace."
+        },
+        {
+            "word": "recumbent",
+            "translation": "누운, 수평의",
+            "sentence": "He lay recumbent on the couch all day."
+        },
+        {
+            "word": "recuperate",
+            "translation": "회복하다, 쾌차하다",
+            "sentence": "She went to the countryside to recuperate."
+        },
+        {
+            "word": "recur",
+            "translation": "되풀이되다, 재발하다",
+            "sentence": "The same problem seems to recur every month."
+        },
+        {
+            "word": "recurrent",
+            "translation": "되풀이되는, 주기적인",
+            "sentence": "He suffered from recurrent headaches."
+        },
+        {
+            "word": "redact",
+            "translation": "정리하다, 편집하다",
+            "sentence": "The document was redacted to remove sensitive details."
+        },
+        {
+            "word": "redden",
+            "translation": "빨갛게 되다, 얼굴을 붉히다",
+            "sentence": "Her cheeks reddened with embarrassment."
+        },
+        {
+            "word": "redeem",
+            "translation": "회수하다, 구원하다",
+            "sentence": "He redeemed his reputation with a heroic act."
+        },
+        {
+            "word": "redolent",
+            "translation": "냄새가 나는, 연상시키는",
+            "sentence": "The air was redolent of fresh flowers."
+        },
+        {
+            "word": "redoubtable",
+            "translation": "두려운, 무서운",
+            "sentence": "She was a redoubtable opponent in the debate."
+        },
+        {
+            "word": "redress",
+            "translation": "개선, 보상",
+            "sentence": "They sought to redress the injustice done to them."
+        },
+        {
+            "word": "redundant",
+            "translation": "여분의, 불필요한",
+            "sentence": "The extra staff became redundant after the merger."
+        },
+        {
+            "word": "reek",
+            "translation": "악취, 악취가 나다",
+            "sentence": "The room reeked of stale smoke."
+        },
+        {
+            "word": "reel",
+            "translation": "비틀거리다, 혼란스러워하다",
+            "sentence": "He reeled from the shock of the news."
+        },
+        {
+            "word": "referendum",
+            "translation": "주민투표, 국민투표",
+            "sentence": "The issue was settled by a public referendum."
+        },
+        {
+            "word": "refine",
+            "translation": "정제하다, 세련되게 만들다",
+            "sentence": "They refined the process to increase efficiency."
+        },
+        {
+            "word": "refractory",
+            "translation": "고집 센, 다루기 힘든",
+            "sentence": "The refractory horse refused to be tamed."
+        },
+        {
+            "word": "refrain",
+            "translation": "자제하다, 삼가다",
+            "sentence": "He refrained from making any comments."
+        },
+        {
+            "word": "refulgent",
+            "translation": "눈부신, 빛나는",
+            "sentence": "The sky was refulgent with the setting sun."
+        },
+        {
+            "word": "refute",
+            "translation": "반박하다, 논박하다",
+            "sentence": "She refuted his claims with solid evidence."
+        },
+        {
+            "word": "regale",
+            "translation": "즐겁게 대접하다, 대접하다",
+            "sentence": "He regaled his guests with tales of his travels."
+        },
+        {
+            "word": "regenerate",
+            "translation": "갱생하다, 재생하다",
+            "sentence": "The forest began to regenerate after the fire."
+        },
+        {
+            "word": "regime",
+            "translation": "정권, 체제",
+            "sentence": "The new regime promised sweeping reforms."
+        },
+        {
+            "word": "rehabilitate",
+            "translation": "재활시키다, 복권시키다",
+            "sentence": "The program aims to rehabilitate former prisoners."
+        },
+        {
+            "word": "reign",
+            "translation": "통치, 지배",
+            "sentence": "The queen reigned for over fifty years."
+        },
+        {
+            "word": "reimburse",
+            "translation": "환불하다, 변상하다",
+            "sentence": "The company reimbursed her travel expenses."
+        },
+        {
+            "word": "reinforce",
+            "translation": "강화하다, 보강하다",
+            "sentence": "They reinforced the walls to withstand storms."
+        },
+        {
+            "word": "reiterate",
+            "translation": "재차 말하다, 반복하다",
+            "sentence": "He reiterated his point to ensure clarity."
+        },
+        {
+            "word": "rejoinder",
+            "translation": "대답, 답변",
+            "sentence": "She offered a witty rejoinder to his remark."
+        },
+        {
+            "word": "rejuvenate",
+            "translation": "회춘하다, 젊어지다",
+            "sentence": "A good night’s sleep can rejuvenate you."
+        },
+        {
+            "word": "relapse",
+            "translation": "재발, 되돌아감",
+            "sentence": "He suffered a relapse after months of recovery."
+        },
+        {
+            "word": "relate",
+            "translation": "이야기하다, 관련시키다",
+            "sentence": "She related the story of her childhood."
+        },
+        {
+            "word": "relegate",
+            "translation": "내려놓다, 격하시키다",
+            "sentence": "The old files were relegated to the basement."
+        },
+        {
+            "word": "relent",
+            "translation": "누그러지다, 약해지다",
+            "sentence": "The rain finally relented after hours."
+        },
+        {
+            "word": "relevant",
+            "translation": "관련된, 적절한",
+            "sentence": "Her comments were highly relevant to the discussion."
+        },
+        {
+            "word": "reliable",
+            "translation": "신뢰할 수 있는, 의지할 수 있는",
+            "sentence": "He proved to be a reliable friend in tough times."
+        },
+        {
+            "word": "relic",
+            "translation": "유물, 유품",
+            "sentence": "The museum displayed relics from ancient times."
+        },
+        {
+            "word": "relinquish",
+            "translation": "포기하다, 내려놓다",
+            "sentence": "She relinquished her hold on the past."
+        },
+        {
+            "word": "relish",
+            "translation": "기호, 맛",
+            "sentence": "He ate the meal with obvious relish."
+        },
+        {
+            "word": "reluctant",
+            "translation": "꺼리는, 마지못해 하는",
+            "sentence": "She was reluctant to join the group."
+        },
+        {
+            "word": "remiss",
+            "translation": "부주의한, 태만한",
+            "sentence": "He was remiss in his duties as a guard."
+        },
+        {
+            "word": "remnant",
+            "translation": "나머지, 잔여물",
+            "sentence": "The remnant of the fabric was used for patches."
+        },
+        {
+            "word": "remonstrate",
+            "translation": "항의하다, 간청하다",
+            "sentence": "She remonstrated with him about his behavior."
+        },
+        {
+            "word": "remorse",
+            "translation": "후회, 회한",
+            "sentence": "He felt deep remorse for his actions."
+        },
+        {
+            "word": "remunerate",
+            "translation": "보상하다, 보수를 주다",
+            "sentence": "They remunerated her for her extra efforts."
+        },
+        {
+            "word": "renaissance",
+            "translation": "부흥, 르네상스",
+            "sentence": "The city experienced a cultural renaissance."
+        },
+        {
+            "word": "rend",
+            "translation": "찢다, 찢어발기다",
+            "sentence": "The fierce wind threatened to rend the sails apart."
+        },
+        {
+            "word": "render",
+            "translation": "바꾸다, 제공하다",
+            "sentence": "The artist rendered the scene in vivid colors."
+        },
+        {
+            "word": "renegade",
+            "translation": "변절자, 배신자",
+            "sentence": "The renegade soldier joined the enemy forces."
+        },
+        {
+            "word": "renege",
+            "translation": "파기하다, 취소하다",
+            "sentence": "He reneged on his promise to help with the project."
+        },
+        {
+            "word": "renew",
+            "translation": "새로이 하다, 갱신하다",
+            "sentence": "She decided to renew her gym membership for another year."
+        },
+        {
+            "word": "renounce",
+            "translation": "포기하다, 선언하다",
+            "sentence": "He renounced his claim to the throne."
+        },
+        {
+            "word": "renovate",
+            "translation": "개조하다, 수리하다",
+            "sentence": "They plan to renovate the old house next spring."
+        },
+        {
+            "word": "renown",
+            "translation": "명성, 평판",
+            "sentence": "The chef gained renown for his innovative dishes."
+        },
+        {
+            "word": "renowned",
+            "translation": "유명한, 명성이 있는",
+            "sentence": "She is a renowned scientist in the field of genetics."
+        },
+        {
+            "word": "rent",
+            "translation": "임대료, 차임",
+            "sentence": "The rent for the apartment increased unexpectedly."
+        },
+        {
+            "word": "repartee",
+            "translation": "재치 있는 대화, 재치 있는 대답",
+            "sentence": "Their quick repartee kept the audience entertained."
+        },
+        {
+            "word": "repeal",
+            "translation": "취소하다, 폐지하다",
+            "sentence": "The law was repealed after years of protests."
+        },
+        {
+            "word": "repel",
+            "translation": "물리치다, 물리치다",
+            "sentence": "The strong smell of the spray repels insects."
+        },
+        {
+            "word": "repellent",
+            "translation": "물리치는, 불쾌한",
+            "sentence": "His rude behavior was repellent to everyone."
+        },
+        {
+            "word": "repent",
+            "translation": "회개하다, 후회하다",
+            "sentence": "She repented her harsh words after the argument."
+        },
+        {
+            "word": "repertoire",
+            "translation": "레퍼토리, 프로그램",
+            "sentence": "The band expanded its repertoire with new songs."
+        },
+        {
+            "word": "replete",
+            "translation": "가득한, 충만한",
+            "sentence": "The book is replete with fascinating details."
+        },
+        {
+            "word": "replica",
+            "translation": "복제, 모조품",
+            "sentence": "He bought a replica of the famous statue."
+        },
+        {
+            "word": "replicate",
+            "translation": "복제하다, 반복하다",
+            "sentence": "Scientists tried to replicate the experiment’s results."
+        },
+        {
+            "word": "repose",
+            "translation": "휴식, 안정",
+            "sentence": "She found repose in the quiet countryside."
+        },
+        {
+            "word": "reprehensible",
+            "translation": "비난할 만한, 나무랄 만한",
+            "sentence": "His actions were considered reprehensible by all."
+        },
+        {
+            "word": "repress",
+            "translation": "억압하다, 억제하다",
+            "sentence": "He struggled to repress his anger during the meeting."
+        },
+        {
+            "word": "reprieve",
+            "translation": "유예, 임시 석방",
+            "sentence": "The governor granted a reprieve to the prisoner."
+        },
+        {
+            "word": "reprimand",
+            "translation": "비난, 경고",
+            "sentence": "The boss issued a stern reprimand for the mistake."
+        },
+        {
+            "word": "reproach",
+            "translation": "비난, 책망",
+            "sentence": "She looked at him with eyes full of reproach."
+        },
+        {
+            "word": "reprobate",
+            "translation": "비난받을 만한, 타락한",
+            "sentence": "He was labeled a reprobate for his dishonest ways."
+        },
+        {
+            "word": "reproof",
+            "translation": "비난, 경고",
+            "sentence": "Her sharp reproof silenced the room."
+        },
+        {
+            "word": "reprove",
+            "translation": "비난하다, 경고하다",
+            "sentence": "She reproved him for his careless attitude."
+        },
+        {
+            "word": "repudiate",
+            "translation": "부인하다, 거부하다",
+            "sentence": "He repudiated the accusations against him."
+        },
+        {
+            "word": "repugnant",
+            "translation": "혐오스러운, 역겨운",
+            "sentence": "The idea of cruelty was repugnant to her."
+        },
+        {
+            "word": "repulse",
+            "translation": "물리치다, 거부하다",
+            "sentence": "The army managed to repulse the enemy’s attack."
+        },
+        {
+            "word": "repute",
+            "translation": "평판, 명성",
+            "sentence": "The school has a repute for academic excellence."
+        },
+        {
+            "word": "reputed",
+            "translation": "평판이 좋은, 소문난",
+            "sentence": "He is reputed to be the best doctor in town."
+        },
+        {
+            "word": "requite",
+            "translation": "보답하다, 갚다",
+            "sentence": "She sought to requite his kindness with a gift."
+        },
+        {
+            "word": "rescind",
+            "translation": "취소하다, 철회하다",
+            "sentence": "The contract was rescinded due to a breach."
+        },
+        {
+            "word": "reseat",
+            "translation": "다시 앉히다, 다시 배치하다",
+            "sentence": "They had to reseat the guests after a mix-up."
+        },
+        {
+            "word": "resent",
+            "translation": "분개하다, 분노하다",
+            "sentence": "He began to resent her constant criticism."
+        },
+        {
+            "word": "resentment",
+            "translation": "분노, 분개",
+            "sentence": "Her resentment grew with each unfair decision."
+        },
+        {
+            "word": "reserve",
+            "translation": "예약, 예치",
+            "sentence": "She made a reserve of supplies for the trip."
+        },
+        {
+            "word": "residual",
+            "translation": "남은, 잔여의",
+            "sentence": "The residual effects of the illness lingered."
+        },
+        {
+            "word": "resign",
+            "translation": "사임하다, 포기하다",
+            "sentence": "He decided to resign from his position."
+        },
+        {
+            "word": "resilient",
+            "translation": "회복 탄력성이 있는, 유연한",
+            "sentence": "The resilient material bounced back to shape."
+        },
+        {
+            "word": "resolute",
+            "translation": "결연한, 단호한",
+            "sentence": "She remained resolute despite the challenges."
+        },
+        {
+            "word": "resolve",
+            "translation": "결심, 해결",
+            "sentence": "They worked together to resolve the conflict."
+        },
+        {
+            "word": "resonant",
+            "translation": "울림이 있는, 메아리치는",
+            "sentence": "His resonant voice filled the auditorium."
+        },
+        {
+            "word": "resonate",
+            "translation": "울리다, 공명하다",
+            "sentence": "Her words resonate with people of all ages."
+        },
+        {
+            "word": "resound",
+            "translation": "울리다, 크게 울리다",
+            "sentence": "The applause resounded through the hall."
+        },
+        {
+            "word": "resourceful",
+            "translation": "적극적인, 기발한",
+            "sentence": "He was resourceful in solving the problem."
+        },
+        {
+            "word": "respite",
+            "translation": "잠시 동안의 휴식, 일시적인 연기",
+            "sentence": "The rain offered a brief respite from the heat."
+        },
+        {
+            "word": "resplendent",
+            "translation": "눈부신, 찬란한",
+            "sentence": "She looked resplendent in her wedding gown."
+        },
+        {
+            "word": "responsive",
+            "translation": "반응하는, 응답하는",
+            "sentence": "The team was responsive to feedback."
+        },
+        {
+            "word": "restitution",
+            "translation": "복원, 배상",
+            "sentence": "He offered restitution for the damages caused."
+        },
+        {
+            "word": "restive",
+            "translation": "짜증스러운, 다루기 힘든",
+            "sentence": "The restive crowd grew impatient."
+        },
+        {
+            "word": "restless",
+            "translation": "불안정한, 안절부절못하는",
+            "sentence": "He felt restless after hours of waiting."
+        },
+        {
+            "word": "resurgent",
+            "translation": "다시 일어나는, 부활하는",
+            "sentence": "There was a resurgent interest in vintage cars."
+        },
+        {
+            "word": "resurrect",
+            "translation": "부활하다, 다시 일으키다",
+            "sentence": "They tried to resurrect the old tradition."
+        },
+        {
+            "word": "retain",
+            "translation": "유지하다, 보유하다",
+            "sentence": "She worked hard to retain her title."
+        },
+        {
+            "word": "retaliate",
+            "translation": "보복하다, 되갚다",
+            "sentence": "He vowed to retaliate against his rivals."
+        },
+        {
+            "word": "retard",
+            "translation": "지연시키다, 늦추다",
+            "sentence": "The storm retarded their progress."
+        },
+        {
+            "word": "reticent",
+            "translation": "말을 삼가는, 내성적인",
+            "sentence": "She was reticent about her personal life."
+        },
+        {
+            "word": "retinue",
+            "translation": "수행원, 호위대",
+            "sentence": "The king traveled with a large retinue."
+        },
+        {
+            "word": "retort",
+            "translation": "대꾸, 역공",
+            "sentence": "She gave a sharp retort to his comment."
+        },
+        {
+            "word": "retrench",
+            "translation": "삭감하다, 절약하다",
+            "sentence": "The company had to retrench during the crisis."
+        },
+        {
+            "word": "retribution",
+            "translation": "응징, 보복",
+            "sentence": "He sought retribution for the injustice."
+        },
+        {
+            "word": "retrieve",
+            "translation": "회수하다, 되찾다",
+            "sentence": "She managed to retrieve her lost keys."
+        },
+        {
+            "word": "retrograde",
+            "translation": "후퇴하는, 후퇴의",
+            "sentence": "The decision was seen as a retrograde step."
+        },
+        {
+            "word": "retrogress",
+            "translation": "후퇴하다, 퇴보하다",
+            "sentence": "Without effort, skills can retrogress."
+        },
+        {
+            "word": "retrospect",
+            "translation": "회고, 회상",
+            "sentence": "In retrospect, she wished she had acted differently."
+        },
+        {
+            "word": "revelation",
+            "translation": "폭로, 계시",
+            "sentence": "The document was a revelation of hidden truths."
+        },
+        {
+            "word": "revere",
+            "translation": "존경하다, 숭배하다",
+            "sentence": "They revere their elders in that community."
+        },
+        {
+            "word": "reverent",
+            "translation": "경건한, 존경하는",
+            "sentence": "He spoke in a reverent tone about his mentor."
+        },
+        {
+            "word": "reverie",
+            "translation": "내성, 몽상",
+            "sentence": "She drifted into a reverie about her childhood."
+        },
+        {
+            "word": "reversal",
+            "translation": "역전, 반전",
+            "sentence": "The team staged a dramatic reversal in the game."
+        },
+        {
+            "word": "revert",
+            "translation": "되돌아가다, 다시 돌아가다",
+            "sentence": "He tends to revert to old habits under stress."
+        },
+        {
+            "word": "revile",
+            "translation": "악담하다, 욕하다",
+            "sentence": "The crowd began to revile the unpopular leader."
+        },
+        {
+            "word": "revise",
+            "translation": "수정하다, 개정하다",
+            "sentence": "She revised her essay before submitting it."
+        },
+        {
+            "word": "revive",
+            "translation": "회복하다, 되살아나다",
+            "sentence": "The rain helped revive the wilted plants."
+        },
+        {
+            "word": "revoke",
+            "translation": "철회하다, 취소하다",
+            "sentence": "They decided to revoke his membership."
+        },
+        {
+            "word": "revulsion",
+            "translation": "혐오, 역겨움",
+            "sentence": "She felt revulsion at the sight of the mess."
+        },
+        {
+            "word": "rhapsody",
+            "translation": "열광, 열정",
+            "sentence": "The music swelled into a rhapsody of sound."
+        },
+        {
+            "word": "rhetoric",
+            "translation": "수사법, 웅변",
+            "sentence": "His speech was full of persuasive rhetoric."
+        },
+        {
+            "word": "ribald",
+            "translation": "상스러운, 천한",
+            "sentence": "The comedian’s ribald jokes shocked the audience."
+        },
+        {
+            "word": "riddle",
+            "translation": "퍼즐, 수수께끼",
+            "sentence": "The mystery remained a riddle to everyone."
+        },
+        {
+            "word": "rife",
+            "translation": "널리 퍼진, 유행하는",
+            "sentence": "Rumors were rife about the upcoming changes."
+        },
+        {
+            "word": "rift",
+            "translation": "갈라짐, 이간",
+            "sentence": "A rift developed between the two friends."
+        },
+        {
+            "word": "rig",
+            "translation": "장치, 장비",
+            "sentence": "They set up a rig to drill for oil."
+        },
+        {
+            "word": "rigid",
+            "translation": "딱딱한, 엄격한",
+            "sentence": "His rigid rules left no room for creativity."
+        },
+        {
+            "word": "rigmarole",
+            "translation": "장황한 이야기, 지루한 절차",
+            "sentence": "The process was a rigmarole of unnecessary steps."
+        },
+        {
+            "word": "rile",
+            "translation": "짜증나게 하다, 화나게 하다",
+            "sentence": "His comments never fail to rile her up."
+        },
+        {
+            "word": "rind",
+            "translation": "껍질, 외피",
+            "sentence": "She peeled the rind off the orange."
+        },
+        {
+            "word": "ringlet",
+            "translation": "고리 모양의 머리, 곱슬머리",
+            "sentence": "Her hair fell in soft ringlets around her face."
+        },
+        {
+            "word": "riot",
+            "translation": "폭동, 소동",
+            "sentence": "The protest turned into a full-scale riot."
+        },
+        {
+            "word": "rip",
+            "translation": "찢다, 찢어발기다",
+            "sentence": "He accidentally ripped his shirt on the fence."
+        },
+        {
+            "word": "ripple",
+            "translation": "물결, 잔물결",
+            "sentence": "A stone caused a ripple across the pond."
+        },
+        {
+            "word": "risqué",
+            "translation": "외설적인, 위험한",
+            "sentence": "Her risqué humor made some people uncomfortable."
+        },
+        {
+            "word": "risible",
+            "translation": "웃기는, 우스운",
+            "sentence": "His excuse was so risible that everyone laughed."
+        },
+        {
+            "word": "rite",
+            "translation": "의식, 의례",
+            "sentence": "The tribe performed a sacred rite at dawn."
+        },
+        {
+            "word": "ritual",
+            "translation": "의식, 의례",
+            "sentence": "Brushing her teeth was a nightly ritual."
+        },
+        {
+            "word": "rivet",
+            "translation": "직 rivet, 박다",
+            "sentence": "The story riveted the audience’s attention."
+        },
+        {
+            "word": "robust",
+            "translation": "강력한, 튼튼한",
+            "sentence": "He built a robust defense against criticism."
+        },
+        {
+            "word": "roguish",
+            "translation": "장난꾸러기, 장난스러운",
+            "sentence": "His roguish grin charmed everyone around."
+        },
+        {
+            "word": "roil",
+            "translation": "뒤섞다, 혼란스럽게 하다",
+            "sentence": "The storm began to roil the calm sea."
+        },
+        {
+            "word": "roister",
+            "translation": "떠들다, 떠들썩하게 놀다",
+            "sentence": "They roistered loudly at the party all night."
+        },
+        {
+            "word": "romp",
+            "translation": "신나게 놀다, 신나게 뛰다",
+            "sentence": "The children romped happily in the park."
+        },
+        {
+            "word": "rookie",
+            "translation": "신참, 신입생",
+            "sentence": "The rookie player made an impressive debut."
+        },
+        {
+            "word": "rotund",
+            "translation": "둥글고 뚱뚱한, 둥근",
+            "sentence": "The rotund man struggled to fit in the chair."
+        },
+        {
+            "word": "roturier",
+            "translation": "평민, 서민",
+            "sentence": "He was a roturier with no noble lineage."
+        },
+        {
+            "word": "rouse",
+            "translation": "깨우다, 자극하다",
+            "sentence": "The speech roused the crowd to action."
+        },
+        {
+            "word": "rout",
+            "translation": "패주, 패배",
+            "sentence": "The army suffered a crushing rout in battle."
+        },
+        {
+            "word": "ruminate",
+            "translation": "생각에 잠기다, 묵상하다",
+            "sentence": "She ruminated on the decision for days."
+        },
+        {
+            "word": "rudimentary",
+            "translation": "기본적인, 기초적인",
+            "sentence": "He only had a rudimentary knowledge of coding."
+        },
+        {
+            "word": "rue",
+            "translation": "후회, 애석해하다",
+            "sentence": "She would rue the day she ignored his advice."
+        },
+        {
+            "word": "ruffian",
+            "translation": "조무래기, 불량배",
+            "sentence": "A group of ruffians caused trouble in town."
+        },
+        {
+            "word": "ruffle",
+            "translation": "흔들다, 어지럽히다",
+            "sentence": "The wind ruffled the leaves on the trees."
+        },
+        {
+            "word": "ruin",
+            "translation": "파멸, 파괴",
+            "sentence": "The storm left the village in ruin."
+        },
+        {
+            "word": "ruminate",
+            "translation": "생각에 잠기다, 묵상하다",
+            "sentence": "He ruminated over his past mistakes."
+        },
+        {
+            "word": "ruminant",
+            "translation": "소, 되새김질하는 동물",
+            "sentence": "Cows are common ruminant animals."
+        },
+        {
+            "word": "rummage",
+            "translation": "뒤지다, 찾다",
+            "sentence": "She rummaged through the drawer for her keys."
+        },
+        {
+            "word": "rumple",
+            "translation": "주름지다, 구겨지다",
+            "sentence": "His shirt was rumpled after the long trip."
+        },
+        {
+            "word": "runnel",
+            "translation": "도랑, 작은 시내",
+            "sentence": "A runnel of water flowed down the hill."
+        },
+        {
+            "word": "rupture",
+            "translation": "파열, 파괴",
+            "sentence": "The pipe’s rupture caused a flood."
+        },
+        {
+            "word": "ruse",
+            "translation": "계략, 술책",
+            "sentence": "He used a clever ruse to escape detection."
+        },
+        {
+            "word": "rustic",
+            "translation": "시골의, 소박한",
+            "sentence": "The cabin had a rustic charm."
+        },
+        {
+            "word": "rusticate",
+            "translation": "시골로 가다, 시골생활을 하다",
+            "sentence": "They chose to rusticate for the summer."
+        },
+        {
+            "word": "ruthless",
+            "translation": "무자비한, 무정한",
+            "sentence": "The ruthless leader showed no mercy."
+        },
+        {
+            "word": "sabotage",
+            "translation": "사보타주, 파괴 행위",
+            "sentence": "The plan was ruined by deliberate sabotage."
+        },
+        {
+            "word": "sacrosanct",
+            "translation": "신성불가침의, 매우 존귀한",
+            "sentence": "The tradition was considered sacrosanct."
+        },
+        {
+            "word": "sadden",
+            "translation": "슬프게 하다, 우울하게 하다",
+            "sentence": "The news saddened everyone in the room."
+        },
+        {
+            "word": "saddle",
+            "translation": "안장, 짐을 지우다",
+            "sentence": "He saddled the horse for the ride."
+        },
+        {
+            "word": "saga",
+            "translation": "대하 소설, 대하 이야기",
+            "sentence": "The book tells the saga of a family across generations."
+        },
+        {
+            "word": "sage",
+            "translation": "현자, 현인",
+            "sentence": "The sage offered wise counsel to the king."
+        },
+        {
+            "word": "salient",
+            "translation": "두드러진, 중요한",
+            "sentence": "The salient points were highlighted in the report."
+        },
+        {
+            "word": "salivate",
+            "translation": "침을 흘리다, 침을 흘리게 하다",
+            "sentence": "The smell of food made him salivate."
+        },
+        {
+            "word": "salubrious",
+            "translation": "유익한, 건강에 좋은",
+            "sentence": "The salubrious climate improved her health."
+        },
+        {
+            "word": "salutary",
+            "translation": "유익한, 도움이 되는",
+            "sentence": "The experience had a salutary effect on him."
+        },
+        {
+            "word": "salvage",
+            "translation": "구조, 구조하다",
+            "sentence": "They managed to salvage some items from the wreck."
+        },
+        {
+            "word": "sanctimonious",
+            "translation": "겉으로만 경건한, 위선적인",
+            "sentence": "His sanctimonious tone annoyed everyone."
+        },
+        {
+            "word": "sanction",
+            "translation": "승인, 제재",
+            "sentence": "The committee gave its sanction to the proposal."
+        },
+        {
+            "word": "sanctuary",
+            "translation": "성소, 피난처",
+            "sentence": "The forest became a sanctuary for wildlife."
+        },
+        {
+            "word": "sanguine",
+            "translation": "낙관적인, 혈기왕성한",
+            "sentence": "She remained sanguine despite the setbacks."
+        },
+        {
+            "word": "sap",
+            "translation": "약화시키다, 갉아먹다",
+            "sentence": "The long hours began to sap his energy."
+        },
+        {
+            "word": "sarcasm",
+            "translation": "비꼬는 말, 풍자",
+            "sentence": "His sarcasm was lost on the serious crowd."
+        },
+        {
+            "word": "sarcastic",
+            "translation": "비꼬는, 풍자적인",
+            "sentence": "She made a sarcastic remark about his effort."
+        },
+        {
+            "word": "sartorial",
+            "translation": "의복의, 의복에 관한",
+            "sentence": "He was known for his sartorial elegance."
+        },
+        {
+            "word": "sashay",
+            "translation": "성대하게 걷다, 성대하게 입장하다",
+            "sentence": "She sashayed into the room with confidence."
+        },
+        {
+            "word": "sassy",
+            "translation": "건방진, 당돌한",
+            "sentence": "The sassy child talked back to her teacher."
+        },
+        {
+            "word": "satiate",
+            "translation": "만족시키다, 충분히 먹다",
+            "sentence": "The feast was enough to satiate everyone."
+        },
+        {
+            "word": "satin",
+            "translation": "새틴, 새틴의",
+            "sentence": "Her dress was made of smooth satin."
+        },
+        {
+            "word": "satire",
+            "translation": "비꼬는, 풍자",
+            "sentence": "The play was a biting satire of politics."
+        },
+        {
+            "word": "satirical",
+            "translation": "비꼬는, 풍자적인",
+            "sentence": "His satirical essay mocked societal norms."
+        },
+        {
+            "word": "satirize",
+            "translation": "비꼬다, 풍자하다",
+            "sentence": "The cartoon satirized the latest scandal."
+        },
+        {
+            "word": "saturnine",
+            "translation": "우울한, 침울한",
+            "sentence": "His saturnine mood cast a shadow over the group."
+        },
+        {
+            "word": "savant",
+            "translation": "학자, 박식가",
+            "sentence": "The young savant amazed everyone with his knowledge."
+        },
+        {
+            "word": "savor",
+            "translation": "맛, 향기",
+            "sentence": "She took a moment to savor the delicious meal."
+        },
+        {
+            "word": "scabbard",
+            "translation": "칼집, 칼집에 넣다",
+            "sentence": "He slid the sword back into its scabbard."
+        },
+        {
+            "word": "scad",
+            "translation": "많은, 다량",
+            "sentence": "There were scads of people at the event."
+        },
+        {
+            "word": "scaffold",
+            "translation": "비계, 발판",
+            "sentence": "The workers climbed the scaffold to paint."
+        },
+        {
+            "word": "scale",
+            "translation": "비례, 규모",
+            "sentence": "The project grew in scale over time."
+        },
+        {
+            "word": "scalp",
+            "translation": "머리 가죽, 가죽을 벗기다",
+            "sentence": "The barber carefully shaved his scalp."
+        },
+        {
+            "word": "scamp",
+            "translation": "건달, 악당",
+            "sentence": "The little scamp ran off with my hat."
+        },
+        {
+            "word": "scandalize",
+            "translation": "망신을 주다, 분노하게 하다",
+            "sentence": "Her bold actions scandalized the community."
+        },
+        {
+            "word": "scant",
+            "translation": "부족한, 미미한",
+            "sentence": "He paid scant attention to the instructions."
+        },
+        {
+            "word": "scanty",
+            "translation": "부족한, 미미한",
+            "sentence": "The scanty evidence failed to convince the jury."
+        },
+        {
+            "word": "scapegrace",
+            "translation": "망나니, 건달",
+            "sentence": "The scapegrace caused trouble wherever he went."
+        },
+        {
+            "word": "scar",
+            "translation": "흉터, 상처",
+            "sentence": "The accident left a scar on her arm."
+        },
+        {
+            "word": "scathing",
+            "translation": "매우 날카로운, 매우 비판적인",
+            "sentence": "She delivered a scathing critique of the plan."
+        },
+        {
+            "word": "scatterbrain",
+            "translation": "산만함, 산만한 사람",
+            "sentence": "He’s such a scatterbrain that he forgot his lines."
+        },
+        {
+            "word": "scenario",
+            "translation": "시나리오, 상황",
+            "sentence": "The worst-case scenario kept her awake."
+        },
+        {
+            "word": "schism",
+            "translation": "분열, 분리",
+            "sentence": "A schism divided the group into two factions."
+        },
+        {
+            "word": "scintilla",
+            "translation": "조금, 미량",
+            "sentence": "There wasn’t a scintilla of truth in his story."
+        },
+        {
+            "word": "scintillate",
+            "translation": "반짝이다, 빛을 내다",
+            "sentence": "The stars seemed to scintillate in the night sky."
+        },
+        {
+            "word": "scion",
+            "translation": "후계자, 자손",
+            "sentence": "He was the scion of a wealthy family."
+        },
+        {
+            "word": "scoff",
+            "translation": "비웃다, 조롱하다",
+            "sentence": "They scoffed at his ambitious plans."
+        },
+        {
+            "word": "scorn",
+            "translation": "경멸, 조소",
+            "sentence": "She treated his suggestion with scorn."
+        },
+        {
+            "word": "scotch",
+            "translation": "막다, 가로막다",
+            "sentence": "They managed to scotch the rumors quickly."
+        },
+        {
+            "word": "scoundrel",
+            "translation": "악당, 나쁜놈",
+            "sentence": "The scoundrel tricked them out of their money."
+        },
+        {
+            "word": "scramble",
+            "translation": "재빠르게 움직이다, 혼란스럽게 하다",
+            "sentence": "They scrambled to finish the work on time."
+        },
+        {
+            "word": "scrap",
+            "translation": "폐기, 폐기하다",
+            "sentence": "They decided to scrap the outdated plan."
+        },
+        {
+            "word": "scratch",
+            "translation": "긁다, 긁힌 자국",
+            "sentence": "The cat left a scratch on the furniture."
+        },
+        {
+            "word": "scrawl",
+            "translation": "낙서, 낙서하다",
+            "sentence": "He scrawled a quick note on the paper."
+        },
+        {
+            "word": "screed",
+            "translation": "긴 글, 긴 글쓰기",
+            "sentence": "She wrote a screed complaining about the service."
+        },
+        {
+            "word": "scribe",
+            "translation": "필사자, 기록자",
+            "sentence": "The scribe carefully copied the ancient text."
+        },
+        {
+            "word": "script",
+            "translation": "스크립트, 대본",
+            "sentence": "The actors rehearsed their lines from the script."
+        },
+        {
+            "word": "scripture",
+            "translation": "성경, 경전",
+            "sentence": "He quoted a passage from scripture."
+        },
+        {
+            "word": "scrounge",
+            "translation": "구걸하다, 얻어오다",
+            "sentence": "He scrounged some food from the leftovers."
+        },
+        {
+            "word": "scrub",
+            "translation": "문지르다, 씻다",
+            "sentence": "She scrubbed the floor until it shone."
+        },
+        {
+            "word": "scrupulous",
+            "translation": "꼼꼼한, 세심한",
+            "sentence": "He was scrupulous in checking every detail."
+        },
+        {
+            "word": "scrutinize",
+            "translation": "심사숙고하다, 세밀히 검토하다",
+            "sentence": "She scrutinized the contract before signing."
+        },
+        {
+            "word": "scuffle",
+            "translation": "싸움, 소동",
+            "sentence": "A scuffle broke out between the two groups."
+        },
+        {
+            "word": "scurrilous",
+            "translation": "상스러운, 천한",
+            "sentence": "The article was full of scurrilous accusations."
+        },
+        {
+            "word": "scurry",
+            "translation": "서둘러 움직이다, 급히 움직이다",
+            "sentence": "The mice scurried across the floor."
+        },
+        {
+            "word": "scuttle",
+            "translation": "급히 움직이다, 도망가다",
+            "sentence": "He scuttled away when he heard footsteps."
+        },
+        {
+            "word": "sear",
+            "translation": "시들다, 타다",
+            "sentence": "The heat began to sear the grass."
+        },
+        {
+            "word": "seasoned",
+            "translation": "경험이 많은, 숙련된",
+            "sentence": "The seasoned traveler knew how to adapt."
+        },
+        {
+            "word": "secede",
+            "translation": "분열하다, 분리하다",
+            "sentence": "The region voted to secede from the country."
+        },
+        {
+            "word": "secluded",
+            "translation": "은둔한, 고립된",
+            "sentence": "They lived in a secluded cabin in the woods."
+        },
+        {
+            "word": "seclusion",
+            "translation": "은둔, 고립",
+            "sentence": "She sought seclusion to focus on her work."
+        },
+        {
+            "word": "secrete",
+            "translation": "분비하다, 비밀로 하다",
+            "sentence": "The glands secrete hormones into the bloodstream."
+        },
+        {
+            "word": "sectarian",
+            "translation": "파벌의, 당파의",
+            "sentence": "The conflict was fueled by sectarian differences."
+        },
+        {
+            "word": "secular",
+            "translation": "세속의, 세속적인",
+            "sentence": "The school adopted a secular curriculum."
+        },
+        {
+            "word": "sedate",
+            "translation": "침착한, 차분한",
+            "sentence": "She remained sedate despite the chaos around her."
+        },
+        {
+            "word": "sedation",
+            "translation": "진정, 진정제",
+            "sentence": "The patient was given sedation before the procedure."
+        },
+        {
+            "word": "sedentary",
+            "translation": "앉아 있는, 정착한",
+            "sentence": "His sedentary lifestyle led to health issues."
+        },
+        {
+            "word": "sedition",
+            "translation": "선동, 내란",
+            "sentence": "The leader was accused of inciting sedition."
+        },
+        {
+            "word": "seductive",
+            "translation": "매혹적인, 유혹적인",
+            "sentence": "Her seductive smile captivated everyone in the room."
+        },
+        {
+            "word": "sedulous",
+            "translation": "근면한, 부지런한",
+            "sentence": "He was sedulous in completing every task on time."
+        },
+        {
+            "word": "seed",
+            "translation": "씨, 씨앗",
+            "sentence": "She planted a seed in the garden last spring."
+        },
+        {
+            "word": "seedling",
+            "translation": "묘목, 어린 식물",
+            "sentence": "The seedlings were carefully nurtured in the greenhouse."
+        },
+        {
+            "word": "seedy",
+            "translation": "초라한, 볼품없는",
+            "sentence": "The seedy motel was the only option in town."
+        },
+        {
+            "word": "seemly",
+            "translation": "적절한, 적합한",
+            "sentence": "His behavior at the event was perfectly seemly."
+        },
+        {
+            "word": "seethe",
+            "translation": "끓다, 소용돌이치다",
+            "sentence": "She was seething with anger after the argument."
+        },
+        {
+            "word": "segment",
+            "translation": "부분, 분절",
+            "sentence": "The show was divided into several short segments."
+        },
+        {
+            "word": "segregate",
+            "translation": "분리시키다, 격리시키다",
+            "sentence": "They decided to segregate the waste for recycling."
+        },
+        {
+            "word": "seine",
+            "translation": "대망, 대망을 던지다",
+            "sentence": "The fishermen cast a seine into the river."
+        },
+        {
+            "word": "seismic",
+            "translation": "지진의, 지진의 영향",
+            "sentence": "The seismic activity caused widespread concern."
+        },
+        {
+            "word": "seize",
+            "translation": "붙잡다, 잡다",
+            "sentence": "He seized the opportunity to prove himself."
+        },
+        {
+            "word": "seizure",
+            "translation": "붙잡기, 발작",
+            "sentence": "The sudden seizure left him unconscious."
+        },
+        {
+            "word": "seldom",
+            "translation": "드물게, 거의",
+            "sentence": "She seldom visits the city anymore."
+        },
+        {
+            "word": "select",
+            "translation": "선택하다, 선택의",
+            "sentence": "They select only the finest ingredients for the dish."
+        },
+        {
+            "word": "selective",
+            "translation": "선택적인, 선택을 요하는",
+            "sentence": "He was selective about who he shared his secrets with."
+        },
+        {
+            "word": "self-abnegation",
+            "translation": "자기 희생, 자기 부인",
+            "sentence": "Her self-abnegation inspired others to give more."
+        },
+        {
+            "word": "self-aggrandizement",
+            "translation": "자기 과대, 자기 과대화",
+            "sentence": "His speech was full of self-aggrandizement."
+        },
+        {
+            "word": "self-assertive",
+            "translation": "자기 주장적인, 자기 주장하는",
+            "sentence": "She became more self-assertive after the training."
+        },
+        {
+            "word": "self-assured",
+            "translation": "자신감 있는, 자신감 있는 태도",
+            "sentence": "He walked into the room with a self-assured stride."
+        },
+        {
+            "word": "self-conscious",
+            "translation": "자기 인식의, 자의식적인",
+            "sentence": "She felt self-conscious in her new dress."
+        },
+        {
+            "word": "self-consistent",
+            "translation": "자기 일관성의, 자기 일관성 있는",
+            "sentence": "His arguments were logical and self-consistent."
+        },
+        {
+            "word": "self-deprecating",
+            "translation": "자기 비하하는, 자기 비하하는 태도",
+            "sentence": "His self-deprecating humor made him likable."
+        },
+        {
+            "word": "self-destruct",
+            "translation": "자기 파괴, 자기 파괴하다",
+            "sentence": "The device was designed to self-destruct after use."
+        },
+        {
+            "word": "self-discipline",
+            "translation": "자기 수양, 자기 규율",
+            "sentence": "Self-discipline helped her achieve her goals."
+        },
+        {
+            "word": "self-doubt",
+            "translation": "자기 의심, 자기 의심하다",
+            "sentence": "He struggled with self-doubt before the exam."
+        },
+        {
+            "word": "self-effacing",
+            "translation": "겸손한, 자기 비하하는",
+            "sentence": "Her self-effacing manner won her many friends."
+        },
+        {
+            "word": "self-esteem",
+            "translation": "자아 존중, 자아 존중감",
+            "sentence": "The workshop boosted her self-esteem."
+        },
+        {
+            "word": "self-evident",
+            "translation": "자기 증명, 자기 증명하는",
+            "sentence": "The truth of his statement was self-evident."
+        },
+        {
+            "word": "self-explanatory",
+            "translation": "자기 설명, 자기 설명하는",
+            "sentence": "The instructions were clear and self-explanatory."
+        },
+        {
+            "word": "self-flagellation",
+            "translation": "자기 채찍, 자기 채찍질하다",
+            "sentence": "His self-flagellation over the mistake was unnecessary."
+        },
+        {
+            "word": "self-indulgent",
+            "translation": "자기 방종, 자기 방종하다",
+            "sentence": "The dessert was a self-indulgent treat after a long day."
+        },
+        {
+            "word": "self-interest",
+            "translation": "자기 이익, 자기 이익을 추구하다",
+            "sentence": "His decision was driven by self-interest."
+        },
+        {
+            "word": "selfish",
+            "translation": "이기적인, 자기 중심적인",
+            "sentence": "His selfish behavior upset his teammates."
+        },
+        {
+            "word": "self-justification",
+            "translation": "자기 정당화, 자기 정당화하다",
+            "sentence": "She resorted to self-justification to explain her actions."
+        },
+        {
+            "word": "self-loathing",
+            "translation": "자기 혐오, 자기 혐오하다",
+            "sentence": "He was consumed by self-loathing after the failure."
+        },
+        {
+            "word": "self-made",
+            "translation": "자기 노력, 자기 노력으로 만든",
+            "sentence": "She’s a self-made millionaire who started from nothing."
+        },
+        {
+            "word": "self-possessed",
+            "translation": "자기 통제, 자기 통제하는",
+            "sentence": "He remained self-possessed even under pressure."
+        },
+        {
+            "word": "self-preservation",
+            "translation": "자기 보존, 자기 보존하다",
+            "sentence": "Her instinct for self-preservation kicked in."
+        },
+        {
+            "word": "self-righteous",
+            "translation": "자기 의식, 자기 의식하는",
+            "sentence": "His self-righteous attitude annoyed everyone."
+        },
+        {
+            "word": "self-sacrifice",
+            "translation": "자기 희생, 자기 희생하다",
+            "sentence": "Her self-sacrifice saved the team from disaster."
+        },
+        {
+            "word": "self-satisfied",
+            "translation": "자기 만족, 자기 만족하는",
+            "sentence": "He looked self-satisfied after winning the award."
+        },
+        {
+            "word": "self-serving",
+            "translation": "자기 이익, 자기 이익을 추구하는",
+            "sentence": "His self-serving motives were obvious to all."
+        },
+        {
+            "word": "self-sufficient",
+            "translation": "자기 충족, 자기 충족하다",
+            "sentence": "The village became self-sufficient in food production."
+        },
+        {
+            "word": "self-sustained",
+            "translation": "자기 지속, 자기 지속하다",
+            "sentence": "The project was designed to be self-sustained."
+        },
+        {
+            "word": "self-taught",
+            "translation": "자기 학습, 자기 학습하다",
+            "sentence": "He’s a self-taught musician with incredible talent."
+        },
+        {
+            "word": "self-willed",
+            "translation": "자기 의지, 자기 의지하는",
+            "sentence": "Her self-willed nature made her hard to manage."
+        },
+        {
+            "word": "selfishness",
+            "translation": "이기주의, 자기 중심주의",
+            "sentence": "His selfishness drove his friends away."
+        },
+        {
+            "word": "semblance",
+            "translation": "외형, 외관",
+            "sentence": "The room retained a semblance of order."
+        },
+        {
+            "word": "seminal",
+            "translation": "씨앗의, 원초적인",
+            "sentence": "His seminal work influenced generations of scholars."
+        },
+        {
+            "word": "seminary",
+            "translation": "신학원, 신학교",
+            "sentence": "He studied theology at a renowned seminary."
+        },
+        {
+            "word": "sempervirent",
+            "translation": "항상 푸른, 항상 녹색",
+            "sentence": "The sempervirent trees brightened the winter landscape."
+        },
+        {
+            "word": "senescence",
+            "translation": "노년, 노화",
+            "sentence": "The study focused on the effects of senescence."
+        },
+        {
+            "word": "seneschal",
+            "translation": "관리자, 집사",
+            "sentence": "The seneschal oversaw the castle’s daily affairs."
+        },
+        {
+            "word": "sensation",
+            "translation": "감각, 감각의",
+            "sentence": "The cold water caused a sharp sensation on her skin."
+        },
+        {
+            "word": "sensational",
+            "translation": "감각적인, 자극적인",
+            "sentence": "The news story was sensational and widely shared."
+        },
+        {
+            "word": "sensationalize",
+            "translation": "과장하다, 자극적으로 만들다",
+            "sentence": "The media tends to sensationalize minor events."
+        },
+        {
+            "word": "senseless",
+            "translation": "무감각한, 무의미한",
+            "sentence": "The senseless violence left the community in shock."
+        },
+        {
+            "word": "sensibility",
+            "translation": "감각, 감수성",
+            "sentence": "Her sensibility to art was evident in her work."
+        },
+        {
+            "word": "sensitive",
+            "translation": "민감한, 감수성이 있는",
+            "sentence": "He was sensitive to the slightest change in tone."
+        },
+        {
+            "word": "sensitization",
+            "translation": "감수성, 민감성",
+            "sentence": "Sensitization to allergens can cause severe reactions."
+        },
+        {
+            "word": "sensitize",
+            "translation": "감수성을 갖다, 민감하게 만들다",
+            "sentence": "The campaign aimed to sensitize people to the issue."
+        },
+        {
+            "word": "sensual",
+            "translation": "감각적인, 육체적인",
+            "sentence": "The painting captured the sensual beauty of the scene."
+        },
+        {
+            "word": "sensuous",
+            "translation": "감각을 만족시키는, 감각적인",
+            "sentence": "The sensuous aroma of the flowers filled the air."
+        },
+        {
+            "word": "sententious",
+            "translation": "격언적인, 도덕적인",
+            "sentence": "His sententious remarks irritated his listeners."
+        },
+        {
+            "word": "sentient",
+            "translation": "감각이 있는, 의식이 있는",
+            "sentence": "The sentient beings in the story had complex emotions."
+        },
+        {
+            "word": "sentinel",
+            "translation": "감시인, 파수꾼",
+            "sentence": "The sentinel stood guard at the gate all night."
+        },
+        {
+            "word": "sepulchral",
+            "translation": "무덤의, 음산한",
+            "sentence": "His voice had a sepulchral tone that chilled her."
+        },
+        {
+            "word": "sequacious",
+            "translation": "모방하는, 추종하는",
+            "sentence": "The sequacious crowd followed the leader blindly."
+        },
+        {
+            "word": "sequester",
+            "translation": "격리하다, 은거하다",
+            "sentence": "They sequestered themselves in a remote cabin."
+        },
+        {
+            "word": "serendipity",
+            "translation": "우연한 발견, 행운",
+            "sentence": "Finding the book was pure serendipity."
+        },
+        {
+            "word": "serene",
+            "translation": "평온한, 고요한",
+            "sentence": "The lake was serene under the morning sun."
+        },
+        {
+            "word": "serendipitous",
+            "translation": "우연한 발견의, 행운의",
+            "sentence": "Their meeting was a serendipitous event."
+        },
+        {
+            "word": "serpentine",
+            "translation": "뱀 같은, 구불구불한",
+            "sentence": "The serpentine road wound through the mountains."
+        },
+        {
+            "word": "servile",
+            "translation": "예속적인, 비굴한",
+            "sentence": "His servile attitude annoyed his independent peers."
+        },
+        {
+            "word": "servitude",
+            "translation": "예속, 노예 상태",
+            "sentence": "They lived in servitude under harsh rulers."
+        },
+        {
+            "word": "sever",
+            "translation": "끊다, 분리하다",
+            "sentence": "She decided to sever all ties with her past."
+        },
+        {
+            "word": "severity",
+            "translation": "엄격함, 가혹함",
+            "sentence": "The severity of the storm surprised everyone."
+        },
+        {
+            "word": "sewage",
+            "translation": "하수, 오수",
+            "sentence": "The sewage system needed urgent repairs."
+        },
+        {
+            "word": "shackle",
+            "translation": "족쇄, 속박",
+            "sentence": "The prisoner’s hands were bound by shackles."
+        },
+        {
+            "word": "sham",
+            "translation": "가짜, 위조",
+            "sentence": "The product turned out to be a sham."
+        },
+        {
+            "word": "shamble",
+            "translation": "비틀거리며 걷다, 어정거리다",
+            "sentence": "He shambled into the room after a long night."
+        },
+        {
+            "word": "shambles",
+            "translation": "난장판, 엉망진창",
+            "sentence": "The house was left in shambles after the party."
+        },
+        {
+            "word": "shamefaced",
+            "translation": "수줍어하는, 부끄러운",
+            "sentence": "He gave a shamefaced apology for his mistake."
+        },
+        {
+            "word": "shameless",
+            "translation": "뻔뻔스러운, 부끄러움을 모르는",
+            "sentence": "His shameless behavior shocked the guests."
+        },
+        {
+            "word": "shard",
+            "translation": "조각, 파편",
+            "sentence": "A shard of glass lay on the floor."
+        },
+        {
+            "word": "shatter",
+            "translation": "산산조각 나다, 무너뜨리다",
+            "sentence": "The explosion shattered the windows."
+        },
+        {
+            "word": "sheaf",
+            "translation": "다발, 묶음",
+            "sentence": "He carried a sheaf of papers under his arm."
+        },
+        {
+            "word": "shear",
+            "translation": "깎다, 자르다",
+            "sentence": "They shear the sheep every spring."
+        },
+        {
+            "word": "sheath",
+            "translation": "칼집, 외피",
+            "sentence": "He slid the knife back into its sheath."
+        },
+        {
+            "word": "shed",
+            "translation": "떨어뜨리다, 흘리다",
+            "sentence": "The tree shed its leaves in autumn."
+        },
+        {
+            "word": "sheen",
+            "translation": "윤기, 광택",
+            "sentence": "The polished wood had a beautiful sheen."
+        },
+        {
+            "word": "shibboleth",
+            "translation": "구별의 기준, 구별의 표시",
+            "sentence": "The phrase became a shibboleth for their group."
+        },
+        {
+            "word": "shiftless",
+            "translation": "게으른, 무능한",
+            "sentence": "His shiftless attitude cost him the job."
+        },
+        {
+            "word": "shimmer",
+            "translation": "반짝이다, 빛남",
+            "sentence": "The water shimmered under the moonlight."
+        },
+        {
+            "word": "shirk",
+            "translation": "회피하다, 게으름 피우다",
+            "sentence": "He always tried to shirk his responsibilities."
+        },
+        {
+            "word": "shoddy",
+            "translation": "조잡한, 저질의",
+            "sentence": "The shoddy workmanship was evident in the cracks."
+        },
+        {
+            "word": "shortfall",
+            "translation": "부족분, 결핍",
+            "sentence": "The budget shortfall delayed the project."
+        },
+        {
+            "word": "shred",
+            "translation": "조각, 조각조각 찢다",
+            "sentence": "She tore the letter into shreds."
+        },
+        {
+            "word": "shrewd",
+            "translation": "영리한, 날카로운",
+            "sentence": "Her shrewd decision saved the company money."
+        },
+        {
+            "word": "shriek",
+            "translation": "비명, 비명을 지르다",
+            "sentence": "She let out a shriek when she saw the spider."
+        },
+        {
+            "word": "shrill",
+            "translation": "날카로운, 높은 소리의",
+            "sentence": "Her shrill voice echoed through the hall."
+        },
+        {
+            "word": "shudder",
+            "translation": "떨다, 몸서리치다",
+            "sentence": "He shuddered at the thought of the cold."
+        },
+        {
+            "word": "shuffle",
+            "translation": "뒤섞다, 이리저리 움직이다",
+            "sentence": "She shuffled the cards before dealing."
+        },
+        {
+            "word": "shun",
+            "translation": "피하다, 멀리하다",
+            "sentence": "He chose to shun the spotlight after fame."
+        },
+        {
+            "word": "shunt",
+            "translation": "옮기다, 전환하다",
+            "sentence": "The train was shunted to a different track."
+        },
+        {
+            "word": "shuttle",
+            "translation": "왕복, 왕복 운행",
+            "sentence": "The shuttle runs between the airport and the city."
+        },
+        {
+            "word": "shyster",
+            "translation": "사기꾼, 사기 변호사",
+            "sentence": "The shyster tricked them into signing the deal."
+        },
+        {
+            "word": "sibilant",
+            "translation": "쉬쉬거리는 소리의, 치찰음의",
+            "sentence": "Her sibilant whisper was barely audible."
+        },
+        {
+            "word": "sibling",
+            "translation": "형제, 자매",
+            "sentence": "She has three siblings living nearby."
+        },
+        {
+            "word": "sickly",
+            "translation": "병약한, 병든",
+            "sentence": "The sickly child stayed indoors most days."
+        },
+        {
+            "word": "sidereal",
+            "translation": "별의, 별과 관련된",
+            "sentence": "The sidereal clock tracked the stars’ movements."
+        },
+        {
+            "word": "siege",
+            "translation": "공성전, 포위",
+            "sentence": "The castle withstood a long siege."
+        },
+        {
+            "word": "sift",
+            "translation": "걸러내다, 가려내다",
+            "sentence": "She sifted through the papers to find the letter."
+        },
+        {
+            "word": "sigil",
+            "translation": "문장, 인장",
+            "sentence": "The sigil on the ring marked his family lineage."
+        },
+        {
+            "word": "signatory",
+            "translation": "서명자, 조인자",
+            "sentence": "All signatories agreed to the treaty terms."
+        },
+        {
+            "word": "significant",
+            "translation": "중요한, 의미 있는",
+            "sentence": "The discovery was a significant breakthrough."
+        },
+        {
+            "word": "signify",
+            "translation": "의미하다, 나타내다",
+            "sentence": "The gesture was meant to signify peace."
+        },
+        {
+            "word": "simile",
+            "translation": "직유, 직유법",
+            "sentence": "Her smile was like sunshine, a perfect simile."
+        },
+        {
+            "word": "simper",
+            "translation": "빙긋 웃다, 우쭐해하다",
+            "sentence": "She simpered at the compliment."
+        },
+        {
+            "word": "simplistic",
+            "translation": "단순화된, 지나치게 단순한",
+            "sentence": "His simplistic explanation missed key details."
+        },
+        {
+            "word": "simulate",
+            "translation": "모의하다, 가장하다",
+            "sentence": "The game simulates real-life challenges."
+        },
+        {
+            "word": "simultaneous",
+            "translation": "동시의, 동시에 일어난",
+            "sentence": "The two events happened simultaneous to each other."
+        },
+        {
+            "word": "sincere",
+            "translation": "성실한, 진실한",
+            "sentence": "Her sincere apology touched his heart."
+        },
+        {
+            "word": "sinecure",
+            "translation": "편한 직책, 무임금 직위",
+            "sentence": "The job was a sinecure with little real work."
+        },
+        {
+            "word": "sinew",
+            "translation": "힘줄, 근력",
+            "sentence": "The sinew of the animal was tough and strong."
+        },
+        {
+            "word": "singe",
+            "translation": "그을리다, 약간 태우다",
+            "sentence": "The flame singed the edges of the paper."
+        },
+        {
+            "word": "singleton",
+            "translation": "유일한 것, 독신자",
+            "sentence": "He was the singleton in a family of twins."
+        },
+        {
+            "word": "sinuous",
+            "translation": "구불구불한, 유연한",
+            "sentence": "The sinuous river carved a path through the valley."
+        },
+        {
+            "word": "sip",
+            "translation": "한 모금씩 마시다, 한 모금",
+            "sentence": "She took a sip of the hot tea."
+        },
+        {
+            "word": "sire",
+            "translation": "아버지, 조상",
+            "sentence": "The stallion was the sire of many champions."
+        },
+        {
+            "word": "siren",
+            "translation": "사이렌, 매혹적인 목소리",
+            "sentence": "The siren’s song lured sailors to their doom."
+        },
+        {
+            "word": "sisterhood",
+            "translation": "자매애, 자매 관계",
+            "sentence": "The group fostered a strong sense of sisterhood."
+        },
+        {
+            "word": "sisterly",
+            "translation": "자매 같은, 자매의",
+            "sentence": "She offered sisterly advice to her friend."
+        },
+        {
+            "word": "situate",
+            "translation": "위치시키다, 배치하다",
+            "sentence": "They chose to situate the house near the lake."
+        },
+        {
+            "word": "skeletal",
+            "translation": "뼈대만 남은, 뼈대 같은",
+            "sentence": "The skeletal remains were carefully examined."
+        },
+        {
+            "word": "sketchy",
+            "translation": "대략적인, 불완전한",
+            "sentence": "His sketchy plan lacked important details."
+        },
+        {
+            "word": "skew",
+            "translation": "비틀다, 왜곡하다",
+            "sentence": "The data was skewed by an outlier."
+        },
+        {
+            "word": "skewer",
+            "translation": "꼬챙이에 꿇다, 꼬챙이",
+            "sentence": "She skewered the meat for the barbecue."
+        },
+        {
+            "word": "skiff",
+            "translation": "작은 배, 작은 보트",
+            "sentence": "He rowed the skiff across the calm water."
+        },
+        {
+            "word": "skimp",
+            "translation": "아끼다, 절약하다",
+            "sentence": "They skimped on materials to cut costs."
+        },
+        {
+            "word": "skinflint",
+            "translation": "구두쇠, 인색한 사람",
+            "sentence": "The skinflint refused to tip the waiter."
+        },
+        {
+            "word": "skirmish",
+            "translation": "소규모 전투, 가벼운 논쟁",
+            "sentence": "A skirmish broke out between the two teams."
+        },
+        {
+            "word": "skirt",
+            "translation": "치마, 둘러싸다",
+            "sentence": "The path skirts the edge of the forest."
+        },
+        {
+            "word": "skit",
+            "translation": "짧은 희극, 짧은 연극",
+            "sentence": "The students performed a funny skit at the event."
+        },
+        {
+            "word": "skittish",
+            "translation": "성마른, 까다로운",
+            "sentence": "The skittish horse bolted at the loud noise."
+        },
+        {
+            "word": "skulk",
+            "translation": "숨다, 슬그머니 다니다",
+            "sentence": "He skulked in the shadows to avoid being seen."
+        },
+        {
+            "word": "slack",
+            "translation": "게으른, 느슨한",
+            "sentence": "The rope went slack after the weight was lifted."
+        },
+        {
+            "word": "slacken",
+            "translation": "느슨해지다, 느슨하게 하다",
+            "sentence": "The wind began to slacken as the storm passed."
+        },
+        {
+            "word": "slag",
+            "translation": "슬래그, 찌꺼기",
+            "sentence": "The slag was removed from the molten metal."
+        },
+        {
+            "word": "slake",
+            "translation": "해갈하다, 풀다",
+            "sentence": "A cold drink slaked her thirst after the hike."
+        },
+        {
+            "word": "slander",
+            "translation": "중상, 중상하다",
+            "sentence": "He sued her for slander after the false accusations."
+        },
+        {
+            "word": "slapdash",
+            "translation": "대충하는, 서둘러 하는",
+            "sentence": "The slapdash repairs didn’t hold up long."
+        },
+        {
+            "word": "slash",
+            "translation": "베다, 가로지르다",
+            "sentence": "He slashed through the vines with a machete."
+        },
+        {
+            "word": "slaughter",
+            "translation": "학살, 도살",
+            "sentence": "The battle ended in the slaughter of many soldiers."
+        },
+        {
+            "word": "slavish",
+            "translation": "노예적인, 비굴한",
+            "sentence": "His slavish devotion to the rules annoyed her."
+        },
+        {
+            "word": "sleazy",
+            "translation": "불결한, 저질의",
+            "sentence": "The sleazy salesman tried to scam them."
+        },
+        {
+            "word": "sledgehammer",
+            "translation": "큰 망치, 무거운 망치",
+            "sentence": "He used a sledgehammer to break the concrete."
+        },
+        {
+            "word": "sleek",
+            "translation": "부드러운, 매끄러운",
+            "sentence": "The sleek car sped down the highway."
+        },
+        {
+            "word": "sleight",
+            "translation": "재주, 요령",
+            "sentence": "The magician’s sleight of hand amazed the crowd."
+        },
+        {
+            "word": "slender",
+            "translation": "가느다란, 날씬한",
+            "sentence": "She had a slender figure that turned heads."
+        },
+        {
+            "word": "sleuth",
+            "translation": "탐정, 추적자",
+            "sentence": "The sleuth uncovered the hidden truth."
+        },
+        {
+            "word": "slick",
+            "translation": "매끄러운, 교활한",
+            "sentence": "The slick salesman convinced her to buy."
+        },
+        {
+            "word": "slight",
+            "translation": "가벼운, 사소한",
+            "sentence": "There was a slight delay in the schedule."
+        },
+        {
+            "word": "slipshod",
+            "translation": "대충하는, 부주의한",
+            "sentence": "His slipshod work led to many errors."
+        },
+        {
+            "word": "slither",
+            "translation": "미끄러지다, 미끄러지듯 움직이다",
+            "sentence": "The snake slithered across the path."
+        },
+        {
+            "word": "sliver",
+            "translation": "조각, 얇은 조각",
+            "sentence": "She cut a sliver of cheese from the block."
+        },
+        {
+            "word": "slobber",
+            "translation": "침을 흘리다, 침을 흘리게 하다",
+            "sentence": "The dog slobbered all over the couch."
+        },
+        {
+            "word": "slogan",
+            "translation": "구호, 표어",
+            "sentence": "The campaign’s slogan was catchy and memorable."
+        },
+        {
+            "word": "sloth",
+            "translation": "게으름, 나무 늘보",
+            "sentence": "His sloth kept him from finishing the task."
+        },
+        {
+            "word": "slovenly",
+            "translation": "불결한, 단정하지 않은",
+            "sentence": "His slovenly appearance surprised his guests."
+        },
+        {
+            "word": "slow-witted",
+            "translation": "둔한, 느리게 생각하는",
+            "sentence": "The slow-witted man struggled with the puzzle."
+        },
+        {
+            "word": "sluggard",
+            "translation": "게으른 사람, 게으름뱅이",
+            "sentence": "The sluggard slept through the morning."
+        },
+        {
+            "word": "sluggish",
+            "translation": "느린, 활발하지 않은",
+            "sentence": "The sluggish economy worried investors."
+        },
+        {
+            "word": "slumber",
+            "translation": "잠, 잠자다",
+            "sentence": "She fell into a deep slumber after the long day."
+        },
+        {
+            "word": "slur",
+            "translation": "중상, 비난",
+            "sentence": "His slur against her character angered the group."
+        },
+        {
+            "word": "slurp",
+            "translation": "후루룩 마시다, 후루룩 소리",
+            "sentence": "He slurped his soup noisily at the table."
+        },
+        {
+            "word": "smarmy",
+            "translation": "아첨하는, 비굴한",
+            "sentence": "His smarmy compliments felt insincere."
+        },
+        {
+            "word": "smattering",
+            "translation": "약간의 지식, 약간의 이해",
+            "sentence": "She had only a smattering of French."
+        },
+        {
+            "word": "smear",
+            "translation": "바르다, 칠하다",
+            "sentence": "He smeared paint across the canvas."
+        },
+        {
+            "word": "smelt",
+            "translation": "제련하다, 제련",
+            "sentence": "They smelted the ore to extract the metal."
+        },
+        {
+            "word": "smirk",
+            "translation": "씨익 웃다, 우쭐해하다",
+            "sentence": "He smirked when he heard the good news."
+        },
+        {
+            "word": "smite",
+            "translation": "치다, 때리다",
+            "sentence": "The hero vowed to smite the evil dragon."
+        },
+        {
+            "word": "smithereens",
+            "translation": "조각, 산산조각",
+            "sentence": "The vase fell and broke into smithereens."
+        },
+        {
+            "word": "smolder",
+            "translation": "그을리다, 침울하게 태우다",
+            "sentence": "The fire continued to smolder in the ashes."
+        },
+        {
+            "word": "smug",
+            "translation": "우쭐해하는, 우쭐해하는 태도",
+            "sentence": "She gave a smug smile after winning."
+        },
+        {
+            "word": "snare",
+            "translation": "덫, 낚아채다",
+            "sentence": "The hunter set a snare to catch the rabbit."
+        },
+        {
+            "word": "snarl",
+            "translation": "으르렁거리다, 으르렁거림",
+            "sentence": "The dog began to snarl at the stranger."
+        },
+        {
+            "word": "sneer",
+            "translation": "비웃다, 비웃음",
+            "sentence": "He sneered at her clumsy attempt to fix it."
+        },
+        {
+            "word": "sneeze",
+            "translation": "재채기, 재채기하다",
+            "sentence": "She couldn’t stop sneezing after the dust settled."
+        },
+        {
+            "word": "snicker",
+            "translation": "낄낄거리다, 낄낄거림",
+            "sentence": "The kids snickered at the teacher’s mistake."
+        },
+        {
+            "word": "snide",
+            "translation": "빈정거리는, 비꼬는",
+            "sentence": "His snide remark hurt her feelings."
+        },
+        {
+            "word": "snigger",
+            "translation": "낄낄거리다, 낄낄거림",
+            "sentence": "They sniggered behind his back as he left."
+        },
+        {
+            "word": "snip",
+            "translation": "짧게 자르다",
+            "sentence": "She snipped a loose thread from her shirt."
+        },
+        {
+            "word": "snippet",
+            "translation": "짧은 글, 짧은 글의 일부",
+            "sentence": "He read a snippet of the article aloud."
+        },
+        {
+            "word": "snob",
+            "translation": "위선자, 위선적인 사람",
+            "sentence": "She acted like a snob, looking down on everyone."
+        },
+        {
+            "word": "snobbish",
+            "translation": "위선적인, 위선적인 태도",
+            "sentence": "His snobbish attitude alienated his friends."
+        },
+        {
+            "word": "snore",
+            "translation": "코를 골다",
+            "sentence": "He snored loudly all through the night."
+        },
+        {
+            "word": "snort",
+            "translation": "코로 숨을 내쉬다, 코로 내쉬는 소리",
+            "sentence": "She snorted with laughter at the joke."
+        },
+        {
+            "word": "snout",
+            "translation": "코, 코 모양의 물건",
+            "sentence": "The pig pushed its snout into the mud."
+        },
+        {
+            "word": "snowdrift",
+            "translation": "눈더미, 눈더미가 쌓이다",
+            "sentence": "The snowdrift blocked the road overnight."
+        },
+        {
+            "word": "snub",
+            "translation": "무시하다",
+            "sentence": "She snubbed him by walking past without a word."
+        },
+        {
+            "word": "snuff",
+            "translation": "끄다, 소등하다",
+            "sentence": "He snuffed out the candle with his fingers."
+        },
+        {
+            "word": "snuffle",
+            "translation": "코를 곯다",
+            "sentence": "The dog snuffled around the yard for a scent."
+        },
+        {
+            "word": "snug",
+            "translation": "편안한, 아늑한",
+            "sentence": "The blanket made the bed feel snug and warm."
+        },
+        {
+            "word": "soak",
+            "translation": "적시다, 흡수하다",
+            "sentence": "She soaked the clothes in soapy water."
+        },
+        {
+            "word": "soar",
+            "translation": "치솟다, 높이 날다",
+            "sentence": "The eagle soared high above the mountains."
+        },
+        {
+            "word": "sob",
+            "translation": "흐느끼다, 흐느낌",
+            "sentence": "She began to sob uncontrollably after the news."
+        },
+        {
+            "word": "sober",
+            "translation": "냉정한, 술을 마시지 않은",
+            "sentence": "He stayed sober to drive everyone home."
+        },
+        {
+            "word": "sobriety",
+            "translation": "냉정, 절제",
+            "sentence": "Her sobriety helped her make wise decisions."
+        },
+        {
+            "word": "sobriquet",
+            "translation": "별명, 애칭",
+            "sentence": "He earned the sobriquet 'The Lion' for his bravery."
+        },
+        {
+            "word": "sociable",
+            "translation": "사교적인, 사교를 좋아하는",
+            "sentence": "She’s very sociable and loves meeting new people."
+        },
+        {
+            "word": "socialite",
+            "translation": "사교계의 명사, 사교계의 인사",
+            "sentence": "The socialite hosted a grand party every month."
+        },
+        {
+            "word": "sociopath",
+            "translation": "사회병리학자, 사회병리학의",
+            "sentence": "The character in the film was a cold-blooded sociopath."
+        },
+        {
+            "word": "sodden",
+            "translation": "축축한, 흠뻑 젖은",
+            "sentence": "His clothes were sodden after the rain."
+        },
+        {
+            "word": "soft-spoken",
+            "translation": "말이 부드러운, 말이 조용한",
+            "sentence": "The soft-spoken teacher commanded respect."
+        },
+        {
+            "word": "solicit",
+            "translation": "간청하다, 요청하다",
+            "sentence": "They solicited donations for the charity."
+        },
+        {
+            "word": "solicitous",
+            "translation": "염려하는, 세심한",
+            "sentence": "She was solicitous about her friend’s health."
+        },
+        {
+            "word": "solicitude",
+            "translation": "염려, 세심함",
+            "sentence": "His solicitude for her well-being was touching."
+        },
+        {
+            "word": "solidify",
+            "translation": "굳어지다, 굳히다",
+            "sentence": "The mixture began to solidify in the cold."
+        },
+        {
+            "word": "soliloquy",
+            "translation": "혼잣말, 독백",
+            "sentence": "The actor delivered a powerful soliloquy on stage."
+        },
+        {
+            "word": "solipsism",
+            "translation": "자기 중심주의, 자아 중심주의",
+            "sentence": "His solipsism made him oblivious to others’ needs."
+        },
+        {
+            "word": "solitary",
+            "translation": "고독한, 혼자만의",
+            "sentence": "He enjoyed the solitary walk in the woods."
+        },
+        {
+            "word": "solitude",
+            "translation": "고독, 고독한 상태",
+            "sentence": "She sought solitude to clear her mind."
+        },
+        {
+            "word": "solstice",
+            "translation": "하지, 동지",
+            "sentence": "The summer solstice marks the longest day of the year."
+        },
+        {
+            "word": "soluble",
+            "translation": "용해되는, 해결될 수 있는",
+            "sentence": "The powder is soluble in warm water."
+        },
+        {
+            "word": "solvent",
+            "translation": "용해제, 파산하지 않은",
+            "sentence": "The company remained solvent despite the losses."
+        },
+        {
+            "word": "somber",
+            "translation": "어두운, 침울한",
+            "sentence": "The room had a somber atmosphere after the news."
+        },
+        {
+            "word": "somnolent",
+            "translation": "잠이 오게 하는, 졸리는",
+            "sentence": "The warm room made her feel somnolent."
+        },
+        {
+            "word": "sonata",
+            "translation": "소나타, 소나타의",
+            "sentence": "She played a beautiful sonata on the piano."
+        },
+        {
+            "word": "sonorous",
+            "translation": "울림이 있는, 메아리치는",
+            "sentence": "His sonorous voice filled the auditorium."
+        },
+        {
+            "word": "sophisticated",
+            "translation": "정교한, 세련된",
+            "sentence": "The device uses sophisticated technology."
+        },
+        {
+            "word": "soporific",
+            "translation": "잠이 오게 하는, 졸리는",
+            "sentence": "The lecture had a soporific effect on the students."
+        },
+        {
+            "word": "sordid",
+            "translation": "더러운, 비열한",
+            "sentence": "The sordid details of the scandal shocked everyone."
+        },
+        {
+            "word": "sorrowful",
+            "translation": "슬픈, 애통한",
+            "sentence": "Her sorrowful expression revealed her grief."
+        },
+        {
+            "word": "sortie",
+            "translation": "출격, 출격하다",
+            "sentence": "The squadron launched a sortie at dawn."
+        },
+        {
+            "word": "sot",
+            "translation": "술꾼, 술에 취한 사람",
+            "sentence": "The old sot stumbled out of the bar."
+        },
+        {
+            "word": "sound",
+            "translation": "건전한, 건강한",
+            "sentence": "He gave sound advice based on experience."
+        },
+        {
+            "word": "sounder",
+            "translation": "더 건전한, 더 건강한",
+            "sentence": "This plan is sounder than the last one."
+        },
+        {
+            "word": "soupçon",
+            "translation": "약간의, 조금의",
+            "sentence": "Add just a soupçon of salt to the dish."
+        },
+        {
+            "word": "sour",
+            "translation": "시큼한, 시든",
+            "sentence": "The milk had gone sour overnight."
+        },
+        {
+            "word": "sourpuss",
+            "translation": "심술궂은 사람, 심술궂은 태도",
+            "sentence": "Don’t be such a sourpuss about the party."
+        },
+        {
+            "word": "souse",
+            "translation": "술에 절이다, 술에 절인 것",
+            "sentence": "He soused the fish in a strong marinade."
+        },
+        {
+            "word": "southpaw",
+            "translation": "왼손잡이, 왼손잡이인 사람",
+            "sentence": "The southpaw pitcher surprised the batter."
+        },
+        {
+            "word": "sovereign",
+            "translation": "주권자, 주권 국가",
+            "sentence": "The sovereign addressed the nation on TV."
+        },
+        {
+            "word": "sow",
+            "translation": "심다, 파종하다",
+            "sentence": "They sow the seeds in early spring."
+        },
+        {
+            "word": "spacey",
+            "translation": "우주 공간의, 공상적인",
+            "sentence": "She felt spacey after staying up all night."
+        },
+        {
+            "word": "spacious",
+            "translation": "넓은, 광활한",
+            "sentence": "The spacious room could fit all the guests."
+        },
+        {
+            "word": "spangle",
+            "translation": "반짝이는 장식, 반짝이는 장식을 달다",
+            "sentence": "Her dress was spangled with sequins."
+        },
+        {
+            "word": "spaniel",
+            "translation": "스패니엘, 스패니엘의",
+            "sentence": "The spaniel wagged its tail happily."
+        },
+        {
+            "word": "spar",
+            "translation": "대결하다, 격돌하다",
+            "sentence": "They sparred playfully in the ring."
+        },
+        {
+            "word": "sparse",
+            "translation": "드문, 드문드문한",
+            "sentence": "The sparse crowd left many seats empty."
+        },
+        {
+            "word": "spartan",
+            "translation": "검소한, 검소한 생활의",
+            "sentence": "The room was furnished in a spartan style."
+        },
+        {
+            "word": "spat",
+            "translation": "다툼, 말다툼",
+            "sentence": "They had a brief spat over the bill."
+        },
+        {
+            "word": "spate",
+            "translation": "한꺼번에 쏟아짐, 한꺼번에 쏟아지는 것",
+            "sentence": "A spate of complaints followed the announcement."
+        },
+        {
+            "word": "spatial",
+            "translation": "공간적인, 공간의",
+            "sentence": "The artist played with spatial effects in her work."
+        },
+        {
+            "word": "spatula",
+            "translation": "주걱, 주걱 모양의 도구",
+            "sentence": "She flipped the pancake with a spatula."
+        },
+        {
+            "word": "spawn",
+            "translation": "산란, 산란하다",
+            "sentence": "The fish spawn in the shallow waters each year."
+        },
+        {
+            "word": "speak",
+            "translation": "말하다, 이야기하다",
+            "sentence": "He spoke confidently during the presentation."
+        },
+        {
+            "word": "spear",
+            "translation": "창, 창을 던지다",
+            "sentence": "The hunter speared the fish with precision."
+        },
+        {
+            "word": "specious",
+            "translation": "겉으로만 좋은, 그럴듯한",
+            "sentence": "His specious argument didn’t hold up in court."
+        },
+        {
+            "word": "spectator",
+            "translation": "관람자, 관중",
+            "sentence": "The spectators cheered as the team scored."
+        },
+        {
+            "word": "spectral",
+            "translation": "유령의, 유령 같은",
+            "sentence": "The spectral figure vanished into the mist."
+        },
+        {
+            "word": "spectrum",
+            "translation": "스펙트럼, 범위",
+            "sentence": "The colors spanned the entire spectrum."
+        },
+        {
+            "word": "speculate",
+            "translation": "추측하다, 투기하다",
+            "sentence": "They speculated about the outcome of the election."
+        },
+        {
+            "word": "speechless",
+            "translation": "말문이 막힌, 할 말을 잃은",
+            "sentence": "She was speechless after the surprise."
+        },
+        {
+            "word": "speck",
+            "translation": "조금, 작은 점",
+            "sentence": "A speck of dust landed on the lens."
+        },
+        {
+            "word": "speckle",
+            "translation": "점, 얼룩",
+            "sentence": "The bird’s feathers were speckled with white."
+        },
+        {
+            "word": "specimen",
+            "translation": "표본, 샘플",
+            "sentence": "The scientist examined the specimen closely."
+        },
+        {
+            "word": "spectacular",
+            "translation": "장관적인, 눈부신",
+            "sentence": "The fireworks display was absolutely spectacular."
+        },
+        {
+            "word": "speed",
+            "translation": "속도, 재빠름",
+            "sentence": "The car moved at an incredible speed."
+        },
+        {
+            "word": "spendthrift",
+            "translation": "낭비벽이 있는 사람, 낭비벽",
+            "sentence": "The spendthrift blew his fortune in a year."
+        },
+        {
+            "word": "sperm",
+            "translation": "정자, 정액",
+            "sentence": "The sperm count was tested in the lab."
+        },
+        {
+            "word": "sphere",
+            "translation": "구, 영역",
+            "sentence": "Her influence extends across a wide sphere."
+        },
+        {
+            "word": "spherical",
+            "translation": "구형의, 구의",
+            "sentence": "The planet is roughly spherical in shape."
+        },
+        {
+            "word": "sphinx",
+            "translation": "스핑크스, 신비로운 사람",
+            "sentence": "She remained a sphinx, revealing nothing."
+        },
+        {
+            "word": "spice",
+            "translation": "향신료, 흥미를 더하다",
+            "sentence": "A pinch of spice improved the flavor."
+        },
+        {
+            "word": "spick-and-span",
+            "translation": "새것 같은, 깨끗한",
+            "sentence": "The house was spick-and-span after cleaning."
+        },
+        {
+            "word": "spike",
+            "translation": "못, 뾰족한 것",
+            "sentence": "He drove a spike into the ground."
+        },
+        {
+            "word": "spiky",
+            "translation": "뾰족한, 못이 박힌",
+            "sentence": "Her spiky hair stood out in the crowd."
+        },
+        {
+            "word": "spill",
+            "translation": "엎지르다, 흘리다",
+            "sentence": "She spilled coffee all over the table."
+        },
+        {
+            "word": "spin",
+            "translation": "돌다, 회전하다",
+            "sentence": "The top began to spin faster and faster."
+        },
+        {
+            "word": "spinach",
+            "translation": "시금치, 시금치의",
+            "sentence": "She added spinach to the smoothie."
+        },
+        {
+            "word": "spindly",
+            "translation": "가느다란, 가늘고 긴",
+            "sentence": "The spindly legs of the chair wobbled."
+        },
+        {
+            "word": "spine",
+            "translation": "등뼈, 척추",
+            "sentence": "A shiver ran down her spine."
+        },
+        {
+            "word": "spineless",
+            "translation": "등뼈가 없는, 소심한",
+            "sentence": "He was too spineless to stand up for himself."
+        },
+        {
+            "word": "spiral",
+            "translation": "나선형의, 나선형으로 움직이다",
+            "sentence": "The staircase twisted in a tight spiral."
+        },
+        {
+            "word": "spire",
+            "translation": "뾰족탑, 뾰족한 것",
+            "sentence": "The church’s spire towered over the town."
+        },
+        {
+            "word": "spirit",
+            "translation": "정신, 영혼",
+            "sentence": "Her spirit remained strong despite the hardship."
+        },
+        {
+            "word": "spiritual",
+            "translation": "영적인, 정신적인",
+            "sentence": "He sought a deeper spiritual connection."
+        },
+        {
+            "word": "spit",
+            "translation": "침, 침을 뱉다",
+            "sentence": "He spit out the bad-tasting food."
+        },
+        {
+            "word": "spite",
+            "translation": "악의, 심술",
+            "sentence": "She did it out of spite, not kindness."
+        },
+        {
+            "word": "spiteful",
+            "translation": "악의적인, 심술궂은",
+            "sentence": "Her spiteful comment ruined the mood."
+        },
+        {
+            "word": "splash",
+            "translation": "철벅철벅 소리, 튀기다",
+            "sentence": "The kids splashed water in the pool."
+        },
+        {
+            "word": "splatter",
+            "translation": "튀기다, 흩뿌리다",
+            "sentence": "Paint splattered across the floor."
+        },
+        {
+            "word": "spleen",
+            "translation": "비장, 화",
+            "sentence": "He vented his spleen in an angry rant."
+        },
+        {
+            "word": "splendid",
+            "translation": "아름다운, 훌륭한",
+            "sentence": "The sunset was a splendid sight."
+        },
+        {
+            "word": "splendor",
+            "translation": "화려함, 장엄함",
+            "sentence": "The palace was known for its splendor."
+        },
+        {
+            "word": "splinter",
+            "translation": "조각, 쪼개지다",
+            "sentence": "A splinter of wood stuck in her finger."
+        },
+        {
+            "word": "split",
+            "translation": "쪼개다, 나누다",
+            "sentence": "They split the profits evenly."
+        },
+        {
+            "word": "spoil",
+            "translation": "망치다, 망가뜨리다",
+            "sentence": "The rain spoiled their picnic plans."
+        },
+        {
+            "word": "spoilsport",
+            "translation": "즐거움을 망치는 사람, 흥을 깨는 사람",
+            "sentence": "Don’t be a spoilsport and ruin the fun."
+        },
+        {
+            "word": "spoke",
+            "translation": "바퀴살, 말했다",
+            "sentence": "He spoke softly so no one could hear."
+        },
+        {
+            "word": "spoken",
+            "translation": "말해진, 이야기된",
+            "sentence": "Her spoken words carried great weight."
+        },
+        {
+            "word": "spoliation",
+            "translation": "약탈, 파괴",
+            "sentence": "The spoliation of the village left it in ruins."
+        },
+        {
+            "word": "sponge",
+            "translation": "스펀지, 스펀지로 닦다",
+            "sentence": "She used a sponge to clean the dishes."
+        },
+        {
+            "word": "spontaneous",
+            "translation": "자발적인, 즉흥적인",
+            "sentence": "Their spontaneous trip was a great success."
+        },
+        {
+            "word": "spool",
+            "translation": "실감개, 감다",
+            "sentence": "She wound the thread onto a spool."
+        },
+        {
+            "word": "sporadic",
+            "translation": "산발적인, 간헐적인",
+            "sentence": "The rain came in sporadic bursts."
+        },
+        {
+            "word": "sport",
+            "translation": "스포츠, 운동",
+            "sentence": "Soccer is his favorite sport."
+        },
+        {
+            "word": "sportive",
+            "translation": "장난스러운, 유쾌한",
+            "sentence": "The puppy’s sportive behavior amused them."
+        },
+        {
+            "word": "spot",
+            "translation": "점, 위치",
+            "sentence": "She found a quiet spot to read."
+        },
+        {
+            "word": "spout",
+            "translation": "내뿜다, 분출하다",
+            "sentence": "The whale spouted water into the air."
+        },
+        {
+            "word": "sprain",
+            "translation": "삐다, 삔 것",
+            "sentence": "He sprained his ankle during the game."
+        },
+        {
+            "word": "spray",
+            "translation": "분무, 분무하다",
+            "sentence": "She sprayed perfume on her wrists."
+        },
+        {
+            "word": "spread",
+            "translation": "퍼지다, 펼치다",
+            "sentence": "The news spread quickly through the town."
+        },
+        {
+            "word": "spree",
+            "translation": "즐거운 시간, 흥청거리며 놀기",
+            "sentence": "They went on a shopping spree downtown."
+        },
+        {
+            "word": "sprightly",
+            "translation": "활기찬, 명랑한",
+            "sentence": "The sprightly old man danced with joy."
+        },
+        {
+            "word": "spring",
+            "translation": "봄, 튀어 오르다",
+            "sentence": "The cat sprang onto the windowsill."
+        },
+        {
+            "word": "springy",
+            "translation": "탄력적인, 탄력 있는",
+            "sentence": "The springy mattress was very comfortable."
+        },
+        {
+            "word": "sprinkle",
+            "translation": "뿌리다, 조금씩 뿌리다",
+            "sentence": "She sprinkled sugar over the cake."
+        },
+        {
+            "word": "sprite",
+            "translation": "요정, 작은 요정",
+            "sentence": "The forest was said to be home to sprites."
+        },
+        {
+            "word": "sprout",
+            "translation": "싹트다, 새싹",
+            "sentence": "Tiny plants began to sprout in the garden."
+        },
+        {
+            "word": "spruce",
+            "translation": "말쑥한, 말쑥하게 하다",
+            "sentence": "He spruced up for the big event."
+        },
+        {
+            "word": "spur",
+            "translation": "박차를 가하다, 자극하다",
+            "sentence": "The deadline spurred her to work faster."
+        },
+        {
+            "word": "spurious",
+            "translation": "가짜의, 위조의",
+            "sentence": "The spurious document fooled no one."
+        },
+        {
+            "word": "spy",
+            "translation": "스파이, 염탐하다",
+            "sentence": "She spied on her neighbors through the window."
+        },
+        {
+            "word": "squabble",
+            "translation": "다투다, 말다툼",
+            "sentence": "The siblings squabbled over the remote."
+        },
+        {
+            "word": "squalid",
+            "translation": "불결한, 비참한",
+            "sentence": "They lived in squalid conditions with no heat."
+        },
+        {
+            "word": "squall",
+            "translation": "소나기, 소나기처럼 내리다",
+            "sentence": "A sudden squall drenched the hikers."
+        },
+        {
+            "word": "squander",
+            "translation": "낭비하다, 헤프게 쓰다",
+            "sentence": "He squandered his inheritance on luxuries."
+        },
+        {
+            "word": "square",
+            "translation": "네모난, 정사각형",
+            "sentence": "The room was a perfect square."
+        },
+        {
+            "word": "squash",
+            "translation": "짓누르다, 으깨다",
+            "sentence": "She squashed the bug with her shoe."
+        },
+        {
+            "word": "squat",
+            "translation": "웅크리다, 웅크린 자세",
+            "sentence": "He squatted down to tie his shoe."
+        },
+        {
+            "word": "squawk",
+            "translation": "낑낑거리다, 불평하다",
+            "sentence": "The parrot squawked loudly in its cage."
+        },
+        {
+            "word": "squeak",
+            "translation": "삐걱거리다, 삐걱거리는 소리",
+            "sentence": "The door squeaked as it opened."
+        },
+        {
+            "word": "squeal",
+            "translation": "비명을 지르다, 비명",
+            "sentence": "The child squealed with delight on the ride."
+        },
+        {
+            "word": "squeeze",
+            "translation": "짜다, 압박하다",
+            "sentence": "She squeezed the lemon over the fish."
+        },
+        {
+            "word": "squid",
+            "translation": "오징어, 오징어의",
+            "sentence": "The squid swam gracefully in the tank."
+        },
+        {
+            "word": "squint",
+            "translation": "사시, 사시로 보다",
+            "sentence": "He squinted in the bright sunlight."
+        },
+        {
+            "word": "squire",
+            "translation": "시골 지주, 시골 지주의",
+            "sentence": "The squire owned vast lands in the countryside."
+        },
+        {
+            "word": "squirrel",
+            "translation": "다람쥐, 다람쥐의",
+            "sentence": "A squirrel darted across the yard."
+        },
+        {
+            "word": "stab",
+            "translation": "찌르다, 찌름",
+            "sentence": "He stabbed the knife into the wood."
+        },
+        {
+            "word": "stability",
+            "translation": "안정, 안정성",
+            "sentence": "The new policy brought stability to the market."
+        },
+        {
+            "word": "stabilize",
+            "translation": "안정시키다, 안정되다",
+            "sentence": "They worked to stabilize the shaky structure."
+        },
+        {
+            "word": "stable",
+            "translation": "마구간, 안정된",
+            "sentence": "The horses were kept in a clean stable."
+        },
+        {
+            "word": "stack",
+            "translation": "쌓다, 더미",
+            "sentence": "She stacked the books neatly on the shelf."
+        },
+        {
+            "word": "stadium",
+            "translation": "경기장, 스타디움",
+            "sentence": "The stadium was packed for the big game."
+        },
+        {
+            "word": "staff",
+            "translation": "직원, 지팡이",
+            "sentence": "The staff worked late to finish the project."
+        },
+        {
+            "word": "stag",
+            "translation": "수컷 사슴, 수컷 사슴의",
+            "sentence": "A majestic stag stood in the clearing."
+        },
+        {
+            "word": "stage",
+            "translation": "무대, 단계",
+            "sentence": "The play was performed on a small stage."
+        },
+        {
+            "word": "stagger",
+            "translation": "휘청거리다, 어지럽다",
+            "sentence": "He staggered home after a long night out."
+        },
+        {
+            "word": "stagnant",
+            "translation": "고인, 침체된",
+            "sentence": "The stagnant water smelled foul."
+        },
+        {
+            "word": "stain",
+            "translation": "얼룩, 더럽히다",
+            "sentence": "The wine left a stain on the tablecloth."
+        },
+        {
+            "word": "stainless",
+            "translation": "얼룩이 없는, 부패하지 않은",
+            "sentence": "The stainless steel sink shone brightly."
+        },
+        {
+            "word": "staircase",
+            "translation": "계단, 계단의",
+            "sentence": "She climbed the steep staircase to the attic."
+        },
+        {
+            "word": "stake",
+            "translation": "말뚝, 내기",
+            "sentence": "He drove a stake into the ground to mark it."
+        },
+        {
+            "word": "stalemate",
+            "translation": "평행, 평행 상태",
+            "sentence": "The negotiations reached a stalemate."
+        },
+        {
+            "word": "stalk",
+            "translation": "줄기, 따라다니다",
+            "sentence": "The cat stalked the bird silently."
+        },
+        {
+            "word": "stall",
+            "translation": "멈추다, 주춤거리다",
+            "sentence": "The car stalled in the middle of the road."
+        },
+        {
+            "word": "stalwart",
+            "translation": "강인한, 튼튼한",
+            "sentence": "He was a stalwart supporter of the cause."
+        },
+        {
+            "word": "stamina",
+            "translation": "체력, 지구력",
+            "sentence": "Her stamina allowed her to run for miles."
+        },
+        {
+            "word": "stammer",
+            "translation": "더듬거리다, 더듬거리며 말하다",
+            "sentence": "He stammered nervously during the speech."
+        },
+        {
+            "word": "stamp",
+            "translation": "도장, 도장을 찍다",
+            "sentence": "She stamped the envelope before mailing it."
+        },
+        {
+            "word": "stance",
+            "translation": "태도, 자세",
+            "sentence": "His stance on the issue was clear."
+        },
+        {
+            "word": "stanch",
+            "translation": "멈추다, 멈추게 하다",
+            "sentence": "They worked to stanch the flow of blood."
+        },
+        {
+            "word": "stand",
+            "translation": "서다, 위치하다",
+            "sentence": "She stood tall despite the criticism."
+        },
+        {
+            "word": "standard",
+            "translation": "표준, 기준",
+            "sentence": "The work met the highest standard."
+        },
+        {
+            "word": "stanza",
+            "translation": "연, 연의",
+            "sentence": "The poem’s second stanza was the most moving."
+        },
+        {
+            "word": "staple",
+            "translation": "주요한, 주요 제품",
+            "sentence": "Rice is a staple in their diet."
+        },
+        {
+            "word": "stapler",
+            "translation": "스테이플러, 스테이플러의",
+            "sentence": "She used a stapler to fasten the papers."
+        },
+        {
+            "word": "starboard",
+            "translation": "우현, 우현의",
+            "sentence": "The ship turned to starboard to avoid the rocks."
+        },
+        {
+            "word": "starch",
+            "translation": "전분, 전분의",
+            "sentence": "She added starch to stiffen the fabric."
+        },
+        {
+            "word": "starchy",
+            "translation": "전분이 많은, 딱딱한",
+            "sentence": "The starchy potatoes were perfect for mashing."
+        },
+        {
+            "word": "stardom",
+            "translation": "명예, 스타의 지위",
+            "sentence": "She rose to stardom after her first film."
+        },
+        {
+            "word": "stark",
+            "translation": "단호한, 극명한",
+            "sentence": "The stark contrast between them was obvious."
+        },
+        {
+            "word": "starry",
+            "translation": "별이 많은, 별이 가득한",
+            "sentence": "The starry sky was breathtakingly beautiful."
         }
+
 
     ]
 }
